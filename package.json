@@ -1,0 +1,45 @@
+{
+  "name": "classical-yoga-atlas",
+  "version": "0.1.0",
+  "private": true,
+  "type": "module",
+  "engines": {
+    "node": ">=22.18.0"
+  },
+  "scripts": {
+    "dev": "vite --configLoader native --host 127.0.0.1",
+    "validate": "node --experimental-strip-types scripts/validate.ts",
+    "build": "npm run validate && tsc -b && vite build --configLoader native",
+    "preview": "vite preview --configLoader native --host 127.0.0.1",
+    "test": "vitest run --configLoader native",
+    "format": "prettier --write .",
+    "format:check": "prettier --check .",
+    "deploy": "npm run build && wrangler deploy",
+    "verify:site": "node scripts/verify-deployment.mjs"
+  },
+  "dependencies": {
+    "@react-three/drei": "^9.122.0",
+    "@react-three/fiber": "^8.18.0",
+    "@tailwindcss/vite": "^4.1.0",
+    "lucide-react": "^0.468.0",
+    "react": "^18.3.1",
+    "react-dom": "^18.3.1",
+    "react-router-dom": "^7.18.3",
+    "tailwindcss": "^4.1.0",
+    "three": "^0.170.0",
+    "zod": "^3.24.0",
+    "zustand": "^5.0.0"
+  },
+  "devDependencies": {
+    "@types/node": "^22.10.0",
+    "@types/react": "^18.3.0",
+    "@types/react-dom": "^18.3.0",
+    "@types/three": "^0.170.0",
+    "@vitejs/plugin-react": "^4.4.0",
+    "prettier": "^3.5.0",
+    "typescript": "~5.7.3",
+    "vite": "^6.3.0",
+    "vitest": "^3.0.0",
+    "wrangler": "^4.129.1"
+  }
+}

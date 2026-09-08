@@ -1,0 +1,884 @@
+{
+  "schemaVersion": 1,
+  "id": "siddhasana",
+  "sanskrit": "सिद्धासन",
+  "iast": "Siddhāsana",
+  "translit": "siddhasana",
+  "english": "Accomplished seat",
+  "aliases": [],
+  "source": [
+    {
+      "text": "Hatha Yoga Pradipika",
+      "chapter": "1",
+      "verse": "37–45",
+      "edition": "Pancham Sinh, Panini Office, Allahabad, 1914; Sacred Texts digital edition",
+      "url": "https://sacred-texts.com/hin/hyp/hyp03.htm",
+      "provenance": "attested"
+    }
+  ],
+  "provenance": "attested",
+  "tier": "classical",
+  "family": "meditative",
+  "difficulty": 3,
+  "traditionalClaims": [
+    "The text calls it the “opener of the door of salvation” (HYP 1.37, Sinh 1914). This is a spiritual claim."
+  ],
+  "modernNotes": [
+    "The figure is a schematic reconstruction, not an anatomical simulation. Exact joint angles, contact, entry/exit movements, timing and difficulty have not been historically or clinically verified."
+  ],
+  "contraindications": [],
+  "breath": "No verified phase-by-phase breathing prescription is encoded. “Free” is an editorial display marker.",
+  "drishti": "Between the eyebrows — HYP 1.37 (Sinh 1914).",
+  "counterpose": [],
+  "relatedAsanas": ["svastikasana", "padmasana"],
+  "keyframes": [
+    {
+      "id": "neutral-1",
+      "phase": "neutral",
+      "duration": 1.5,
+      "breath": "free",
+      "instruction": "Editorial supported starting position. Colors refer to the model’s left and right.",
+      "easing": "easeInOut",
+      "interpolation": "limb",
+      "pose": {
+        "bones": {
+          "mixamorigHips": [0, 0, 0, 1],
+          "mixamorigSpine": [0, 0, 0, 1],
+          "mixamorigSpine1": [0, 0, 0, 1],
+          "mixamorigSpine2": [0, 0, 0, 1],
+          "mixamorigNeck": [0, 0, 0, 1],
+          "mixamorigHead": [0, 0, 0, 1],
+          "mixamorigLeftShoulder": [0, 0, 0, 1],
+          "mixamorigLeftArm": [-0.15418370583706428, 0, 0.2530732895024574, 0.955081826334663],
+          "mixamorigLeftForeArm": [
+            -0.07886334639610959, 6.938893903907228e-18, -0.41146252068510475, 0.9080083516502847
+          ],
+          "mixamorigLeftHand": [
+            0.1743631546062225, -0.8305068471839583, 0.5259969100369987, -0.05641912555027391
+          ],
+          "mixamorigRightShoulder": [0, 0, 0, 1],
+          "mixamorigRightArm": [-0.15418370583706428, 0, -0.2530732895024574, 0.955081826334663],
+          "mixamorigRightForeArm": [
+            -0.07886334639610959, -6.938893903907228e-18, 0.41146252068510475, 0.9080083516502847
+          ],
+          "mixamorigRightHand": [
+            -0.1743631546062224, -0.8305068471839583, 0.5259969100369987, 0.05641912555027398
+          ],
+          "mixamorigLeftUpLeg": [-0.6974061543472343, 0, 0.004391435049035038, 0.716662662050153],
+          "mixamorigLeftLeg": [0.015528178598441715, 0, -0.0003744386450496338, 0.9998793604556082],
+          "mixamorigLeftFoot": [
+            -0.029142516489475696, 0.00305152207186615, -0.0027786568796890738, 0.9995667466515934
+          ],
+          "mixamorigLeftToeBase": [0, 0, 0, 1],
+          "mixamorigRightUpLeg": [-0.6974061543472343, 0, -0.004391435049035038, 0.716662662050153],
+          "mixamorigRightLeg": [0.015528178598441715, 0, 0.0003744386450496338, 0.9998793604556082],
+          "mixamorigRightFoot": [
+            -0.029142516489475696, -0.00305152207186615, 0.0027786568796890738, 0.9995667466515934
+          ],
+          "mixamorigRightToeBase": [0, 0, 0, 1]
+        },
+        "root": {
+          "position": [0, 0.17, 0],
+          "rotation": [0, 0, 0, 1]
+        }
+      },
+      "jointsUnderLoad": [],
+      "provenance": "unverified"
+    },
+    {
+      "id": "prep-2",
+      "phase": "prep",
+      "duration": 3,
+      "breath": "free",
+      "instruction": "Left leg lifts and opens; the opposite leg stays in place.",
+      "easing": "easeInOut",
+      "interpolation": "limb",
+      "pose": {
+        "bones": {
+          "mixamorigHips": [0, 0, 0, 1],
+          "mixamorigSpine": [0, 0, 0, 1],
+          "mixamorigSpine1": [0, 0, 0, 1],
+          "mixamorigSpine2": [0, 0, 0, 1],
+          "mixamorigNeck": [0, 0, 0, 1],
+          "mixamorigHead": [0, 0, 0, 1],
+          "mixamorigLeftShoulder": [0, 0, 0, 1],
+          "mixamorigLeftArm": [-0.15418370583706428, 0, 0.2530732895024574, 0.955081826334663],
+          "mixamorigLeftForeArm": [
+            -0.07886334639610959, 6.938893903907228e-18, -0.41146252068510475, 0.9080083516502847
+          ],
+          "mixamorigLeftHand": [
+            0.1743631546062225, -0.8305068471839583, 0.5259969100369987, -0.05641912555027391
+          ],
+          "mixamorigRightShoulder": [0, 0, 0, 1],
+          "mixamorigRightArm": [-0.15418370583706428, 0, -0.2530732895024574, 0.955081826334663],
+          "mixamorigRightForeArm": [
+            -0.07886334639610959, -6.938893903907228e-18, 0.41146252068510475, 0.9080083516502847
+          ],
+          "mixamorigRightHand": [
+            -0.1743631546062224, -0.8305068471839583, 0.5259969100369987, 0.05641912555027398
+          ],
+          "mixamorigLeftUpLeg": [
+            -0.6121887565339196, 0.341707591819785, 0.3549975262121291, 0.6184153979724676
+          ],
+          "mixamorigLeftLeg": [
+            -0.30747630890864724, 0.011987057783068866, -0.7644477156244089, 0.5665106530174366
+          ],
+          "mixamorigLeftFoot": [
+            -0.029142516489475696, 0.00305152207186615, -0.0027786568796890738, 0.9995667466515934
+          ],
+          "mixamorigLeftToeBase": [0, 0, 0, 1],
+          "mixamorigRightUpLeg": [-0.6974061543472343, 0, -0.004391435049035038, 0.716662662050153],
+          "mixamorigRightLeg": [0.015528178598441715, 0, 0.0003744386450496338, 0.9998793604556082],
+          "mixamorigRightFoot": [
+            -0.029142516489475696, -0.00305152207186615, 0.0027786568796890738, 0.9995667466515934
+          ],
+          "mixamorigRightToeBase": [0, 0, 0, 1]
+        },
+        "root": {
+          "position": [0, 0.17, 0],
+          "rotation": [0, 0, 0, 1]
+        }
+      },
+      "jointsUnderLoad": [],
+      "provenance": "unverified"
+    },
+    {
+      "id": "transition-3",
+      "phase": "transition",
+      "duration": 3,
+      "breath": "free",
+      "instruction": "Left foot settles into the proposed placement.",
+      "easing": "easeInOut",
+      "interpolation": "limb",
+      "pose": {
+        "bones": {
+          "mixamorigHips": [0, 0, 0, 1],
+          "mixamorigSpine": [0, 0, 0, 1],
+          "mixamorigSpine1": [0, 0, 0, 1],
+          "mixamorigSpine2": [0, 0, 0, 1],
+          "mixamorigNeck": [0, 0, 0, 1],
+          "mixamorigHead": [0, 0, 0, 1],
+          "mixamorigLeftShoulder": [0, 0, 0, 1],
+          "mixamorigLeftArm": [-0.15418370583706428, 0, 0.2530732895024574, 0.955081826334663],
+          "mixamorigLeftForeArm": [
+            -0.07886334639610959, 6.938893903907228e-18, -0.41146252068510475, 0.9080083516502847
+          ],
+          "mixamorigLeftHand": [
+            0.1743631546062225, -0.8305068471839583, 0.5259969100369987, -0.05641912555027391
+          ],
+          "mixamorigRightShoulder": [0, 0, 0, 1],
+          "mixamorigRightArm": [-0.15418370583706428, 0, -0.2530732895024574, 0.955081826334663],
+          "mixamorigRightForeArm": [
+            -0.07886334639610959, -6.938893903907228e-18, 0.41146252068510475, 0.9080083516502847
+          ],
+          "mixamorigRightHand": [
+            -0.1743631546062224, -0.8305068471839583, 0.5259969100369987, 0.05641912555027398
+          ],
+          "mixamorigLeftUpLeg": [
+            -0.6931361773774796, 0.06992282637705205, 0.07847466554708635, 0.7131022120490531
+          ],
+          "mixamorigLeftLeg": [
+            -0.06527357890396435, 0.02531928374676562, 0.974886321945044, -0.21141180915947655
+          ],
+          "mixamorigLeftFoot": [
+            -0.6507294601550415, -0.016807386206651093, -0.6707123027162492, -0.35554702704465874
+          ],
+          "mixamorigLeftToeBase": [0, 0, 0, 1],
+          "mixamorigRightUpLeg": [-0.6974061543472343, 0, -0.004391435049035038, 0.716662662050153],
+          "mixamorigRightLeg": [0.015528178598441715, 0, 0.0003744386450496338, 0.9998793604556082],
+          "mixamorigRightFoot": [
+            -0.029142516489475696, -0.00305152207186615, 0.0027786568796890738, 0.9995667466515934
+          ],
+          "mixamorigRightToeBase": [0, 0, 0, 1]
+        },
+        "root": {
+          "position": [0, 0.17, 0],
+          "rotation": [0, 0, 0, 1]
+        }
+      },
+      "jointsUnderLoad": [],
+      "provenance": "unverified"
+    },
+    {
+      "id": "transition-4",
+      "phase": "transition",
+      "duration": 3,
+      "breath": "free",
+      "instruction": "Right leg lifts and opens; the opposite leg stays in place.",
+      "easing": "easeInOut",
+      "interpolation": "limb",
+      "pose": {
+        "bones": {
+          "mixamorigHips": [0, 0, 0, 1],
+          "mixamorigSpine": [0, 0, 0, 1],
+          "mixamorigSpine1": [0, 0, 0, 1],
+          "mixamorigSpine2": [0, 0, 0, 1],
+          "mixamorigNeck": [0, 0, 0, 1],
+          "mixamorigHead": [0, 0, 0, 1],
+          "mixamorigLeftShoulder": [0, 0, 0, 1],
+          "mixamorigLeftArm": [-0.15418370583706428, 0, 0.2530732895024574, 0.955081826334663],
+          "mixamorigLeftForeArm": [
+            -0.07886334639610959, 6.938893903907228e-18, -0.41146252068510475, 0.9080083516502847
+          ],
+          "mixamorigLeftHand": [
+            0.1743631546062225, -0.8305068471839583, 0.5259969100369987, -0.05641912555027391
+          ],
+          "mixamorigRightShoulder": [0, 0, 0, 1],
+          "mixamorigRightArm": [-0.15418370583706428, 0, -0.2530732895024574, 0.955081826334663],
+          "mixamorigRightForeArm": [
+            -0.07886334639610959, -6.938893903907228e-18, 0.41146252068510475, 0.9080083516502847
+          ],
+          "mixamorigRightHand": [
+            -0.1743631546062224, -0.8305068471839583, 0.5259969100369987, 0.05641912555027398
+          ],
+          "mixamorigLeftUpLeg": [
+            -0.6931361773774796, 0.06992282637705205, 0.07847466554708635, 0.7131022120490531
+          ],
+          "mixamorigLeftLeg": [
+            -0.06527357890396435, 0.02531928374676562, 0.974886321945044, -0.21141180915947655
+          ],
+          "mixamorigLeftFoot": [
+            -0.6507294601550415, -0.016807386206651093, -0.6707123027162492, -0.35554702704465874
+          ],
+          "mixamorigLeftToeBase": [0, 0, 0, 1],
+          "mixamorigRightUpLeg": [
+            -0.6634685636017541, -0.2974317454355646, -0.3098220516399802, 0.6126615037987716
+          ],
+          "mixamorigRightLeg": [
+            -0.3871125599569297, -0.010207352384273956, 0.6479298913080738, 0.6559165585883645
+          ],
+          "mixamorigRightFoot": [
+            -0.029142516489475696, -0.00305152207186615, 0.0027786568796890738, 0.9995667466515934
+          ],
+          "mixamorigRightToeBase": [0, 0, 0, 1]
+        },
+        "root": {
+          "position": [0, 0.17, 0],
+          "rotation": [0, 0, 0, 1]
+        }
+      },
+      "jointsUnderLoad": [],
+      "provenance": "unverified"
+    },
+    {
+      "id": "transition-5",
+      "phase": "transition",
+      "duration": 3,
+      "breath": "free",
+      "instruction": "Right foot settles into the proposed placement.",
+      "easing": "easeInOut",
+      "interpolation": "limb",
+      "pose": {
+        "bones": {
+          "mixamorigHips": [0, 0, 0, 1],
+          "mixamorigSpine": [0, 0, 0, 1],
+          "mixamorigSpine1": [0, 0, 0, 1],
+          "mixamorigSpine2": [0, 0, 0, 1],
+          "mixamorigNeck": [0, 0, 0, 1],
+          "mixamorigHead": [0, 0, 0, 1],
+          "mixamorigLeftShoulder": [0, 0, 0, 1],
+          "mixamorigLeftArm": [-0.15418370583706428, 0, 0.2530732895024574, 0.955081826334663],
+          "mixamorigLeftForeArm": [
+            -0.07886334639610959, 6.938893903907228e-18, -0.41146252068510475, 0.9080083516502847
+          ],
+          "mixamorigLeftHand": [
+            0.1743631546062225, -0.8305068471839583, 0.5259969100369987, -0.05641912555027391
+          ],
+          "mixamorigRightShoulder": [0, 0, 0, 1],
+          "mixamorigRightArm": [-0.15418370583706428, 0, -0.2530732895024574, 0.955081826334663],
+          "mixamorigRightForeArm": [
+            -0.07886334639610959, -6.938893903907228e-18, 0.41146252068510475, 0.9080083516502847
+          ],
+          "mixamorigRightHand": [
+            -0.1743631546062224, -0.8305068471839583, 0.5259969100369987, 0.05641912555027398
+          ],
+          "mixamorigLeftUpLeg": [
+            -0.6931361773774796, 0.06992282637705205, 0.07847466554708635, 0.7131022120490531
+          ],
+          "mixamorigLeftLeg": [
+            -0.06527357890396435, 0.02531928374676562, 0.974886321945044, -0.21141180915947655
+          ],
+          "mixamorigLeftFoot": [
+            -0.6507294601550415, -0.016807386206651093, -0.6707123027162492, -0.35554702704465874
+          ],
+          "mixamorigLeftToeBase": [0, 0, 0, 1],
+          "mixamorigRightUpLeg": [
+            -0.6752495135354085, -0.11492006734581052, -0.12234511444407511, 0.7182361349605676
+          ],
+          "mixamorigRightLeg": [
+            -0.4845009643306512, -0.01316533919308871, 0.8360500856977571, 0.2571103724305441
+          ],
+          "mixamorigRightFoot": [
+            -0.9389644487189313, 0.006153818935606403, 0.17369540502093786, -0.29688011187864016
+          ],
+          "mixamorigRightToeBase": [0, 0, 0, 1]
+        },
+        "root": {
+          "position": [0, 0.17, 0],
+          "rotation": [0, 0, 0, 1]
+        }
+      },
+      "jointsUnderLoad": [],
+      "provenance": "unverified"
+    },
+    {
+      "id": "transition-6",
+      "phase": "transition",
+      "duration": 3,
+      "breath": "free",
+      "instruction": "The hands move into position before the final trunk adjustment.",
+      "easing": "easeInOut",
+      "interpolation": "limb",
+      "pose": {
+        "bones": {
+          "mixamorigHips": [0, 0, 0, 1],
+          "mixamorigSpine": [0, 0, 0, 1],
+          "mixamorigSpine1": [0, 0, 0, 1],
+          "mixamorigSpine2": [0, 0, 0, 1],
+          "mixamorigNeck": [0, 0, 0, 1],
+          "mixamorigHead": [0, 0, 0, 1],
+          "mixamorigLeftShoulder": [0, 0, 0, 1],
+          "mixamorigLeftArm": [
+            -0.3379869333915517, -0.09517467349928804, -0.03479055011121575, 0.9356795562604956
+          ],
+          "mixamorigLeftForeArm": [
+            -0.006542555283165955, 0.0015111958020939402, -0.016735757986021327, 0.9998373996116808
+          ],
+          "mixamorigLeftHand": [
+            0.10659755021038167, -0.9017633882527357, 0.41752490365050554, 0.03365573840710258
+          ],
+          "mixamorigRightShoulder": [0, 0, 0, 1],
+          "mixamorigRightArm": [
+            -0.28670587836106715, 0.05300426862063355, -0.14226007838972413, 0.9459135039303278
+          ],
+          "mixamorigRightForeArm": [
+            -0.07969380660105063, -0.019578845397494216, 0.19037055991838675, 0.9782763494630213
+          ],
+          "mixamorigRightHand": [
+            -0.10606066377482556, -0.9045252552976436, 0.4115928256340998, -0.03430078738037548
+          ],
+          "mixamorigLeftUpLeg": [
+            -0.6931361773774796, 0.06992282637705205, 0.07847466554708635, 0.7131022120490531
+          ],
+          "mixamorigLeftLeg": [
+            -0.06527357890396435, 0.02531928374676562, 0.974886321945044, -0.21141180915947655
+          ],
+          "mixamorigLeftFoot": [
+            -0.6507294601550415, -0.016807386206651093, -0.6707123027162492, -0.35554702704465874
+          ],
+          "mixamorigLeftToeBase": [0, 0, 0, 1],
+          "mixamorigRightUpLeg": [
+            -0.6752495135354085, -0.11492006734581052, -0.12234511444407511, 0.7182361349605676
+          ],
+          "mixamorigRightLeg": [
+            -0.4845009643306512, -0.01316533919308871, 0.8360500856977571, 0.2571103724305441
+          ],
+          "mixamorigRightFoot": [
+            -0.9389644487189313, 0.006153818935606403, 0.17369540502093786, -0.29688011187864016
+          ],
+          "mixamorigRightToeBase": [0, 0, 0, 1]
+        },
+        "root": {
+          "position": [0, 0.17, 0],
+          "rotation": [0, 0, 0, 1]
+        }
+      },
+      "jointsUnderLoad": [],
+      "provenance": "unverified"
+    },
+    {
+      "id": "final-7",
+      "phase": "final",
+      "duration": 4,
+      "breath": "free",
+      "instruction": "Observe the proposed heel arrangement and lowered chin.",
+      "easing": "easeInOut",
+      "interpolation": "limb",
+      "pose": {
+        "bones": {
+          "mixamorigHips": [0, 0, 0, 1],
+          "mixamorigSpine": [0, 0, 0, 1],
+          "mixamorigSpine1": [0, 0, 0, 1],
+          "mixamorigSpine2": [0, 0, 0, 1],
+          "mixamorigNeck": [0.15643446504023087, 0, 0, 0.9876883405951378],
+          "mixamorigHead": [0, 0, 0, 1],
+          "mixamorigLeftShoulder": [0, 0, 0, 1],
+          "mixamorigLeftArm": [
+            -0.3379869333915516, -0.09517467349928804, -0.03479055011121569, 0.9356795562604957
+          ],
+          "mixamorigLeftForeArm": [
+            -0.006542555283166432, 0.0015111958020941688, -0.016735757986021525, 0.9998373996116808
+          ],
+          "mixamorigLeftHand": [
+            0.10659755021038168, -0.9017633882527357, 0.4175249036505051, 0.03365573840710223
+          ],
+          "mixamorigRightShoulder": [0, 0, 0, 1],
+          "mixamorigRightArm": [
+            -0.28670587836106715, 0.053004268620633566, -0.14226007838972418, 0.9459135039303278
+          ],
+          "mixamorigRightForeArm": [
+            -0.07969380660105065, -0.01957884539749417, 0.190370559918387, 0.9782763494630212
+          ],
+          "mixamorigRightHand": [
+            -0.10606066377482574, -0.9045252552976436, 0.4115928256340998, -0.034300787380375446
+          ],
+          "mixamorigLeftUpLeg": [
+            -0.6931361773774795, 0.06992282637705265, 0.07847466554708699, 0.7131022120490532
+          ],
+          "mixamorigLeftLeg": [
+            -0.06527357890396329, 0.02531928374676584, 0.9748863219450443, -0.21141180915947563
+          ],
+          "mixamorigLeftFoot": [
+            -0.6507294601550422, -0.016807386206651287, -0.6707123027162487, -0.3555470270446583
+          ],
+          "mixamorigLeftToeBase": [0, 0, 0, 1],
+          "mixamorigRightUpLeg": [
+            -0.6752495135354085, -0.11492006734581049, -0.12234511444407506, 0.7182361349605677
+          ],
+          "mixamorigRightLeg": [
+            -0.4845009643306509, -0.013165339193088599, 0.8360500856977573, 0.257110372430544
+          ],
+          "mixamorigRightFoot": [
+            -0.9389644487189311, 0.006153818935606542, 0.17369540502093814, -0.2968801118786401
+          ],
+          "mixamorigRightToeBase": [0, 0, 0, 1]
+        },
+        "root": {
+          "position": [0, 0.17, 0],
+          "rotation": [0, 0, 0, 1]
+        }
+      },
+      "jointsUnderLoad": ["mixamorigLeftUpLeg", "mixamorigRightUpLeg", "mixamorigNeck"],
+      "provenance": "unverified"
+    },
+    {
+      "id": "hold-8",
+      "phase": "hold",
+      "duration": 6,
+      "breath": "free",
+      "instruction": "Still reference shape. Hold time is an editorial display choice.",
+      "easing": "easeInOut",
+      "interpolation": "limb",
+      "pose": {
+        "bones": {
+          "mixamorigHips": [0, 0, 0, 1],
+          "mixamorigSpine": [0, 0, 0, 1],
+          "mixamorigSpine1": [0, 0, 0, 1],
+          "mixamorigSpine2": [0, 0, 0, 1],
+          "mixamorigNeck": [0.15643446504023087, 0, 0, 0.9876883405951378],
+          "mixamorigHead": [0, 0, 0, 1],
+          "mixamorigLeftShoulder": [0, 0, 0, 1],
+          "mixamorigLeftArm": [
+            -0.3379869333915516, -0.09517467349928804, -0.03479055011121569, 0.9356795562604957
+          ],
+          "mixamorigLeftForeArm": [
+            -0.006542555283166432, 0.0015111958020941688, -0.016735757986021525, 0.9998373996116808
+          ],
+          "mixamorigLeftHand": [
+            0.10659755021038168, -0.9017633882527357, 0.4175249036505051, 0.03365573840710223
+          ],
+          "mixamorigRightShoulder": [0, 0, 0, 1],
+          "mixamorigRightArm": [
+            -0.28670587836106715, 0.053004268620633566, -0.14226007838972418, 0.9459135039303278
+          ],
+          "mixamorigRightForeArm": [
+            -0.07969380660105065, -0.01957884539749417, 0.190370559918387, 0.9782763494630212
+          ],
+          "mixamorigRightHand": [
+            -0.10606066377482574, -0.9045252552976436, 0.4115928256340998, -0.034300787380375446
+          ],
+          "mixamorigLeftUpLeg": [
+            -0.6931361773774795, 0.06992282637705265, 0.07847466554708699, 0.7131022120490532
+          ],
+          "mixamorigLeftLeg": [
+            -0.06527357890396329, 0.02531928374676584, 0.9748863219450443, -0.21141180915947563
+          ],
+          "mixamorigLeftFoot": [
+            -0.6507294601550422, -0.016807386206651287, -0.6707123027162487, -0.3555470270446583
+          ],
+          "mixamorigLeftToeBase": [0, 0, 0, 1],
+          "mixamorigRightUpLeg": [
+            -0.6752495135354085, -0.11492006734581049, -0.12234511444407506, 0.7182361349605677
+          ],
+          "mixamorigRightLeg": [
+            -0.4845009643306509, -0.013165339193088599, 0.8360500856977573, 0.257110372430544
+          ],
+          "mixamorigRightFoot": [
+            -0.9389644487189311, 0.006153818935606542, 0.17369540502093814, -0.2968801118786401
+          ],
+          "mixamorigRightToeBase": [0, 0, 0, 1]
+        },
+        "root": {
+          "position": [0, 0.17, 0],
+          "rotation": [0, 0, 0, 1]
+        }
+      },
+      "jointsUnderLoad": ["mixamorigLeftUpLeg", "mixamorigRightUpLeg", "mixamorigNeck"],
+      "provenance": "unverified"
+    },
+    {
+      "id": "exit-9",
+      "phase": "exit",
+      "duration": 2.5,
+      "breath": "free",
+      "instruction": "Reconstructed exit: The hands move into position before the final trunk adjustment.",
+      "easing": "easeInOut",
+      "interpolation": "limb",
+      "pose": {
+        "bones": {
+          "mixamorigHips": [0, 0, 0, 1],
+          "mixamorigSpine": [0, 0, 0, 1],
+          "mixamorigSpine1": [0, 0, 0, 1],
+          "mixamorigSpine2": [0, 0, 0, 1],
+          "mixamorigNeck": [0, 0, 0, 1],
+          "mixamorigHead": [0, 0, 0, 1],
+          "mixamorigLeftShoulder": [0, 0, 0, 1],
+          "mixamorigLeftArm": [
+            -0.3379869333915517, -0.09517467349928804, -0.03479055011121575, 0.9356795562604956
+          ],
+          "mixamorigLeftForeArm": [
+            -0.006542555283165955, 0.0015111958020939402, -0.016735757986021327, 0.9998373996116808
+          ],
+          "mixamorigLeftHand": [
+            0.10659755021038167, -0.9017633882527357, 0.41752490365050554, 0.03365573840710258
+          ],
+          "mixamorigRightShoulder": [0, 0, 0, 1],
+          "mixamorigRightArm": [
+            -0.28670587836106715, 0.05300426862063355, -0.14226007838972413, 0.9459135039303278
+          ],
+          "mixamorigRightForeArm": [
+            -0.07969380660105063, -0.019578845397494216, 0.19037055991838675, 0.9782763494630213
+          ],
+          "mixamorigRightHand": [
+            -0.10606066377482556, -0.9045252552976436, 0.4115928256340998, -0.03430078738037548
+          ],
+          "mixamorigLeftUpLeg": [
+            -0.6931361773774796, 0.06992282637705205, 0.07847466554708635, 0.7131022120490531
+          ],
+          "mixamorigLeftLeg": [
+            -0.06527357890396435, 0.02531928374676562, 0.974886321945044, -0.21141180915947655
+          ],
+          "mixamorigLeftFoot": [
+            -0.6507294601550415, -0.016807386206651093, -0.6707123027162492, -0.35554702704465874
+          ],
+          "mixamorigLeftToeBase": [0, 0, 0, 1],
+          "mixamorigRightUpLeg": [
+            -0.6752495135354085, -0.11492006734581052, -0.12234511444407511, 0.7182361349605676
+          ],
+          "mixamorigRightLeg": [
+            -0.4845009643306512, -0.01316533919308871, 0.8360500856977571, 0.2571103724305441
+          ],
+          "mixamorigRightFoot": [
+            -0.9389644487189313, 0.006153818935606403, 0.17369540502093786, -0.29688011187864016
+          ],
+          "mixamorigRightToeBase": [0, 0, 0, 1]
+        },
+        "root": {
+          "position": [0, 0.17, 0],
+          "rotation": [0, 0, 0, 1]
+        }
+      },
+      "jointsUnderLoad": [],
+      "provenance": "unverified"
+    },
+    {
+      "id": "exit-10",
+      "phase": "exit",
+      "duration": 2.5,
+      "breath": "free",
+      "instruction": "Reconstructed exit: Right foot settles into the proposed placement.",
+      "easing": "easeInOut",
+      "interpolation": "limb",
+      "pose": {
+        "bones": {
+          "mixamorigHips": [0, 0, 0, 1],
+          "mixamorigSpine": [0, 0, 0, 1],
+          "mixamorigSpine1": [0, 0, 0, 1],
+          "mixamorigSpine2": [0, 0, 0, 1],
+          "mixamorigNeck": [0, 0, 0, 1],
+          "mixamorigHead": [0, 0, 0, 1],
+          "mixamorigLeftShoulder": [0, 0, 0, 1],
+          "mixamorigLeftArm": [-0.15418370583706428, 0, 0.2530732895024574, 0.955081826334663],
+          "mixamorigLeftForeArm": [
+            -0.07886334639610959, 6.938893903907228e-18, -0.41146252068510475, 0.9080083516502847
+          ],
+          "mixamorigLeftHand": [
+            0.1743631546062225, -0.8305068471839583, 0.5259969100369987, -0.05641912555027391
+          ],
+          "mixamorigRightShoulder": [0, 0, 0, 1],
+          "mixamorigRightArm": [-0.15418370583706428, 0, -0.2530732895024574, 0.955081826334663],
+          "mixamorigRightForeArm": [
+            -0.07886334639610959, -6.938893903907228e-18, 0.41146252068510475, 0.9080083516502847
+          ],
+          "mixamorigRightHand": [
+            -0.1743631546062224, -0.8305068471839583, 0.5259969100369987, 0.05641912555027398
+          ],
+          "mixamorigLeftUpLeg": [
+            -0.6931361773774796, 0.06992282637705205, 0.07847466554708635, 0.7131022120490531
+          ],
+          "mixamorigLeftLeg": [
+            -0.06527357890396435, 0.02531928374676562, 0.974886321945044, -0.21141180915947655
+          ],
+          "mixamorigLeftFoot": [
+            -0.6507294601550415, -0.016807386206651093, -0.6707123027162492, -0.35554702704465874
+          ],
+          "mixamorigLeftToeBase": [0, 0, 0, 1],
+          "mixamorigRightUpLeg": [
+            -0.6752495135354085, -0.11492006734581052, -0.12234511444407511, 0.7182361349605676
+          ],
+          "mixamorigRightLeg": [
+            -0.4845009643306512, -0.01316533919308871, 0.8360500856977571, 0.2571103724305441
+          ],
+          "mixamorigRightFoot": [
+            -0.9389644487189313, 0.006153818935606403, 0.17369540502093786, -0.29688011187864016
+          ],
+          "mixamorigRightToeBase": [0, 0, 0, 1]
+        },
+        "root": {
+          "position": [0, 0.17, 0],
+          "rotation": [0, 0, 0, 1]
+        }
+      },
+      "jointsUnderLoad": [],
+      "provenance": "unverified"
+    },
+    {
+      "id": "exit-11",
+      "phase": "exit",
+      "duration": 2.5,
+      "breath": "free",
+      "instruction": "Reconstructed exit: Right leg lifts and opens; the opposite leg stays in place.",
+      "easing": "easeInOut",
+      "interpolation": "limb",
+      "pose": {
+        "bones": {
+          "mixamorigHips": [0, 0, 0, 1],
+          "mixamorigSpine": [0, 0, 0, 1],
+          "mixamorigSpine1": [0, 0, 0, 1],
+          "mixamorigSpine2": [0, 0, 0, 1],
+          "mixamorigNeck": [0, 0, 0, 1],
+          "mixamorigHead": [0, 0, 0, 1],
+          "mixamorigLeftShoulder": [0, 0, 0, 1],
+          "mixamorigLeftArm": [-0.15418370583706428, 0, 0.2530732895024574, 0.955081826334663],
+          "mixamorigLeftForeArm": [
+            -0.07886334639610959, 6.938893903907228e-18, -0.41146252068510475, 0.9080083516502847
+          ],
+          "mixamorigLeftHand": [
+            0.1743631546062225, -0.8305068471839583, 0.5259969100369987, -0.05641912555027391
+          ],
+          "mixamorigRightShoulder": [0, 0, 0, 1],
+          "mixamorigRightArm": [-0.15418370583706428, 0, -0.2530732895024574, 0.955081826334663],
+          "mixamorigRightForeArm": [
+            -0.07886334639610959, -6.938893903907228e-18, 0.41146252068510475, 0.9080083516502847
+          ],
+          "mixamorigRightHand": [
+            -0.1743631546062224, -0.8305068471839583, 0.5259969100369987, 0.05641912555027398
+          ],
+          "mixamorigLeftUpLeg": [
+            -0.6931361773774796, 0.06992282637705205, 0.07847466554708635, 0.7131022120490531
+          ],
+          "mixamorigLeftLeg": [
+            -0.06527357890396435, 0.02531928374676562, 0.974886321945044, -0.21141180915947655
+          ],
+          "mixamorigLeftFoot": [
+            -0.6507294601550415, -0.016807386206651093, -0.6707123027162492, -0.35554702704465874
+          ],
+          "mixamorigLeftToeBase": [0, 0, 0, 1],
+          "mixamorigRightUpLeg": [
+            -0.6634685636017541, -0.2974317454355646, -0.3098220516399802, 0.6126615037987716
+          ],
+          "mixamorigRightLeg": [
+            -0.3871125599569297, -0.010207352384273956, 0.6479298913080738, 0.6559165585883645
+          ],
+          "mixamorigRightFoot": [
+            -0.029142516489475696, -0.00305152207186615, 0.0027786568796890738, 0.9995667466515934
+          ],
+          "mixamorigRightToeBase": [0, 0, 0, 1]
+        },
+        "root": {
+          "position": [0, 0.17, 0],
+          "rotation": [0, 0, 0, 1]
+        }
+      },
+      "jointsUnderLoad": [],
+      "provenance": "unverified"
+    },
+    {
+      "id": "exit-12",
+      "phase": "exit",
+      "duration": 2.5,
+      "breath": "free",
+      "instruction": "Reconstructed exit: Left foot settles into the proposed placement.",
+      "easing": "easeInOut",
+      "interpolation": "limb",
+      "pose": {
+        "bones": {
+          "mixamorigHips": [0, 0, 0, 1],
+          "mixamorigSpine": [0, 0, 0, 1],
+          "mixamorigSpine1": [0, 0, 0, 1],
+          "mixamorigSpine2": [0, 0, 0, 1],
+          "mixamorigNeck": [0, 0, 0, 1],
+          "mixamorigHead": [0, 0, 0, 1],
+          "mixamorigLeftShoulder": [0, 0, 0, 1],
+          "mixamorigLeftArm": [-0.15418370583706428, 0, 0.2530732895024574, 0.955081826334663],
+          "mixamorigLeftForeArm": [
+            -0.07886334639610959, 6.938893903907228e-18, -0.41146252068510475, 0.9080083516502847
+          ],
+          "mixamorigLeftHand": [
+            0.1743631546062225, -0.8305068471839583, 0.5259969100369987, -0.05641912555027391
+          ],
+          "mixamorigRightShoulder": [0, 0, 0, 1],
+          "mixamorigRightArm": [-0.15418370583706428, 0, -0.2530732895024574, 0.955081826334663],
+          "mixamorigRightForeArm": [
+            -0.07886334639610959, -6.938893903907228e-18, 0.41146252068510475, 0.9080083516502847
+          ],
+          "mixamorigRightHand": [
+            -0.1743631546062224, -0.8305068471839583, 0.5259969100369987, 0.05641912555027398
+          ],
+          "mixamorigLeftUpLeg": [
+            -0.6931361773774796, 0.06992282637705205, 0.07847466554708635, 0.7131022120490531
+          ],
+          "mixamorigLeftLeg": [
+            -0.06527357890396435, 0.02531928374676562, 0.974886321945044, -0.21141180915947655
+          ],
+          "mixamorigLeftFoot": [
+            -0.6507294601550415, -0.016807386206651093, -0.6707123027162492, -0.35554702704465874
+          ],
+          "mixamorigLeftToeBase": [0, 0, 0, 1],
+          "mixamorigRightUpLeg": [-0.6974061543472343, 0, -0.004391435049035038, 0.716662662050153],
+          "mixamorigRightLeg": [0.015528178598441715, 0, 0.0003744386450496338, 0.9998793604556082],
+          "mixamorigRightFoot": [
+            -0.029142516489475696, -0.00305152207186615, 0.0027786568796890738, 0.9995667466515934
+          ],
+          "mixamorigRightToeBase": [0, 0, 0, 1]
+        },
+        "root": {
+          "position": [0, 0.17, 0],
+          "rotation": [0, 0, 0, 1]
+        }
+      },
+      "jointsUnderLoad": [],
+      "provenance": "unverified"
+    },
+    {
+      "id": "exit-13",
+      "phase": "exit",
+      "duration": 2.5,
+      "breath": "free",
+      "instruction": "Reconstructed exit: Left leg lifts and opens; the opposite leg stays in place.",
+      "easing": "easeInOut",
+      "interpolation": "limb",
+      "pose": {
+        "bones": {
+          "mixamorigHips": [0, 0, 0, 1],
+          "mixamorigSpine": [0, 0, 0, 1],
+          "mixamorigSpine1": [0, 0, 0, 1],
+          "mixamorigSpine2": [0, 0, 0, 1],
+          "mixamorigNeck": [0, 0, 0, 1],
+          "mixamorigHead": [0, 0, 0, 1],
+          "mixamorigLeftShoulder": [0, 0, 0, 1],
+          "mixamorigLeftArm": [-0.15418370583706428, 0, 0.2530732895024574, 0.955081826334663],
+          "mixamorigLeftForeArm": [
+            -0.07886334639610959, 6.938893903907228e-18, -0.41146252068510475, 0.9080083516502847
+          ],
+          "mixamorigLeftHand": [
+            0.1743631546062225, -0.8305068471839583, 0.5259969100369987, -0.05641912555027391
+          ],
+          "mixamorigRightShoulder": [0, 0, 0, 1],
+          "mixamorigRightArm": [-0.15418370583706428, 0, -0.2530732895024574, 0.955081826334663],
+          "mixamorigRightForeArm": [
+            -0.07886334639610959, -6.938893903907228e-18, 0.41146252068510475, 0.9080083516502847
+          ],
+          "mixamorigRightHand": [
+            -0.1743631546062224, -0.8305068471839583, 0.5259969100369987, 0.05641912555027398
+          ],
+          "mixamorigLeftUpLeg": [
+            -0.6121887565339196, 0.341707591819785, 0.3549975262121291, 0.6184153979724676
+          ],
+          "mixamorigLeftLeg": [
+            -0.30747630890864724, 0.011987057783068866, -0.7644477156244089, 0.5665106530174366
+          ],
+          "mixamorigLeftFoot": [
+            -0.029142516489475696, 0.00305152207186615, -0.0027786568796890738, 0.9995667466515934
+          ],
+          "mixamorigLeftToeBase": [0, 0, 0, 1],
+          "mixamorigRightUpLeg": [-0.6974061543472343, 0, -0.004391435049035038, 0.716662662050153],
+          "mixamorigRightLeg": [0.015528178598441715, 0, 0.0003744386450496338, 0.9998793604556082],
+          "mixamorigRightFoot": [
+            -0.029142516489475696, -0.00305152207186615, 0.0027786568796890738, 0.9995667466515934
+          ],
+          "mixamorigRightToeBase": [0, 0, 0, 1]
+        },
+        "root": {
+          "position": [0, 0.17, 0],
+          "rotation": [0, 0, 0, 1]
+        }
+      },
+      "jointsUnderLoad": [],
+      "provenance": "unverified"
+    },
+    {
+      "id": "neutral-14",
+      "phase": "neutral",
+      "duration": 3,
+      "breath": "free",
+      "instruction": "The model returns to the supported starting position.",
+      "easing": "easeInOut",
+      "interpolation": "limb",
+      "pose": {
+        "bones": {
+          "mixamorigHips": [0, 0, 0, 1],
+          "mixamorigSpine": [0, 0, 0, 1],
+          "mixamorigSpine1": [0, 0, 0, 1],
+          "mixamorigSpine2": [0, 0, 0, 1],
+          "mixamorigNeck": [0, 0, 0, 1],
+          "mixamorigHead": [0, 0, 0, 1],
+          "mixamorigLeftShoulder": [0, 0, 0, 1],
+          "mixamorigLeftArm": [-0.15418370583706428, 0, 0.2530732895024574, 0.955081826334663],
+          "mixamorigLeftForeArm": [
+            -0.07886334639610959, 6.938893903907228e-18, -0.41146252068510475, 0.9080083516502847
+          ],
+          "mixamorigLeftHand": [
+            0.1743631546062225, -0.8305068471839583, 0.5259969100369987, -0.05641912555027391
+          ],
+          "mixamorigRightShoulder": [0, 0, 0, 1],
+          "mixamorigRightArm": [-0.15418370583706428, 0, -0.2530732895024574, 0.955081826334663],
+          "mixamorigRightForeArm": [
+            -0.07886334639610959, -6.938893903907228e-18, 0.41146252068510475, 0.9080083516502847
+          ],
+          "mixamorigRightHand": [
+            -0.1743631546062224, -0.8305068471839583, 0.5259969100369987, 0.05641912555027398
+          ],
+          "mixamorigLeftUpLeg": [-0.6974061543472343, 0, 0.004391435049035038, 0.716662662050153],
+          "mixamorigLeftLeg": [0.015528178598441715, 0, -0.0003744386450496338, 0.9998793604556082],
+          "mixamorigLeftFoot": [
+            -0.029142516489475696, 0.00305152207186615, -0.0027786568796890738, 0.9995667466515934
+          ],
+          "mixamorigLeftToeBase": [0, 0, 0, 1],
+          "mixamorigRightUpLeg": [-0.6974061543472343, 0, -0.004391435049035038, 0.716662662050153],
+          "mixamorigRightLeg": [0.015528178598441715, 0, 0.0003744386450496338, 0.9998793604556082],
+          "mixamorigRightFoot": [
+            -0.029142516489475696, -0.00305152207186615, 0.0027786568796890738, 0.9995667466515934
+          ],
+          "mixamorigRightToeBase": [0, 0, 0, 1]
+        },
+        "root": {
+          "position": [0, 0.17, 0],
+          "rotation": [0, 0, 0, 1]
+        }
+      },
+      "jointsUnderLoad": [],
+      "provenance": "unverified"
+    }
+  ],
+  "description": "A heel-based seat with a lowered chin.",
+  "interpretationNotes": [],
+  "fieldProvenance": {
+    "movement": "unverified",
+    "difficulty": "unverified",
+    "anatomy": "unverified",
+    "contraindications": "unverified",
+    "breath": "unverified",
+    "drishti": "attested"
+  }
+}

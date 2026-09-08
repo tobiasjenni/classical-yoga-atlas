@@ -1,0 +1,3011 @@
+{
+  "title": "Yogāsana Vijñāna",
+  "author": "Dhirendra Brahmachari",
+  "language": "Russian",
+  "filename": "Brahmachari_Yogasana-Vidzhnyana.334833.fb2.epub",
+  "sha256": "59c0b4ea7d9810795cd6bf6a16afbe11c0148dbf3c979d891f98341a72c2d0ff",
+  "edition": "User-supplied Russian EPUB; translator, publisher and publication year not verified.",
+  "locatorPolicy": "Section heading and EPUB image identifier. Reflowable EPUB has no stable printed pagination.",
+  "metadataNote": "The EPUB metadata says 1953, while its foreword is dated 29 December 1966. The metadata date is not used as the publication date.",
+  "postures": 108,
+  "sequences": 1,
+  "imageCount": 185,
+  "entries": [
+    {
+      "id": "siddhasana",
+      "order": 1,
+      "name": "Siddhasana",
+      "iast": "Siddhāsana",
+      "sanskrit": "सिद्धासन",
+      "english": "Accomplished seat",
+      "russian": "СИДДХАСАНА (совершенная поза)",
+      "family": "seated",
+      "summary": "An upright seat with one heel in front of the other; the plates show several hand and gaze variants.",
+      "file": "ch1-4.xhtml",
+      "images": [
+        {
+          "id": "Im2",
+          "src": "/book/brahmachari/Im2.jpg",
+          "sha256": "a304c3f54c8a56867474bdb37fce36073cf2ed44d94d30b5b4468a0717149d27"
+        },
+        {
+          "id": "Im3",
+          "src": "/book/brahmachari/Im3.jpg",
+          "sha256": "65ef9aa241623bdc59458618470f4e469c3f9c361c45662bfde3f04688b7d402"
+        },
+        {
+          "id": "Im4",
+          "src": "/book/brahmachari/Im4.jpg",
+          "sha256": "4186b20ad9f787462530631d4a85ef9ae4a2110325fee5a143ca3e6db33be1f6"
+        },
+        {
+          "id": "Im5",
+          "src": "/book/brahmachari/Im5.jpg",
+          "sha256": "7571bc78d41cdcb65d473a73b3544098ffdc411e9b3256d01e3d757ec172020d"
+        },
+        {
+          "id": "Im6",
+          "src": "/book/brahmachari/Im6.jpg",
+          "sha256": "14ceb6aa8472287930a945b6bdd0cd9ed5412d436d1ca187808ac09876fd7821"
+        },
+        {
+          "id": "Im7",
+          "src": "/book/brahmachari/Im7.jpg",
+          "sha256": "0e2da30a11afefcfab07b67b733cb5fbb2472105540190075ee65b938251e9f2"
+        },
+        {
+          "id": "Im8",
+          "src": "/book/brahmachari/Im8.jpg",
+          "sha256": "cd676512e19a7bc5a4ea92338681ffc6bde893c1cb68be8bb91a26a2dba36ff6"
+        },
+        {
+          "id": "Im9",
+          "src": "/book/brahmachari/Im9.jpg",
+          "sha256": "3b9b6e77bf37d1c66275bbed83b33fbf0e6567c3d43630c83fff13bfda337d7c"
+        }
+      ],
+      "hero": "/book/brahmachari/Im3.jpg",
+      "textUrl": "/book/brahmachari/siddhasana.json",
+      "relatedModel": "siddhasana",
+      "comparison": null,
+      "kind": "posture"
+    },
+    {
+      "id": "padmasana",
+      "order": 2,
+      "name": "Padmasana",
+      "iast": "Padmāsana",
+      "sanskrit": "पद्मासन",
+      "english": "Lotus",
+      "russian": "ПАДМАСАНА (поза лотоса)",
+      "family": "seated",
+      "summary": "Both feet rest on opposite thighs. The book illustrates hands in the lap and hands on the knees.",
+      "file": "ch1-4.xhtml",
+      "images": [
+        {
+          "id": "Im10",
+          "src": "/book/brahmachari/Im10.jpg",
+          "sha256": "12993bc2f8117497db400e1d85a4070ee931b88263362b0ffa5099314f48231e"
+        },
+        {
+          "id": "Im11",
+          "src": "/book/brahmachari/Im11.jpg",
+          "sha256": "22393510732e4c5b9bd11ee46f97a92786d55ff1e342c5a8567f091a25fda582"
+        },
+        {
+          "id": "Im12",
+          "src": "/book/brahmachari/Im12.jpg",
+          "sha256": "154d53b48914d2582e7f68a6286c3c2ef4371f9bbcc342bbbd4bdd129a94d39e"
+        },
+        {
+          "id": "Im13",
+          "src": "/book/brahmachari/Im13.jpg",
+          "sha256": "8c6b64d86ca0c8c4e09fb055ff04686715d864c6f42264a542572ccda662d1a4"
+        }
+      ],
+      "hero": "/book/brahmachari/Im11.jpg",
+      "textUrl": "/book/brahmachari/padmasana.json",
+      "relatedModel": "padmasana",
+      "comparison": null,
+      "kind": "posture"
+    },
+    {
+      "id": "bhadrasana",
+      "order": 3,
+      "name": "Bhadrasana",
+      "iast": "Bhadrāsana",
+      "sanskrit": "भद्रासन",
+      "english": "Blessed kneeling seat",
+      "russian": "БХАДРАСАНА (благотворная поза)",
+      "family": "kneeling",
+      "summary": "A kneeling seat on the heels, with hands on the thighs or reaching behind to the toes.",
+      "file": "ch1-4.xhtml",
+      "images": [
+        {
+          "id": "Im14",
+          "src": "/book/brahmachari/Im14.jpg",
+          "sha256": "2534245e199575298cd0e8c0e2cc132e4d5f2a0ce1e663dbf9c9dfc58d0c9c8e"
+        },
+        {
+          "id": "Im15",
+          "src": "/book/brahmachari/Im15.jpg",
+          "sha256": "25d6a9e378fe4c36ccbffb99f7cffe578b76ba9c092323d190ce34bc28a71ed0"
+        }
+      ],
+      "hero": "/book/brahmachari/Im14.jpg",
+      "textUrl": "/book/brahmachari/bhadrasana.json",
+      "relatedModel": "bhadrasana",
+      "comparison": "The book shows a kneeling seat; the HYP study uses joined feet with open knees.",
+      "kind": "posture"
+    },
+    {
+      "id": "muktasana",
+      "order": 4,
+      "name": "Muktasana",
+      "iast": "Muktāsana",
+      "sanskrit": "मुक्तासन",
+      "english": "Free seat",
+      "russian": "МУКТАСАНА (свободная поза)",
+      "family": "seated",
+      "summary": "An upright crossed-leg seat, with relaxed arms and hands resting on the knees.",
+      "file": "ch1-4.xhtml",
+      "images": [
+        {
+          "id": "Im16",
+          "src": "/book/brahmachari/Im16.jpg",
+          "sha256": "6302c12843f4b891c48139d43dc98397b373112a6797971da11d192f073b20d4"
+        }
+      ],
+      "hero": "/book/brahmachari/Im16.jpg",
+      "textUrl": "/book/brahmachari/muktasana.json",
+      "relatedModel": null,
+      "comparison": null,
+      "kind": "posture"
+    },
+    {
+      "id": "vajrasana",
+      "order": 5,
+      "name": "Vajrasana",
+      "iast": "Vajrāsana",
+      "sanskrit": "वज्रासन",
+      "english": "Adamantine seat",
+      "russian": "ВАДЖРАСАНА (несокрушимая поза)",
+      "family": "kneeling",
+      "summary": "Knees and shins rest on the ground, the pelvis rests on the heels and hands lie on the thighs.",
+      "file": "ch1-4.xhtml",
+      "images": [
+        {
+          "id": "Im17",
+          "src": "/book/brahmachari/Im17.jpg",
+          "sha256": "ae3cb3ac6ba8251f0a11fedcfd7d83cc31f85d8828a83fb93f6c6833ad531945"
+        },
+        {
+          "id": "Im18",
+          "src": "/book/brahmachari/Im18.jpg",
+          "sha256": "6b6536d319196347bc3deb921becd8ea9031c83dd1cc859236bd1d179c31520f"
+        }
+      ],
+      "hero": "/book/brahmachari/Im17.jpg",
+      "textUrl": "/book/brahmachari/vajrasana.json",
+      "relatedModel": null,
+      "comparison": null,
+      "kind": "posture"
+    },
+    {
+      "id": "svastikasana",
+      "order": 6,
+      "name": "Svastikasana",
+      "iast": "Svastikāsana",
+      "sanskrit": "स्वस्तिकासन",
+      "english": "Auspicious seat",
+      "russian": "СВАСТИКАСАНА (поза свастики)",
+      "family": "seated",
+      "summary": "The feet are tucked between the opposite calves and thighs in an upright seated shape.",
+      "file": "ch1-4.xhtml",
+      "images": [
+        {
+          "id": "Im19",
+          "src": "/book/brahmachari/Im19.jpg",
+          "sha256": "48e4c20c62e6621104ac03b28f0b7380bc738b079790d59dc94868fbd4c28e0d"
+        }
+      ],
+      "hero": "/book/brahmachari/Im19.jpg",
+      "textUrl": "/book/brahmachari/svastikasana.json",
+      "relatedModel": "svastikasana",
+      "comparison": null,
+      "kind": "posture"
+    },
+    {
+      "id": "simhasana",
+      "order": 7,
+      "name": "Simhasana",
+      "iast": "Siṃhāsana",
+      "sanskrit": "सिंहासन",
+      "english": "Lion",
+      "russian": "СИМХАСАНА (поза льва)",
+      "family": "kneeling",
+      "summary": "The knees spread and the body sits over raised heels, supported on the toes; hands rest on the knees.",
+      "file": "ch1-4.xhtml",
+      "images": [
+        {
+          "id": "Im20",
+          "src": "/book/brahmachari/Im20.jpg",
+          "sha256": "64c6aa2198045ea5768b7ede8a478c1cf1bd4baeb3007e5c0fab6066fb2c6ed9"
+        }
+      ],
+      "hero": "/book/brahmachari/Im20.jpg",
+      "textUrl": "/book/brahmachari/simhasana.json",
+      "relatedModel": "simhasana",
+      "comparison": "The book shows a toe-supported squat with heels together; the HYP study uses crossed ankles.",
+      "kind": "posture"
+    },
+    {
+      "id": "gomukhasana",
+      "order": 8,
+      "name": "Gomukhasana",
+      "iast": "Gomukhāsana",
+      "sanskrit": "गोमुखासन",
+      "english": "Cow-face posture",
+      "russian": "ГОМУКХАСАНА (поза коровьей головы)",
+      "family": "seated",
+      "summary": "Folded legs accompany a behind-the-back hand clasp, with one elbow raised and the other lowered.",
+      "file": "ch1-4.xhtml",
+      "images": [
+        {
+          "id": "Im21",
+          "src": "/book/brahmachari/Im21.jpg",
+          "sha256": "12020ea21386b684ddb516f17ca403819bbb09aeb1e22eaaeb95bc87136d8f27"
+        },
+        {
+          "id": "Im22",
+          "src": "/book/brahmachari/Im22.jpg",
+          "sha256": "37d1d0d57cd9a9da3eefb879ea174ba459d2110e128728129361ad592ffc03d3"
+        }
+      ],
+      "hero": "/book/brahmachari/Im21.jpg",
+      "textUrl": "/book/brahmachari/gomukhasana.json",
+      "relatedModel": "gomukhasana",
+      "comparison": "The book explicitly shows a behind-the-back arm clasp. That clasp is not specified in the HYP verse used for the existing study.",
+      "kind": "posture"
+    },
+    {
+      "id": "virasana",
+      "order": 9,
+      "name": "Virasana",
+      "iast": "Vīrāsana",
+      "sanskrit": "वीरासन",
+      "english": "Hero lunge",
+      "russian": "ВИРАСАНА (поза героя)",
+      "family": "standing",
+      "summary": "A long lunge with the front knee bent and the rear leg extended; one arm reaches forward at shoulder height and the other bends behind the waist.",
+      "file": "ch1-4.xhtml",
+      "images": [
+        {
+          "id": "Im23",
+          "src": "/book/brahmachari/Im23.jpg",
+          "sha256": "8053c810883ff90d833e5a01fd8b750d7fc5c9c69c04cc03409d46d0418f391f"
+        }
+      ],
+      "hero": "/book/brahmachari/Im23.jpg",
+      "textUrl": "/book/brahmachari/virasana.json",
+      "relatedModel": "virasana",
+      "comparison": "The book shows a long lunge. The HYP study interprets a foot-on-thigh seat.",
+      "kind": "posture"
+    },
+    {
+      "id": "dhanurasana",
+      "order": 10,
+      "name": "Dhanurasana",
+      "iast": "Dhanurāsana",
+      "sanskrit": "धनुरासन",
+      "english": "Supine bow variant",
+      "russian": "ДХАНУРАСАНА (наклоненная поза)",
+      "family": "inverted",
+      "summary": "The legs pass over the head while the shoulders remain down; both hands reach to the toes.",
+      "file": "ch1-4.xhtml",
+      "images": [
+        {
+          "id": "Im24",
+          "src": "/book/brahmachari/Im24.jpg",
+          "sha256": "cba0fd177f73807d1605ce4983265c35515a7dc79a54a575e33368f11d8fb8c7"
+        }
+      ],
+      "hero": "/book/brahmachari/Im24.jpg",
+      "textUrl": "/book/brahmachari/dhanurasana.json",
+      "relatedModel": "dhanurasana",
+      "comparison": "The book shows straight legs overhead in a shoulder-supported fold. The HYP study shows a seated archer configuration, which this book covers separately under Akarna-dhanurasana.",
+      "kind": "posture"
+    },
+    {
+      "id": "shavasana",
+      "order": 11,
+      "name": "Shavasana",
+      "iast": "Śavāsana",
+      "sanskrit": "शवासन",
+      "english": "Corpse posture",
+      "russian": "ШАВАСАНА ИЛИ МРИТАСАНА(поза трупа)",
+      "family": "supine",
+      "summary": "The body rests lengthwise on the back, with arms alongside the torso and legs extended.",
+      "file": "ch1-4.xhtml",
+      "images": [
+        {
+          "id": "Im25",
+          "src": "/book/brahmachari/Im25.jpg",
+          "sha256": "60fbc90c2f58c63e685452bc84f05c5d57683b805288f16f63fba51bb6f24174"
+        }
+      ],
+      "hero": "/book/brahmachari/Im25.jpg",
+      "textUrl": "/book/brahmachari/shavasana.json",
+      "relatedModel": "shavasana",
+      "comparison": null,
+      "kind": "posture"
+    },
+    {
+      "id": "guptasana",
+      "order": 12,
+      "name": "Guptasana",
+      "iast": "Guptāsana",
+      "sanskrit": "गुप्तासन",
+      "english": "Concealed seat",
+      "russian": "GUPTASANA (скрытое положение)",
+      "family": "seated",
+      "summary": "A compact folded-leg seat with the feet tucked beneath the thighs.",
+      "file": "ch1-4.xhtml",
+      "images": [
+        {
+          "id": "Im26",
+          "src": "/book/brahmachari/Im26.jpg",
+          "sha256": "df7afd4c443044811c7437fd087b48f63764d55ba9431edae4efdf59a5bd1233"
+        }
+      ],
+      "hero": "/book/brahmachari/Im26.jpg",
+      "textUrl": "/book/brahmachari/guptasana.json",
+      "relatedModel": null,
+      "comparison": null,
+      "kind": "posture"
+    },
+    {
+      "id": "matsyasana",
+      "order": 13,
+      "name": "Matsyasana",
+      "iast": "Matsyāsana",
+      "sanskrit": "मत्स्यासन",
+      "english": "Fish",
+      "russian": "МАТСИАСАНА (поза рыбы)",
+      "family": "supine",
+      "summary": "The lotus legs remain folded while the chest arches upward and the head rests behind the shoulders.",
+      "file": "ch1-4.xhtml",
+      "images": [
+        {
+          "id": "Im27",
+          "src": "/book/brahmachari/Im27.jpg",
+          "sha256": "b69fee49f212e2cb007b5e2474a7dd795e602e9e2a6de46401ca7d9d1f09836f"
+        }
+      ],
+      "hero": "/book/brahmachari/Im27.jpg",
+      "textUrl": "/book/brahmachari/matsyasana.json",
+      "relatedModel": null,
+      "comparison": null,
+      "kind": "posture"
+    },
+    {
+      "id": "matsyendrasana",
+      "order": 14,
+      "name": "Matsyendrasana",
+      "iast": "Matsyendrāsana",
+      "sanskrit": "मत्स्येन्द्रासन",
+      "english": "Matsyendra twist",
+      "russian": "МАТСИЕНДРАСАНА (поза Матсиендры)",
+      "family": "seated",
+      "summary": "The book shows an initial leg arrangement followed by a seated trunk rotation and arm wrap.",
+      "file": "ch1-4.xhtml",
+      "images": [
+        {
+          "id": "Im28",
+          "src": "/book/brahmachari/Im28.jpg",
+          "sha256": "b6a341f9d2f5faae75f3100ae66cd4f1c9a04531fd929065b88e4af0fd81e224"
+        },
+        {
+          "id": "Im29",
+          "src": "/book/brahmachari/Im29.jpg",
+          "sha256": "51a6eec257429abd32d23fd8ccfed01ea5c8e251cfc87a547666aa4857e2d21e"
+        }
+      ],
+      "hero": "/book/brahmachari/Im29.jpg",
+      "textUrl": "/book/brahmachari/matsyendrasana.json",
+      "relatedModel": "matsyendrasana",
+      "comparison": "Compare the foot hold and arm wrap closely: the current 3D study simplifies those contacts.",
+      "kind": "posture"
+    },
+    {
+      "id": "goraksasana",
+      "order": 15,
+      "name": "Goraksasana",
+      "iast": "Gorakṣāsana",
+      "sanskrit": "गोरक्षासन",
+      "english": "Goraksha seat",
+      "russian": "ГОРАКШАСАНА (поза Горакши)",
+      "family": "seated",
+      "summary": "The feet meet beneath the pelvis, knees open to the sides and hands rest on the knees.",
+      "file": "ch1-4.xhtml",
+      "images": [
+        {
+          "id": "Im30",
+          "src": "/book/brahmachari/Im30.jpg",
+          "sha256": "007b8423567ab93758cd148031e9feb7ce7beb816b7a16e23b4e78e6bcdf33cb"
+        }
+      ],
+      "hero": "/book/brahmachari/Im30.jpg",
+      "textUrl": "/book/brahmachari/goraksasana.json",
+      "relatedModel": null,
+      "comparison": null,
+      "kind": "posture"
+    },
+    {
+      "id": "paschimottanasana",
+      "order": 16,
+      "name": "Paschimottanasana",
+      "iast": "Paścimottānāsana",
+      "sanskrit": "पश्चिमोत्तानासन",
+      "english": "Seated forward fold",
+      "russian": "ПАШЧИМОТТАНАСАНА (поза растяжения задней поверхности)",
+      "family": "seated",
+      "summary": "Both legs extend along the ground; the trunk folds toward them and the hands hold the feet.",
+      "file": "ch1-4.xhtml",
+      "images": [
+        {
+          "id": "Im31",
+          "src": "/book/brahmachari/Im31.jpg",
+          "sha256": "6534ec4a85bde981daf74c217cb84b6f89ca67e7c857b09795aad797ee6c10ff"
+        },
+        {
+          "id": "Im32",
+          "src": "/book/brahmachari/Im32.jpg",
+          "sha256": "c2c35b95ca0d5b39861aec0a89917b3ae2dd6f7db50d68400a4604def84f76d1"
+        }
+      ],
+      "hero": "/book/brahmachari/Im31.jpg",
+      "textUrl": "/book/brahmachari/paschimottanasana.json",
+      "relatedModel": "paschimottanasana",
+      "comparison": null,
+      "kind": "posture"
+    },
+    {
+      "id": "utkatasana",
+      "order": 17,
+      "name": "Utkatasana",
+      "iast": "Utkaṭāsana",
+      "sanskrit": "उत्कटासन",
+      "english": "Toe-supported squat",
+      "russian": "УТКАТАСАНА (поза сидя на корточках)",
+      "family": "standing",
+      "summary": "A deep squat balances on the toes with raised heels and hands held in front.",
+      "file": "ch1-4.xhtml",
+      "images": [
+        {
+          "id": "Im33",
+          "src": "/book/brahmachari/Im33.jpg",
+          "sha256": "bcba4a7f00de4f0db84ab337d580b72dd028258f049252cbac0cd293dcd69172"
+        }
+      ],
+      "hero": "/book/brahmachari/Im33.jpg",
+      "textUrl": "/book/brahmachari/utkatasana.json",
+      "relatedModel": null,
+      "comparison": null,
+      "kind": "posture"
+    },
+    {
+      "id": "sankatasana",
+      "order": 18,
+      "name": "Sankatasana",
+      "iast": "Saṅkaṭāsana",
+      "sanskrit": "सङ्कटासन",
+      "english": "Entwined balance",
+      "russian": "САНКАТАСАНА. (сплетённая поза или поза верёвки)",
+      "family": "standing",
+      "summary": "One leg winds around the supporting leg while the palms join above the head.",
+      "file": "ch1-4.xhtml",
+      "images": [
+        {
+          "id": "Im34",
+          "src": "/book/brahmachari/Im34.jpg",
+          "sha256": "58c65e9578eaad01efc36a72c3c90b109a0658d0329f9371c2686560a09a52b2"
+        }
+      ],
+      "hero": "/book/brahmachari/Im34.jpg",
+      "textUrl": "/book/brahmachari/sankatasana.json",
+      "relatedModel": null,
+      "comparison": null,
+      "kind": "posture"
+    },
+    {
+      "id": "mayurasana",
+      "order": 19,
+      "name": "Mayurasana",
+      "iast": "Mayūrāsana",
+      "sanskrit": "मयूरासन",
+      "english": "Peacock",
+      "russian": "МАЮРАСАНА (поза павлина)",
+      "family": "balance",
+      "summary": "The plates progress from a kneeling setup to a horizontal hand balance, including several leg variations.",
+      "file": "ch1-4.xhtml",
+      "images": [
+        {
+          "id": "Im35",
+          "src": "/book/brahmachari/Im35.jpg",
+          "sha256": "f0b9337862d6259117d4ed3a53743f91cddc67add3391b5a2ceabe3eea3173ca"
+        },
+        {
+          "id": "Im36",
+          "src": "/book/brahmachari/Im36.jpg",
+          "sha256": "b2c61d5a011299b57d49d18796623fd2143c5b43b85d6d39f22abcfda5c380a3"
+        },
+        {
+          "id": "Im37",
+          "src": "/book/brahmachari/Im37.jpg",
+          "sha256": "3673fd972dfdc6bb3a4ab26ac5db6835608555624cd6ee205a4aad085778c0c7"
+        },
+        {
+          "id": "Im38",
+          "src": "/book/brahmachari/Im38.jpg",
+          "sha256": "5ee8d3fe221758bb2c3ba67c6a7e10452b181cbddefb90f80c181b291e5a6317"
+        }
+      ],
+      "hero": "/book/brahmachari/Im37.jpg",
+      "textUrl": "/book/brahmachari/mayurasana.json",
+      "relatedModel": "mayurasana",
+      "comparison": null,
+      "kind": "posture"
+    },
+    {
+      "id": "kukkutasana",
+      "order": 20,
+      "name": "Kukkutasana",
+      "iast": "Kukkuṭāsana",
+      "sanskrit": "कुक्कुटासन",
+      "english": "Cockerel",
+      "russian": "КУКУТТАСАНА (поза петуха)",
+      "family": "balance",
+      "summary": "The arms pass through the folded lotus legs and the palms support the raised body.",
+      "file": "ch1-4.xhtml",
+      "images": [
+        {
+          "id": "Im39",
+          "src": "/book/brahmachari/Im39.jpg",
+          "sha256": "4e0a16c6745b5145973dad5e556fdce44fbf429dac5ac27a706efaee6689ba23"
+        }
+      ],
+      "hero": "/book/brahmachari/Im39.jpg",
+      "textUrl": "/book/brahmachari/kukkutasana.json",
+      "relatedModel": "kukkutasana",
+      "comparison": null,
+      "kind": "posture"
+    },
+    {
+      "id": "kurmasana",
+      "order": 21,
+      "name": "Kurmasana",
+      "iast": "Kūrmāsana",
+      "sanskrit": "कूर्मासन",
+      "english": "Kneeling tortoise",
+      "russian": "КУРМАСАНА (поза черепахи)",
+      "family": "kneeling",
+      "summary": "The body sits on the heels and inclines forward, with bent elbows drawn into the abdomen.",
+      "file": "ch1-4.xhtml",
+      "images": [
+        {
+          "id": "Im40",
+          "src": "/book/brahmachari/Im40.jpg",
+          "sha256": "120ba6ffa5a06bd1a7f8b0ce115f17bb60ed393be07b4df5388ef80e975a3fe0"
+        }
+      ],
+      "hero": "/book/brahmachari/Im40.jpg",
+      "textUrl": "/book/brahmachari/kurmasana.json",
+      "relatedModel": "kurmasana",
+      "comparison": "The book shows a forward-inclined kneeling seat with elbows at the abdomen. The HYP study uses a compact crossed-ankle seat.",
+      "kind": "posture"
+    },
+    {
+      "id": "uttana-kurmasana",
+      "order": 22,
+      "name": "Uttana-kurmasana",
+      "iast": "Uttāna-kūrmāsana",
+      "sanskrit": "उत्तानकूर्मासन",
+      "english": "Reclined tortoise",
+      "russian": "УТТАНА-КУРМАСАНА (поза вытянутой черепахи)",
+      "family": "kneeling",
+      "summary": "A folded kneeling shape reclines into a backbend, with the crown down and the hands along the thighs.",
+      "file": "ch1-4.xhtml",
+      "images": [
+        {
+          "id": "Im41",
+          "src": "/book/brahmachari/Im41.jpg",
+          "sha256": "3050e30366177e5a4d23820f02c0be6c2ecec6a84c5204dcd1dbcba0fa20f6fc"
+        }
+      ],
+      "hero": "/book/brahmachari/Im41.jpg",
+      "textUrl": "/book/brahmachari/uttana-kurmasana.json",
+      "relatedModel": "uttana-kurmasana",
+      "comparison": "The book reclines from kneeling with hands on thighs. The HYP study reclines with folded lotus legs and hands behind the neck.",
+      "kind": "posture"
+    },
+    {
+      "id": "uttana-mandukasana",
+      "order": 23,
+      "name": "Uttana-mandukasana",
+      "iast": "Uttāna-maṇḍūkāsana",
+      "sanskrit": "उत्तानमण्डूकासन",
+      "english": "Extended frog",
+      "russian": "УТТАНА-МАНДУКАСАНА (поза вытянутой лягушки)",
+      "family": "kneeling",
+      "summary": "The section first shows the kneeling preparation, then a reclined kneeling backbend with the arms extended behind the head.",
+      "file": "ch1-5.xhtml",
+      "images": [
+        {
+          "id": "Im42",
+          "src": "/book/brahmachari/Im42.jpg",
+          "sha256": "7fe11d5c71eb796aa7bddca78b8c1c02b3ffb47e855471f8b22ca22444fc34a0"
+        },
+        {
+          "id": "Im43",
+          "src": "/book/brahmachari/Im43.jpg",
+          "sha256": "8f5b49ee203940a1000b1d2c05210a0eedfe2e1ad89ef3ab7cd03aa856645707"
+        }
+      ],
+      "hero": "/book/brahmachari/Im43.jpg",
+      "textUrl": "/book/brahmachari/uttana-mandukasana.json",
+      "relatedModel": null,
+      "comparison": null,
+      "kind": "posture"
+    },
+    {
+      "id": "vrksasana",
+      "order": 24,
+      "name": "Vrksasana",
+      "iast": "Vṛkṣāsana",
+      "sanskrit": "वृक्षासन",
+      "english": "Tree handstand variants",
+      "russian": "ВРИКШАСАНА (поза дерева)",
+      "family": "inverted",
+      "summary": "This section illustrates handstands and their preparations, including straight, folded and split legs.",
+      "file": "ch1-5.xhtml",
+      "images": [
+        {
+          "id": "Im44",
+          "src": "/book/brahmachari/Im44.jpg",
+          "sha256": "39a574138b84790422fe94ece0631d8a51ccfe404e6bb3029faa8367221dbdc4"
+        },
+        {
+          "id": "Im45",
+          "src": "/book/brahmachari/Im45.jpg",
+          "sha256": "91f6ab82ec053311f35cdc5bd8f093b7c1a504fcad0c9a4dfd92ec2847006a23"
+        },
+        {
+          "id": "Im46",
+          "src": "/book/brahmachari/Im46.jpg",
+          "sha256": "a077f44459ebc5490779a69d31851079fddb8aeb1489ceda819d29f6f5d7ab31"
+        },
+        {
+          "id": "Im47",
+          "src": "/book/brahmachari/Im47.jpg",
+          "sha256": "d061ee984e948a7df221e80db600660c6c1faae1bcaa3576bf8648aed1421daf"
+        },
+        {
+          "id": "Im48",
+          "src": "/book/brahmachari/Im48.jpg",
+          "sha256": "92cdcd0fed51f6293fb03dddb213e704c0477908660f44639d6ecfa673cf955c"
+        }
+      ],
+      "hero": "/book/brahmachari/Im46.jpg",
+      "textUrl": "/book/brahmachari/vrksasana.json",
+      "relatedModel": null,
+      "comparison": null,
+      "kind": "posture"
+    },
+    {
+      "id": "mandukasana",
+      "order": 25,
+      "name": "Mandukasana",
+      "iast": "Maṇḍūkāsana",
+      "sanskrit": "मण्डूकासन",
+      "english": "Frog",
+      "russian": "МАНДУКАСАНА (поза лягушки)",
+      "family": "kneeling",
+      "summary": "The chest inclines forward over the kneeling legs, with the elbows drawn behind the trunk.",
+      "file": "ch1-5.xhtml",
+      "images": [
+        {
+          "id": "Im49",
+          "src": "/book/brahmachari/Im49.jpg",
+          "sha256": "ef718aae3d9d068c0627814df818da03a4db45681b58933f97cdce3d3a8ba82a"
+        }
+      ],
+      "hero": "/book/brahmachari/Im49.jpg",
+      "textUrl": "/book/brahmachari/mandukasana.json",
+      "relatedModel": null,
+      "comparison": null,
+      "kind": "posture"
+    },
+    {
+      "id": "garudasana",
+      "order": 26,
+      "name": "Garudasana",
+      "iast": "Garuḍāsana",
+      "sanskrit": "गरुडासन",
+      "english": "Eagle",
+      "russian": "ГАРУДАСАНА (поза орла)",
+      "family": "standing",
+      "summary": "One leg crosses the standing leg; the elbows bend and the forearms intertwine in front of the chest.",
+      "file": "ch1-5.xhtml",
+      "images": [
+        {
+          "id": "Im50",
+          "src": "/book/brahmachari/Im50.jpg",
+          "sha256": "44abed151349ae984fbf8e6c4c9122f7c78f4f7bde371a1f1d1a25052644178e"
+        }
+      ],
+      "hero": "/book/brahmachari/Im50.jpg",
+      "textUrl": "/book/brahmachari/garudasana.json",
+      "relatedModel": null,
+      "comparison": null,
+      "kind": "posture"
+    },
+    {
+      "id": "vrsabhasana",
+      "order": 27,
+      "name": "Vrsabhasana",
+      "iast": "Vṛṣabhāsana",
+      "sanskrit": "वृषभासन",
+      "english": "Ox",
+      "russian": "ВРШАБХАСАНА (поза вола)",
+      "family": "kneeling",
+      "summary": "The body rests low over asymmetrically folded legs, supported by the forearms.",
+      "file": "ch1-5.xhtml",
+      "images": [
+        {
+          "id": "Im51",
+          "src": "/book/brahmachari/Im51.jpg",
+          "sha256": "ac23ae2851f43a5992b5d217e7afb7b88e6ce5e95a8ee970ab0cb2b50d5b0542"
+        }
+      ],
+      "hero": "/book/brahmachari/Im51.jpg",
+      "textUrl": "/book/brahmachari/vrsabhasana.json",
+      "relatedModel": null,
+      "comparison": null,
+      "kind": "posture"
+    },
+    {
+      "id": "salabhasana",
+      "order": 28,
+      "name": "Salabhasana",
+      "iast": "Śalabhāsana",
+      "sanskrit": "शलभासन",
+      "english": "Locust",
+      "russian": "ШАЛАБХАСАНА (поза саранчи)",
+      "family": "prone",
+      "summary": "From a face-down position, the legs extend upward behind the pelvis while the chest remains low.",
+      "file": "ch1-5.xhtml",
+      "images": [
+        {
+          "id": "Im52",
+          "src": "/book/brahmachari/Im52.jpg",
+          "sha256": "33ab8312b836eb3a5be875cf912f4fbeb987542a31ef99af7640be0a6c3df48c"
+        }
+      ],
+      "hero": "/book/brahmachari/Im52.jpg",
+      "textUrl": "/book/brahmachari/salabhasana.json",
+      "relatedModel": null,
+      "comparison": null,
+      "kind": "posture"
+    },
+    {
+      "id": "makarasana",
+      "order": 29,
+      "name": "Makarasana",
+      "iast": "Makarāsana",
+      "sanskrit": "मकरासन",
+      "english": "Crocodile",
+      "russian": "МАКАРАСАНА (поза крокодила)",
+      "family": "prone",
+      "summary": "The body lies face down, arms extending toward the head and legs lengthened behind.",
+      "file": "ch1-5.xhtml",
+      "images": [
+        {
+          "id": "Im53",
+          "src": "/book/brahmachari/Im53.jpg",
+          "sha256": "63b0d5131d2607d25bfa92e585063e29e7fd35d4df7aa78438cfcbfd92d85ff1"
+        }
+      ],
+      "hero": "/book/brahmachari/Im53.jpg",
+      "textUrl": "/book/brahmachari/makarasana.json",
+      "relatedModel": null,
+      "comparison": null,
+      "kind": "posture"
+    },
+    {
+      "id": "ustrasana",
+      "order": 30,
+      "name": "Ustrasana",
+      "iast": "Uṣṭrāsana",
+      "sanskrit": "उष्ट्रासन",
+      "english": "Prone camel variant",
+      "russian": "УШТРАСАНА (поза верблюда)",
+      "family": "prone",
+      "summary": "In this book the body lies face down, knees bent, with the hands holding the feet behind the back.",
+      "file": "ch1-5.xhtml",
+      "images": [
+        {
+          "id": "Im54",
+          "src": "/book/brahmachari/Im54.jpg",
+          "sha256": "4e41c0f202b4cc4f8237715f4560e9f8f555e5185787ba7c5a7be0f5242df2d2"
+        }
+      ],
+      "hero": "/book/brahmachari/Im54.jpg",
+      "textUrl": "/book/brahmachari/ustrasana.json",
+      "relatedModel": null,
+      "comparison": null,
+      "kind": "posture"
+    },
+    {
+      "id": "bhujangasana",
+      "order": 31,
+      "name": "Bhujangasana",
+      "iast": "Bhujaṅgāsana",
+      "sanskrit": "भुजङ्गासन",
+      "english": "Cobra",
+      "russian": "БХУДЖАНГАСАНА (поза кобры)",
+      "family": "prone",
+      "summary": "Palms support the lifted chest while the pelvis and extended legs remain near the ground.",
+      "file": "ch1-5.xhtml",
+      "images": [
+        {
+          "id": "Im55",
+          "src": "/book/brahmachari/Im55.jpg",
+          "sha256": "4699ecba2db19e93358e9788492e7ac9f3023393a8e2248b606b040652d70114"
+        }
+      ],
+      "hero": "/book/brahmachari/Im55.jpg",
+      "textUrl": "/book/brahmachari/bhujangasana.json",
+      "relatedModel": null,
+      "comparison": null,
+      "kind": "posture"
+    },
+    {
+      "id": "yogasana",
+      "order": 32,
+      "name": "Yogasana",
+      "iast": "Yogāsana",
+      "sanskrit": "योगासन",
+      "english": "Yoga seat and fold",
+      "russian": "ЙОГАСАНА (поза йога)",
+      "family": "seated",
+      "summary": "A lotus seat with hands in the lap is followed by a forward fold with the arms behind the back.",
+      "file": "ch1-5.xhtml",
+      "images": [
+        {
+          "id": "Im56",
+          "src": "/book/brahmachari/Im56.jpg",
+          "sha256": "f55e940af6229ba3d917cfb6efbe46c4a2afc5883b7cb3684169d9b449363f05"
+        },
+        {
+          "id": "Im57",
+          "src": "/book/brahmachari/Im57.jpg",
+          "sha256": "c0481dad78ae288258e5c052a22302eb67172f848d04405a13fa2d915d5a7c8d"
+        }
+      ],
+      "hero": "/book/brahmachari/Im57.jpg",
+      "textUrl": "/book/brahmachari/yogasana.json",
+      "relatedModel": null,
+      "comparison": null,
+      "kind": "posture"
+    },
+    {
+      "id": "chakrasana",
+      "order": 33,
+      "name": "Chakrasana",
+      "iast": "Cakrāsana",
+      "sanskrit": "चक्रासन",
+      "english": "Wheel",
+      "russian": "ЧАКРАСАНА (поза колеса)",
+      "family": "supine",
+      "summary": "Hands and feet support a high backward arch, with the abdomen facing upward.",
+      "file": "ch1-5.xhtml",
+      "images": [
+        {
+          "id": "Im58",
+          "src": "/book/brahmachari/Im58.jpg",
+          "sha256": "ba10e62bfab0826a4cc7d7f2afc584c78c19f2354bd091947339c320b5266363"
+        },
+        {
+          "id": "Im59",
+          "src": "/book/brahmachari/Im59.jpg",
+          "sha256": "c71caac3ca1ec6e0d6116d3714f08e7bc1f14c4419dea9b4ee9db65ddd7f55cc"
+        }
+      ],
+      "hero": "/book/brahmachari/Im58.jpg",
+      "textUrl": "/book/brahmachari/chakrasana.json",
+      "relatedModel": null,
+      "comparison": null,
+      "kind": "posture"
+    },
+    {
+      "id": "supta-pavana-muktasana",
+      "order": 34,
+      "name": "Supta-pavana-muktasana",
+      "iast": "Supta-pavana-muktāsana",
+      "sanskrit": "सुप्तपवनमुक्तासन",
+      "english": "Reclined knee embrace",
+      "russian": "СУПТА-ПАВАНА-МУКТАСАНА (поза освобождающая ветер)",
+      "family": "supine",
+      "summary": "One knee is drawn toward the chest while the opposite leg extends along the ground.",
+      "file": "ch1-5.xhtml",
+      "images": [
+        {
+          "id": "Im60",
+          "src": "/book/brahmachari/Im60.jpg",
+          "sha256": "ef0f44ff55a7bd5c3859e146c10db08ec37739215c0a48ddf0dcb8cff7de9dce"
+        }
+      ],
+      "hero": "/book/brahmachari/Im60.jpg",
+      "textUrl": "/book/brahmachari/supta-pavana-muktasana.json",
+      "relatedModel": null,
+      "comparison": null,
+      "kind": "posture"
+    },
+    {
+      "id": "uttanapadasana",
+      "order": 35,
+      "name": "Uttanapadasana",
+      "iast": "Uttānapādāsana",
+      "sanskrit": "उत्तानपादासन",
+      "english": "Raised legs",
+      "russian": "УТТАНПАДАСАНА (поза вытянутых ног)",
+      "family": "supine",
+      "summary": "The straight legs lift together while the head and upper trunk also rise slightly from the floor.",
+      "file": "ch1-5.xhtml",
+      "images": [
+        {
+          "id": "Im61",
+          "src": "/book/brahmachari/Im61.jpg",
+          "sha256": "27390436353e780d82b0a486caf776fa062478ead3e6cce0974404c5578dd108"
+        }
+      ],
+      "hero": "/book/brahmachari/Im61.jpg",
+      "textUrl": "/book/brahmachari/uttanapadasana.json",
+      "relatedModel": null,
+      "comparison": null,
+      "kind": "posture"
+    },
+    {
+      "id": "hasta-padangusthasana",
+      "order": 36,
+      "name": "Hasta-padangusthasana",
+      "iast": "Hasta-pādāṅguṣṭhāsana",
+      "sanskrit": "हस्तपादाङ्गुष्ठासन",
+      "english": "Standing toe hold",
+      "russian": "ХАСТАПАДАНГУШТАСАНА (поза с захватом большого пальца ноги)",
+      "family": "standing",
+      "summary": "A raised straight leg is held by the hand, with forward and outward-facing variations.",
+      "file": "ch1-5.xhtml",
+      "images": [
+        {
+          "id": "Im62",
+          "src": "/book/brahmachari/Im62.jpg",
+          "sha256": "7b0271ab38e447dea7e563a7b92bb9feb3a0e96c0707150ea386b5e4b3daf58c"
+        },
+        {
+          "id": "Im63",
+          "src": "/book/brahmachari/Im63.jpg",
+          "sha256": "29e25686dd3f7445511320e5027c2289b6ed30ed9a3cf8095ecbe2ad8bd3a8b5"
+        }
+      ],
+      "hero": "/book/brahmachari/Im62.jpg",
+      "textUrl": "/book/brahmachari/hasta-padangusthasana.json",
+      "relatedModel": null,
+      "comparison": null,
+      "kind": "posture"
+    },
+    {
+      "id": "baddha-padmasana",
+      "order": 37,
+      "name": "Baddha-padmasana",
+      "iast": "Baddha-padmāsana",
+      "sanskrit": "बद्धपद्मासन",
+      "english": "Bound lotus",
+      "russian": "БАДДХА-ПАДМАСАНА (поза связанного лотоса)",
+      "family": "seated",
+      "summary": "Lotus legs accompany a behind-the-back toe hold; a second plate shows the forward fold.",
+      "file": "ch1-5.xhtml",
+      "images": [
+        {
+          "id": "Im64",
+          "src": "/book/brahmachari/Im64.jpg",
+          "sha256": "e47ab9a7577660be96042acd2ddf20befe2fb2cb5808b69192a1da38ae619855"
+        },
+        {
+          "id": "Im65",
+          "src": "/book/brahmachari/Im65.jpg",
+          "sha256": "dd9ddb1d07432410829ca445fd9ed59d97c22566311fa0c688e62cccb5f4abec"
+        }
+      ],
+      "hero": "/book/brahmachari/Im64.jpg",
+      "textUrl": "/book/brahmachari/baddha-padmasana.json",
+      "relatedModel": null,
+      "comparison": null,
+      "kind": "posture"
+    },
+    {
+      "id": "pranavasana",
+      "order": 38,
+      "name": "Pranavasana",
+      "iast": "Praṇavāsana",
+      "sanskrit": "प्रणवासन",
+      "english": "Pranava fold",
+      "russian": "ПРАНАВАСАНА (поза пранавы)",
+      "family": "supine",
+      "summary": "Both legs fold behind the shoulders while the trunk rests back and the palms join at the chest.",
+      "file": "ch1-5.xhtml",
+      "images": [
+        {
+          "id": "Im66",
+          "src": "/book/brahmachari/Im66.jpg",
+          "sha256": "e6e80ac2e68c809148bd4d03f11a929cf1a42b0cfd36253142b246c76100b083"
+        }
+      ],
+      "hero": "/book/brahmachari/Im66.jpg",
+      "textUrl": "/book/brahmachari/pranavasana.json",
+      "relatedModel": null,
+      "comparison": null,
+      "kind": "posture"
+    },
+    {
+      "id": "naukasana",
+      "order": 39,
+      "name": "Naukasana",
+      "iast": "Naukāsana",
+      "sanskrit": "नौकासन",
+      "english": "Prone boat",
+      "russian": "НАУКАСАНА (поза лодки)",
+      "family": "prone",
+      "summary": "The chest, arms and straight legs lift away from the floor in a face-down body extension.",
+      "file": "ch1-5.xhtml",
+      "images": [
+        {
+          "id": "Im67",
+          "src": "/book/brahmachari/Im67.jpg",
+          "sha256": "ac60944c853bc0701f2ed5a9380b97f2092e2df40ce051b834ad7368d15a81bb"
+        }
+      ],
+      "hero": "/book/brahmachari/Im67.jpg",
+      "textUrl": "/book/brahmachari/naukasana.json",
+      "relatedModel": null,
+      "comparison": null,
+      "kind": "posture"
+    },
+    {
+      "id": "konasana",
+      "order": 40,
+      "name": "Konasana",
+      "iast": "Koṇāsana",
+      "sanskrit": "कोणासन",
+      "english": "Standing angle",
+      "russian": "КОНАСАНА (поза угла)",
+      "family": "standing",
+      "summary": "The feet spread apart, the trunk bends sideways, one hand reaches to the foot and the other arm extends overhead in the same direction.",
+      "file": "ch1-5.xhtml",
+      "images": [
+        {
+          "id": "Im68",
+          "src": "/book/brahmachari/Im68.jpg",
+          "sha256": "4196eb250182a1b377b602f198eceeaa20d0cc51b116d934bd3d11386ed5d0a4"
+        }
+      ],
+      "hero": "/book/brahmachari/Im68.jpg",
+      "textUrl": "/book/brahmachari/konasana.json",
+      "relatedModel": null,
+      "comparison": null,
+      "kind": "posture"
+    },
+    {
+      "id": "bhonomonasana",
+      "order": 41,
+      "name": "Bhonomonasana",
+      "iast": "Bhūnamanāsana",
+      "sanskrit": "भूनमनासन",
+      "english": "Wide-leg forward fold",
+      "russian": "БХОНОМАНАСАНА (наклон к разведенным ногам)",
+      "family": "seated",
+      "summary": "The legs spread along the floor as the chest lowers between them and hands reach toward the feet.",
+      "file": "ch1-5.xhtml",
+      "images": [
+        {
+          "id": "Im69",
+          "src": "/book/brahmachari/Im69.jpg",
+          "sha256": "1ebf955b4f3082fb8cc947c4f23cb7614f92378756a9e4bab067d976630dd58c"
+        }
+      ],
+      "hero": "/book/brahmachari/Im69.jpg",
+      "textUrl": "/book/brahmachari/bhonomonasana.json",
+      "relatedModel": null,
+      "comparison": null,
+      "kind": "posture"
+    },
+    {
+      "id": "sarvangasana",
+      "order": 42,
+      "name": "Sarvangasana",
+      "iast": "Sarvāṅgāsana",
+      "sanskrit": "सर्वाङ्गासन",
+      "english": "Overhead-leg inversion",
+      "russian": "САРВАНГАСАНА (поза всех конечностей)",
+      "family": "inverted",
+      "summary": "This section shows the legs extending overhead toward the floor, with the shoulders supporting the trunk.",
+      "file": "ch1-5.xhtml",
+      "images": [
+        {
+          "id": "Im70",
+          "src": "/book/brahmachari/Im70.jpg",
+          "sha256": "af5723319c6203576df938035df5345117e9a2800f2c7bf449095a59b4430e5b"
+        }
+      ],
+      "hero": "/book/brahmachari/Im70.jpg",
+      "textUrl": "/book/brahmachari/sarvangasana.json",
+      "relatedModel": null,
+      "comparison": null,
+      "kind": "posture"
+    },
+    {
+      "id": "akarna-dhanurasana",
+      "order": 43,
+      "name": "Akarna-dhanurasana",
+      "iast": "Ākarṇa-dhanurāsana",
+      "sanskrit": "आकर्णधनुरासन",
+      "english": "Archer",
+      "russian": "АКАРНА-ДХАНУРАСАНА (поза натянутой тетивы)",
+      "family": "seated",
+      "summary": "One leg stays extended while the other foot draws toward the ear, both feet held by the hands.",
+      "file": "ch1-5.xhtml",
+      "images": [
+        {
+          "id": "Im71",
+          "src": "/book/brahmachari/Im71.jpg",
+          "sha256": "29c55f46d02e14d5a487951dca4ce14391fe6c56b860d66b0ea56353fe5476da"
+        }
+      ],
+      "hero": "/book/brahmachari/Im71.jpg",
+      "textUrl": "/book/brahmachari/akarna-dhanurasana.json",
+      "relatedModel": null,
+      "comparison": null,
+      "kind": "posture"
+    },
+    {
+      "id": "urdhva-hastottanasana",
+      "order": 44,
+      "name": "Urdhva-hastottanasana",
+      "iast": "Ūrdhva-hastottānāsana",
+      "sanskrit": "ऊर्ध्वहस्तोत्तानासन",
+      "english": "Overhead side stretch",
+      "russian": "УРДХВА-ХАСТАТОНАСАНА (верхнее вытягивание рук)",
+      "family": "standing",
+      "summary": "The hands join above the head and the standing trunk bends sideways.",
+      "file": "ch1-5.xhtml",
+      "images": [
+        {
+          "id": "Im72",
+          "src": "/book/brahmachari/Im72.jpg",
+          "sha256": "da9ac6f1dcc71831f1333150785c8539157297c5b7a1a35cf869963bac81afb0"
+        }
+      ],
+      "hero": "/book/brahmachari/Im72.jpg",
+      "textUrl": "/book/brahmachari/urdhva-hastottanasana.json",
+      "relatedModel": null,
+      "comparison": null,
+      "kind": "posture"
+    },
+    {
+      "id": "parvatasana",
+      "order": 45,
+      "name": "Parvatasana",
+      "iast": "Parvatāsana",
+      "sanskrit": "पर्वतासन",
+      "english": "Seated mountain",
+      "russian": "ПАРВАТАСАНА (поза горы)",
+      "family": "kneeling",
+      "summary": "In the primary picture, folded lotus legs balance over the knees while the arms extend overhead.",
+      "file": "ch1-5.xhtml",
+      "images": [
+        {
+          "id": "Im73",
+          "src": "/book/brahmachari/Im73.jpg",
+          "sha256": "625c328cb205bf758a6c81c35fd8dd191ff76d74944a7cd56dfd66aeff3125d5"
+        }
+      ],
+      "hero": "/book/brahmachari/Im73.jpg",
+      "textUrl": "/book/brahmachari/parvatasana.json",
+      "relatedModel": null,
+      "comparison": null,
+      "kind": "posture"
+    },
+    {
+      "id": "padangusthasana",
+      "order": 46,
+      "name": "Padangusthasana",
+      "iast": "Pādāṅguṣṭhāsana",
+      "sanskrit": "पादाङ्गुष्ठासन",
+      "english": "Toe balance",
+      "russian": "ПАДАНГУШТАСАНА (поза большого пальца ноги)",
+      "family": "balance",
+      "summary": "A deeply folded leg arrangement balances over one forefoot with the other foot resting above it.",
+      "file": "ch1-5.xhtml",
+      "images": [
+        {
+          "id": "Im74",
+          "src": "/book/brahmachari/Im74.jpg",
+          "sha256": "fc380dd8ebe7c5f0a00764152f5fedce2a6b4cee84d3e861ffaef00d2584be6b"
+        }
+      ],
+      "hero": "/book/brahmachari/Im74.jpg",
+      "textUrl": "/book/brahmachari/padangusthasana.json",
+      "relatedModel": null,
+      "comparison": null,
+      "kind": "posture"
+    },
+    {
+      "id": "garbhasana",
+      "order": 47,
+      "name": "Garbhasana",
+      "iast": "Garbhāsana",
+      "sanskrit": "गर्भासन",
+      "english": "Embryo",
+      "russian": "ГАРБХАСАНА (поза зародыша)",
+      "family": "seated",
+      "summary": "The arms thread through the lotus legs; the illustrations show hands at the feet and beside the face.",
+      "file": "ch1-5.xhtml",
+      "images": [
+        {
+          "id": "Im75",
+          "src": "/book/brahmachari/Im75.jpg",
+          "sha256": "17e255f796095674ed16fc9fe83b01fb1845cc4eae846576dc82dfb45446ef4b"
+        },
+        {
+          "id": "Im76",
+          "src": "/book/brahmachari/Im76.jpg",
+          "sha256": "07fde3d26f75d07a9b0a8a131266fc073e6897ee001cd85d8da95b8cfd9eb34e"
+        }
+      ],
+      "hero": "/book/brahmachari/Im76.jpg",
+      "textUrl": "/book/brahmachari/garbhasana.json",
+      "relatedModel": null,
+      "comparison": null,
+      "kind": "posture"
+    },
+    {
+      "id": "brahmacharyasana",
+      "order": 48,
+      "name": "Brahmacharyasana",
+      "iast": "Brahmacaryāsana",
+      "sanskrit": "ब्रह्मचर्यासन",
+      "english": "Celibate seat",
+      "russian": "БРАХМАЧАРИАСАНА (поза целибата)",
+      "family": "kneeling",
+      "summary": "The pelvis rests between the folded legs with the feet turned outward and hands on the knees.",
+      "file": "ch1-5.xhtml",
+      "images": [
+        {
+          "id": "Im77",
+          "src": "/book/brahmachari/Im77.jpg",
+          "sha256": "ac933534631cafe8c31150b96bfe75f1c02528465d3769faf9ecd41445ffd57d"
+        }
+      ],
+      "hero": "/book/brahmachari/Im77.jpg",
+      "textUrl": "/book/brahmachari/brahmacharyasana.json",
+      "relatedModel": null,
+      "comparison": null,
+      "kind": "posture"
+    },
+    {
+      "id": "utthita-padmasana",
+      "order": 49,
+      "name": "Utthita-padmasana",
+      "iast": "Utthita-padmāsana",
+      "sanskrit": "उत्थितपद्मासन",
+      "english": "Lifted lotus",
+      "russian": "УТТХИТА-ПАДМАСАНА (поза приподнятого лотоса)",
+      "family": "balance",
+      "summary": "The palms press into the floor beside the hips, raising the folded lotus body.",
+      "file": "ch1-5.xhtml",
+      "images": [
+        {
+          "id": "Im78",
+          "src": "/book/brahmachari/Im78.jpg",
+          "sha256": "18209095c91ba8dc975715b3a032eda94e1b9e98740a73c8e32639d6b054486f"
+        }
+      ],
+      "hero": "/book/brahmachari/Im78.jpg",
+      "textUrl": "/book/brahmachari/utthita-padmasana.json",
+      "relatedModel": null,
+      "comparison": null,
+      "kind": "posture"
+    },
+    {
+      "id": "mrgasana",
+      "order": 50,
+      "name": "Mrgasana",
+      "iast": "Mṛgāsana",
+      "sanskrit": "मृगासन",
+      "english": "Deer variants",
+      "russian": "МРГАСАНА (поза оленя)",
+      "family": "seated",
+      "summary": "The primary picture shows one foot planted in front and the other leg folded back; one hand supports the cheek and the other rests on the raised knee.",
+      "file": "ch1-5.xhtml",
+      "images": [
+        {
+          "id": "Im79",
+          "src": "/book/brahmachari/Im79.jpg",
+          "sha256": "3d90e5c43f819e13df37986d5f6e049b00eb4494edd6886183fcafc54c65b95c"
+        },
+        {
+          "id": "Im80",
+          "src": "/book/brahmachari/Im80.jpg",
+          "sha256": "ac272cf37ebd9c243429b13fb7a255f415d27002f27f075695c2028f713e419c"
+        }
+      ],
+      "hero": "/book/brahmachari/Im79.jpg",
+      "textUrl": "/book/brahmachari/mrgasana.json",
+      "relatedModel": null,
+      "comparison": null,
+      "kind": "posture"
+    },
+    {
+      "id": "pavanamuktasana",
+      "order": 51,
+      "name": "Pavanamuktasana",
+      "iast": "Pavanamuktāsana",
+      "sanskrit": "पवनमुक्तासन",
+      "english": "Seated knee embrace",
+      "russian": "ПАВАНМУКТАСАНА (поза высвобождающая ветер)",
+      "family": "seated",
+      "summary": "One or both bent knees are held close to the chest in a low seated or squatting position.",
+      "file": "ch1-5.xhtml",
+      "images": [
+        {
+          "id": "Im81",
+          "src": "/book/brahmachari/Im81.jpg",
+          "sha256": "3a3a6b4e71af10a48fa17c2671593b3057715bb3c59271c1f8aa2e8014108f50"
+        },
+        {
+          "id": "Im82",
+          "src": "/book/brahmachari/Im82.jpg",
+          "sha256": "c49e4aa5f1f9597279c41ff5525919c5a1b5b866a31a2270c304a63bbc4594cc"
+        }
+      ],
+      "hero": "/book/brahmachari/Im81.jpg",
+      "textUrl": "/book/brahmachari/pavanamuktasana.json",
+      "relatedModel": null,
+      "comparison": null,
+      "kind": "posture"
+    },
+    {
+      "id": "urdhva-sarvangasana",
+      "order": 52,
+      "name": "Urdhva-sarvangasana",
+      "iast": "Ūrdhva-sarvāṅgāsana",
+      "sanskrit": "ऊर्ध्वसर्वाङ्गासन",
+      "english": "Upright shoulder stand",
+      "russian": "УРДХВАСАРВАНГАСАНА (стойка на плечах)",
+      "family": "inverted",
+      "summary": "The legs rise together above the trunk while the hands support the back.",
+      "file": "ch1-5.xhtml",
+      "images": [
+        {
+          "id": "Im83",
+          "src": "/book/brahmachari/Im83.jpg",
+          "sha256": "01f6e0ec1353c583acc03993873e8da9f1c5905bd4a863d4e46f7e840e0f7cc2"
+        }
+      ],
+      "hero": "/book/brahmachari/Im83.jpg",
+      "textUrl": "/book/brahmachari/urdhva-sarvangasana.json",
+      "relatedModel": null,
+      "comparison": null,
+      "kind": "posture"
+    },
+    {
+      "id": "vikatasana",
+      "order": 53,
+      "name": "Vikatasana",
+      "iast": "Vikaṭāsana",
+      "sanskrit": "विकटासन",
+      "english": "Folded-foot seat",
+      "russian": "ВИКАТАСАНА (пугающая поза)",
+      "family": "seated",
+      "summary": "The knees spread in a seated shape while the soles turn upward beside the pelvis.",
+      "file": "ch1-5.xhtml",
+      "images": [
+        {
+          "id": "Im84",
+          "src": "/book/brahmachari/Im84.jpg",
+          "sha256": "65cdac1e8422db82dd5cd124e682956802adda6bfa066d647c124ae403783ba3"
+        }
+      ],
+      "hero": "/book/brahmachari/Im84.jpg",
+      "textUrl": "/book/brahmachari/vikatasana.json",
+      "relatedModel": null,
+      "comparison": null,
+      "kind": "posture"
+    },
+    {
+      "id": "sirsachakrasana",
+      "order": 54,
+      "name": "Sirsachakrasana",
+      "iast": "Śīrṣacakrāsana",
+      "sanskrit": "शीर्षचक्रासन",
+      "english": "Head-supported wheel",
+      "russian": "ШИРШАЧАКРАСАНА (поза колеса с опорой на голову)",
+      "family": "inverted",
+      "summary": "The feet and head support a deep backward arch, with the palms near the head.",
+      "file": "ch1-5.xhtml",
+      "images": [
+        {
+          "id": "Im85",
+          "src": "/book/brahmachari/Im85.jpg",
+          "sha256": "0d65b22abfefa93a9b9bb126d34526affe9ed843edcdb00a25c2a7c53b5dd481"
+        }
+      ],
+      "hero": "/book/brahmachari/Im85.jpg",
+      "textUrl": "/book/brahmachari/sirsachakrasana.json",
+      "relatedModel": null,
+      "comparison": null,
+      "kind": "posture"
+    },
+    {
+      "id": "avatthasana",
+      "order": 55,
+      "name": "Avatthasana",
+      "iast": "Aśvatthāsana",
+      "sanskrit": "अश्वत्थासन",
+      "english": "Sacred fig balance",
+      "russian": "АВАТТХАСАНА (поза священного фигового дерева)",
+      "family": "standing",
+      "summary": "One leg reaches backward, one arm rises overhead and the opposite arm extends sideways.",
+      "file": "ch1-5.xhtml",
+      "images": [
+        {
+          "id": "Im86",
+          "src": "/book/brahmachari/Im86.jpg",
+          "sha256": "ad6af568576586c52d93c53408376fb9f40637b23021ad3abd2a988a265aac0f"
+        }
+      ],
+      "hero": "/book/brahmachari/Im86.jpg",
+      "textUrl": "/book/brahmachari/avatthasana.json",
+      "relatedModel": null,
+      "comparison": null,
+      "kind": "posture"
+    },
+    {
+      "id": "kandapidasana",
+      "order": 56,
+      "name": "Kandapidasana",
+      "iast": "Kandapīḍāsana",
+      "sanskrit": "कन्दपीडासन",
+      "english": "Root-compressing seat",
+      "russian": "КАНДАПИДАСАНА (корневое сжимающее положение)",
+      "family": "seated",
+      "summary": "The feet turn upward toward the abdomen while the knees open and remain low.",
+      "file": "ch1-5.xhtml",
+      "images": [
+        {
+          "id": "Im87",
+          "src": "/book/brahmachari/Im87.jpg",
+          "sha256": "1dbda74ec42763a5a2a8564f609a8a3e40fbf5d13299617327b23fbcdc1538bd"
+        }
+      ],
+      "hero": "/book/brahmachari/Im87.jpg",
+      "textUrl": "/book/brahmachari/kandapidasana.json",
+      "relatedModel": null,
+      "comparison": null,
+      "kind": "posture"
+    },
+    {
+      "id": "ardha-matsyendrasana",
+      "order": 57,
+      "name": "Ardha-matsyendrasana",
+      "iast": "Ardha-matsyendrāsana",
+      "sanskrit": "अर्धमत्स्येन्द्रासन",
+      "english": "Half spinal twist",
+      "russian": "АРДХА-МАТСИЕНДРАСАНА (скручивание позвоночника, половинная матсиендрасана)",
+      "family": "seated",
+      "summary": "One foot crosses the opposite leg and the trunk turns toward the raised knee.",
+      "file": "ch1-5.xhtml",
+      "images": [
+        {
+          "id": "Im88",
+          "src": "/book/brahmachari/Im88.jpg",
+          "sha256": "885519fc7fc63178996e5ac4bac387259a669f863178bc9f92cffb38a2bb47f5"
+        }
+      ],
+      "hero": "/book/brahmachari/Im88.jpg",
+      "textUrl": "/book/brahmachari/ardha-matsyendrasana.json",
+      "relatedModel": null,
+      "comparison": null,
+      "kind": "posture"
+    },
+    {
+      "id": "bakasana",
+      "order": 58,
+      "name": "Bakasana",
+      "iast": "Bakāsana",
+      "sanskrit": "बकासन",
+      "english": "Crane",
+      "russian": "БАКАСАНА (поза подъемного крана или журавля)",
+      "family": "balance",
+      "summary": "The palms support the body while the knees fold against the upper arms and the feet lift behind.",
+      "file": "ch1-6.xhtml",
+      "images": [
+        {
+          "id": "Im89",
+          "src": "/book/brahmachari/Im89.jpg",
+          "sha256": "c6cb4d951af0e3f30734e839910c4ebeba2d6f8d233fefc4a84cbef31988f066"
+        }
+      ],
+      "hero": "/book/brahmachari/Im89.jpg",
+      "textUrl": "/book/brahmachari/bakasana.json",
+      "relatedModel": null,
+      "comparison": null,
+      "kind": "posture"
+    },
+    {
+      "id": "titibhasana",
+      "order": 59,
+      "name": "Titibhasana",
+      "iast": "Ṭiṭṭibhāsana",
+      "sanskrit": "टिट्टिभासन",
+      "english": "Lapwing balance",
+      "russian": "ТИТИБХАСАНА (ПОЗА ЧИБИСА)",
+      "family": "balance",
+      "summary": "Both legs extend around the shoulders in a hand-supported balance; the section includes a toe-holding variant.",
+      "file": "ch1-6.xhtml",
+      "images": [
+        {
+          "id": "Im90",
+          "src": "/book/brahmachari/Im90.jpg",
+          "sha256": "52f8353de4918cdcf24418604c9d8a2ce0d702920db3167c9f761d1477125fea"
+        },
+        {
+          "id": "Im91",
+          "src": "/book/brahmachari/Im91.jpg",
+          "sha256": "c04de4883e1f673621aaebcf2104f3202987236649c6ff4d9234f6a48c0291f4"
+        }
+      ],
+      "hero": "/book/brahmachari/Im91.jpg",
+      "textUrl": "/book/brahmachari/titibhasana.json",
+      "relatedModel": null,
+      "comparison": null,
+      "kind": "posture"
+    },
+    {
+      "id": "viparita-sirsa-dvihasta-baddhasana",
+      "order": 60,
+      "name": "Viparita-sirsa-dvihasta-baddhasana",
+      "iast": "Viparīta-śīrṣa-dvihasta-baddhāsana",
+      "sanskrit": "विपरीतशीर्षद्विहस्तबद्धासन",
+      "english": "Inverted arm bind",
+      "russian": "ВИПАРИТА-ШИРША-ДВИХАСТА БАДДХАСАНА (перевёрнутая поза, с ручным замком)",
+      "family": "standing",
+      "summary": "A standing forward fold accompanies an arm bind near or behind the head.",
+      "file": "ch1-6.xhtml",
+      "images": [
+        {
+          "id": "Im92",
+          "src": "/book/brahmachari/Im92.jpg",
+          "sha256": "8b296853bb0eef546741a425ff02195e2d9ef8fc8cdfc4bf87303635a22ca397"
+        },
+        {
+          "id": "Im93",
+          "src": "/book/brahmachari/Im93.jpg",
+          "sha256": "a2f2bc4fc6940eb6d9fa0042a5cb250e6aa62b5b8c7c98ce731df9cebc195bcb"
+        }
+      ],
+      "hero": "/book/brahmachari/Im92.jpg",
+      "textUrl": "/book/brahmachari/viparita-sirsa-dvihasta-baddhasana.json",
+      "relatedModel": null,
+      "comparison": null,
+      "kind": "posture"
+    },
+    {
+      "id": "jhulasana",
+      "order": 61,
+      "name": "Jhulasana",
+      "iast": "Jhūlāsana",
+      "sanskrit": "झूलासन",
+      "english": "Swing",
+      "russian": "ДЖУЛАСАНА (поза качелей)",
+      "family": "balance",
+      "summary": "The folded seated legs hover above the ground, supported by upright forearms and hands.",
+      "file": "ch1-6.xhtml",
+      "images": [
+        {
+          "id": "Im94",
+          "src": "/book/brahmachari/Im94.jpg",
+          "sha256": "31130f82f70c2f14dbaba9a2c4471dce09606a65c60d058d6d26105c04adc852"
+        }
+      ],
+      "hero": "/book/brahmachari/Im94.jpg",
+      "textUrl": "/book/brahmachari/jhulasana.json",
+      "relatedModel": null,
+      "comparison": null,
+      "kind": "posture"
+    },
+    {
+      "id": "sukhasana",
+      "order": 62,
+      "name": "Sukhasana",
+      "iast": "Sukhāsana",
+      "sanskrit": "सुखासन",
+      "english": "Easy seat",
+      "russian": "СУКХАСАНА (легкое положение)",
+      "family": "seated",
+      "summary": "A relaxed upright crossed-leg seat with the hands resting together in the lap.",
+      "file": "ch1-6.xhtml",
+      "images": [
+        {
+          "id": "Im95",
+          "src": "/book/brahmachari/Im95.jpg",
+          "sha256": "fdc7f270e77d94179fa36867e64a6296ca5e10d57428eedd6d63f60374266d17"
+        }
+      ],
+      "hero": "/book/brahmachari/Im95.jpg",
+      "textUrl": "/book/brahmachari/sukhasana.json",
+      "relatedModel": null,
+      "comparison": null,
+      "kind": "posture"
+    },
+    {
+      "id": "janu-sirsasana",
+      "order": 63,
+      "name": "Janu-sirsasana",
+      "iast": "Jānu-śīrṣāsana",
+      "sanskrit": "जानुशीर्षासन",
+      "english": "Head-to-knee fold",
+      "russian": "ДЖАНУ-ШИРШАСАНА (коленно-головная поза)",
+      "family": "seated",
+      "summary": "One leg extends while the other folds inward; the trunk lowers along the extended leg.",
+      "file": "ch1-6.xhtml",
+      "images": [
+        {
+          "id": "Im96",
+          "src": "/book/brahmachari/Im96.jpg",
+          "sha256": "e5b66e7827e4133790f195841304668a83e0f73dcfc3b10bd630ebe07c1cf053"
+        },
+        {
+          "id": "Im97",
+          "src": "/book/brahmachari/Im97.jpg",
+          "sha256": "3d88f010fd7cd04f9d9f1f49f743357ff2243c26a7c333050867b60dc057a1ff"
+        }
+      ],
+      "hero": "/book/brahmachari/Im96.jpg",
+      "textUrl": "/book/brahmachari/janu-sirsasana.json",
+      "relatedModel": null,
+      "comparison": null,
+      "kind": "posture"
+    },
+    {
+      "id": "nadi-sodhanasana",
+      "order": 64,
+      "name": "Nadi-sodhanasana",
+      "iast": "Nāḍī-śodhanāsana",
+      "sanskrit": "नाडीशोधनासन",
+      "english": "Nadi-cleansing fold",
+      "russian": "НАДИ-ШОДХАНАСАНА (поза, очищающая нади)",
+      "family": "standing",
+      "summary": "With the feet close together, the trunk folds forward and hands reach near the ankles.",
+      "file": "ch1-6.xhtml",
+      "images": [
+        {
+          "id": "Im98",
+          "src": "/book/brahmachari/Im98.jpg",
+          "sha256": "2e1b01153965a20798f92711acabf71f144f9f69cf4a06944f8377afa2e96bdf"
+        }
+      ],
+      "hero": "/book/brahmachari/Im98.jpg",
+      "textUrl": "/book/brahmachari/nadi-sodhanasana.json",
+      "relatedModel": null,
+      "comparison": null,
+      "kind": "posture"
+    },
+    {
+      "id": "vistra-pada-sarvangasana",
+      "order": 65,
+      "name": "Vistra-pada-sarvangasana",
+      "iast": "Vistṛta-pāda-sarvāṅgāsana",
+      "sanskrit": "विस्तृतपादसर्वाङ्गासन",
+      "english": "Split-leg inversion",
+      "russian": "ВИШТРА-ПАДА-САРВАНГАСАНА (перевернутая поза с разведенными ногами)",
+      "family": "inverted",
+      "summary": "The shoulders support the body as the straight legs extend apart overhead.",
+      "file": "ch1-6.xhtml",
+      "images": [
+        {
+          "id": "Im99",
+          "src": "/book/brahmachari/Im99.jpg",
+          "sha256": "ed381af3bda8ceb679fa8f6df725e1cebebb36994117464156a986ddd3165899"
+        }
+      ],
+      "hero": "/book/brahmachari/Im99.jpg",
+      "textUrl": "/book/brahmachari/vistra-pada-sarvangasana.json",
+      "relatedModel": null,
+      "comparison": null,
+      "kind": "posture"
+    },
+    {
+      "id": "ekapada-bhujasana",
+      "order": 66,
+      "name": "Ekapada-bhujasana",
+      "iast": "Ekapāda-bhujāsana",
+      "sanskrit": "एकपादभुजासन",
+      "english": "One-leg arm balance",
+      "russian": "ЭКАПАДА БХУДЖАСАНА (одностороннее положение с рукой на ноге)",
+      "family": "balance",
+      "summary": "One leg crosses high over an arm while the other extends forward, supported on the palms.",
+      "file": "ch1-6.xhtml",
+      "images": [
+        {
+          "id": "Im100",
+          "src": "/book/brahmachari/Im100.jpg",
+          "sha256": "cce94fe1e28c036d135aaf34d34c0a77c311d12e127bbe6ca1daca9994f485df"
+        }
+      ],
+      "hero": "/book/brahmachari/Im100.jpg",
+      "textUrl": "/book/brahmachari/ekapada-bhujasana.json",
+      "relatedModel": null,
+      "comparison": null,
+      "kind": "posture"
+    },
+    {
+      "id": "dvipada-bhujasana",
+      "order": 67,
+      "name": "Dvipada-bhujasana",
+      "iast": "Dvipāda-bhujāsana",
+      "sanskrit": "द्विपादभुजासन",
+      "english": "Two-leg arm balance",
+      "russian": "ДВИПАДА БХУДЖАСАНА (двухстороннее положения ноги на плече)",
+      "family": "balance",
+      "summary": "Both knees fold over the shoulders while the palms support the lifted body.",
+      "file": "ch1-6.xhtml",
+      "images": [
+        {
+          "id": "Im101",
+          "src": "/book/brahmachari/Im101.jpg",
+          "sha256": "5c095f9a5af0a2002b8b7cbb698e2ce8146fb6282cfc34308eeb27f2a1e9963f"
+        }
+      ],
+      "hero": "/book/brahmachari/Im101.jpg",
+      "textUrl": "/book/brahmachari/dvipada-bhujasana.json",
+      "relatedModel": null,
+      "comparison": null,
+      "kind": "posture"
+    },
+    {
+      "id": "sirsa-janu-sparsasana",
+      "order": 68,
+      "name": "Sirsa-janu-sparsasana",
+      "iast": "Śīrṣa-jānu-sparśāsana",
+      "sanskrit": "शीर्षजानुस्पर्शासन",
+      "english": "Standing head-to-knee",
+      "russian": "ШИРШАДЖАНУ СПАРШАСАНА (Наклон с ксанием головой колена)",
+      "family": "standing",
+      "summary": "The trunk folds over a straight supporting leg while the other knee bends, bringing that heel toward the buttock for a two-hand hold.",
+      "file": "ch1-6.xhtml",
+      "images": [
+        {
+          "id": "Im102",
+          "src": "/book/brahmachari/Im102.jpg",
+          "sha256": "e02d81fbd1a7a75156c8920ac6f611f2d2e0169df0b50829013e1e2e6b13698c"
+        }
+      ],
+      "hero": "/book/brahmachari/Im102.jpg",
+      "textUrl": "/book/brahmachari/sirsa-janu-sparsasana.json",
+      "relatedModel": null,
+      "comparison": null,
+      "kind": "posture"
+    },
+    {
+      "id": "supta-vrscikasana",
+      "order": 69,
+      "name": "Supta-vrscikasana",
+      "iast": "Supta-vṛścikāsana",
+      "sanskrit": "सुप्तवृश्चिकासन",
+      "english": "Reclined scorpion",
+      "russian": "СУПТА ВРШЧИКАСАНА (положение спящего скорпиона)",
+      "family": "prone",
+      "summary": "From a prone backbend, the bent legs reach toward the chin while the arms spread sideways along the ground.",
+      "file": "ch1-6.xhtml",
+      "images": [
+        {
+          "id": "Im103",
+          "src": "/book/brahmachari/Im103.jpg",
+          "sha256": "5e1d7fb872d0e3ac93ea19fc5368a2119c2956cf62c1d4b6540d778688961d9b"
+        }
+      ],
+      "hero": "/book/brahmachari/Im103.jpg",
+      "textUrl": "/book/brahmachari/supta-vrscikasana.json",
+      "relatedModel": null,
+      "comparison": null,
+      "kind": "posture"
+    },
+    {
+      "id": "utthita-dvipada-kandarasana",
+      "order": 70,
+      "name": "Utthita-dvipada-kandarasana",
+      "iast": "Utthita-dvipāda-kandarāsana",
+      "sanskrit": "उत्थितद्विपादकन्दरासन",
+      "english": "Lifted legs-behind-head",
+      "russian": "УТТХИТА ДВИПАДА КАНДАРАСАНА (положение с двумя ногами за головой)",
+      "family": "balance",
+      "summary": "Both feet fold behind the head; the plates show a hand-supported lift and a seated arm variation.",
+      "file": "ch1-6.xhtml",
+      "images": [
+        {
+          "id": "Im104",
+          "src": "/book/brahmachari/Im104.jpg",
+          "sha256": "8eb2711d8da50b9bafa49e39a615cb4056036cf5fca1bb19b5c246220fdfe588"
+        },
+        {
+          "id": "Im105",
+          "src": "/book/brahmachari/Im105.jpg",
+          "sha256": "d26b463005be2e41cfe2a905b0d651397956eadccf832777c1360529b14f25ed"
+        }
+      ],
+      "hero": "/book/brahmachari/Im105.jpg",
+      "textUrl": "/book/brahmachari/utthita-dvipada-kandarasana.json",
+      "relatedModel": null,
+      "comparison": null,
+      "kind": "posture"
+    },
+    {
+      "id": "tadasana",
+      "order": 71,
+      "name": "Tadasana",
+      "iast": "Tāḍāsana",
+      "sanskrit": "ताडासन",
+      "english": "Palm-tree stretch",
+      "russian": "ТАДАСАНА (положение пальмы)",
+      "family": "standing",
+      "summary": "The arms extend overhead as the body rises over the toes, with straight and arched variations.",
+      "file": "ch1-6.xhtml",
+      "images": [
+        {
+          "id": "Im106",
+          "src": "/book/brahmachari/Im106.jpg",
+          "sha256": "713580d46aebf97f6002bc2edc2684a4217e78434181a9d30fff96e7accfe8e2"
+        },
+        {
+          "id": "Im107",
+          "src": "/book/brahmachari/Im107.jpg",
+          "sha256": "7ea00cf69713849437dc3e4d39d18a147c8aaaf1fef2f940bab6b5c771309b75"
+        }
+      ],
+      "hero": "/book/brahmachari/Im106.jpg",
+      "textUrl": "/book/brahmachari/tadasana.json",
+      "relatedModel": null,
+      "comparison": null,
+      "kind": "posture"
+    },
+    {
+      "id": "khanjanasana",
+      "order": 72,
+      "name": "Khanjanasana",
+      "iast": "Khañjanāsana",
+      "sanskrit": "खञ्जनासन",
+      "english": "Wagtail",
+      "russian": "КХАНЖАНАСАНА (положение трясогузки)",
+      "family": "kneeling",
+      "summary": "The plates pair a wide-kneed upright position with a forward hand-supported crouch.",
+      "file": "ch1-6.xhtml",
+      "images": [
+        {
+          "id": "Im108",
+          "src": "/book/brahmachari/Im108.jpg",
+          "sha256": "1486db8206f63155cba79dae71a9397e5a4a6c1bf0016486be2fd7b5cc6d9c75"
+        },
+        {
+          "id": "Im109",
+          "src": "/book/brahmachari/Im109.jpg",
+          "sha256": "2012715a610d434e91f6664ac9fb40c7be9f8d635b31863105507501e93f308c"
+        }
+      ],
+      "hero": "/book/brahmachari/Im108.jpg",
+      "textUrl": "/book/brahmachari/khanjanasana.json",
+      "relatedModel": null,
+      "comparison": null,
+      "kind": "posture"
+    },
+    {
+      "id": "ekahasta-bhujasana",
+      "order": 73,
+      "name": "Ekahasta-bhujasana",
+      "iast": "Ekahasta-bhujāsana",
+      "sanskrit": "एकहस्तभुजासन",
+      "english": "One-arm shoulder-foot pose",
+      "russian": "ЭКАХАСТА БХУДЖАСАНА (положение руки на плече)",
+      "family": "seated",
+      "summary": "One bent leg rises beside the shoulder while a hand holds the lifted foot.",
+      "file": "ch1-6.xhtml",
+      "images": [
+        {
+          "id": "Im110",
+          "src": "/book/brahmachari/Im110.jpg",
+          "sha256": "f018beddb7d8b133a4b0f9485f6ba4022110a3d633305186c333f31890f3c017"
+        }
+      ],
+      "hero": "/book/brahmachari/Im110.jpg",
+      "textUrl": "/book/brahmachari/ekahasta-bhujasana.json",
+      "relatedModel": null,
+      "comparison": null,
+      "kind": "posture"
+    },
+    {
+      "id": "dvihasta-bhujasana",
+      "order": 74,
+      "name": "Dvihasta-bhujasana",
+      "iast": "Dvihasta-bhujāsana",
+      "sanskrit": "द्विहस्तभुजासन",
+      "english": "Both-arm shoulder-foot pose",
+      "russian": "ДВИХАСТА БХУДЖАСАНА (положение обеих рук на плечах)",
+      "family": "seated",
+      "summary": "Both knees draw beside the upper arms and the hands hold the raised feet.",
+      "file": "ch1-6.xhtml",
+      "images": [
+        {
+          "id": "Im111",
+          "src": "/book/brahmachari/Im111.jpg",
+          "sha256": "3d82cac3a4e025609349ba64b3829619661b7bf85d4d12a2e876b1065bb6e100"
+        }
+      ],
+      "hero": "/book/brahmachari/Im111.jpg",
+      "textUrl": "/book/brahmachari/dvihasta-bhujasana.json",
+      "relatedModel": null,
+      "comparison": null,
+      "kind": "posture"
+    },
+    {
+      "id": "janu-bhumi-sthirasana",
+      "order": 75,
+      "name": "Janu-bhumi-sthirasana",
+      "iast": "Jānu-bhūmi-sthirāsana",
+      "sanskrit": "जानुभूमिस्थिरासन",
+      "english": "Knee stand",
+      "russian": "ДЖАНУ-БХОМИ СТХИРАСАНА (стойка на коленях)",
+      "family": "kneeling",
+      "summary": "The torso rises over separated knees, hands resting behind the hips.",
+      "file": "ch1-6.xhtml",
+      "images": [
+        {
+          "id": "Im112",
+          "src": "/book/brahmachari/Im112.jpg",
+          "sha256": "a2db619ed732fafb235cb6a4e0186bdcaf364deee35e12116505118f66075303"
+        }
+      ],
+      "hero": "/book/brahmachari/Im112.jpg",
+      "textUrl": "/book/brahmachari/janu-bhumi-sthirasana.json",
+      "relatedModel": null,
+      "comparison": null,
+      "kind": "posture"
+    },
+    {
+      "id": "padahastasana",
+      "order": 76,
+      "name": "Padahastasana",
+      "iast": "Pādahastāsana",
+      "sanskrit": "पादहस्तासन",
+      "english": "Hand-to-foot fold",
+      "russian": "ПАДАХАСТАСАНА (наклон к прямым ногам)",
+      "family": "standing",
+      "summary": "The trunk folds over straight standing legs, with the hands reaching under or beside the feet.",
+      "file": "ch1-6.xhtml",
+      "images": [
+        {
+          "id": "Im113",
+          "src": "/book/brahmachari/Im113.jpg",
+          "sha256": "c53f69c442d4543949d546959f1d774e2d7e265544c0a56093b1ef2c9d0c031e"
+        }
+      ],
+      "hero": "/book/brahmachari/Im113.jpg",
+      "textUrl": "/book/brahmachari/padahastasana.json",
+      "relatedModel": null,
+      "comparison": null,
+      "kind": "posture"
+    },
+    {
+      "id": "ekapada-kandarasana",
+      "order": 77,
+      "name": "Ekapada-kandarasana",
+      "iast": "Ekapāda-kandarāsana",
+      "sanskrit": "एकपादकन्दरासन",
+      "english": "One leg behind the head",
+      "russian": "ЭКАПАДА КАНДАРАСАНА (положение ноги за головой)",
+      "family": "seated",
+      "summary": "One foot folds behind the neck while the opposite leg folds inward or extends forward.",
+      "file": "ch1-6.xhtml",
+      "images": [
+        {
+          "id": "Im114",
+          "src": "/book/brahmachari/Im114.jpg",
+          "sha256": "138700723267202a6cad648aeee0dcf057021339794d098511b00d021f7af856"
+        },
+        {
+          "id": "Im115",
+          "src": "/book/brahmachari/Im115.jpg",
+          "sha256": "9998ba3b43867fc1e7b3cbf3c3bea97cd6175126984fbf92faa69dd87db71010"
+        }
+      ],
+      "hero": "/book/brahmachari/Im114.jpg",
+      "textUrl": "/book/brahmachari/ekapada-kandarasana.json",
+      "relatedModel": null,
+      "comparison": null,
+      "kind": "posture"
+    },
+    {
+      "id": "dvipada-kandapidasana",
+      "order": 78,
+      "name": "Dvipada-kandapidasana",
+      "iast": "Dvipāda-kandapīḍāsana",
+      "sanskrit": "द्विपादकन्दपीडासन",
+      "english": "Both legs behind the head",
+      "russian": "ДВИПАДА-КАНДАПИДАСАНА (положение с двумя ногами за головой)",
+      "family": "seated",
+      "summary": "Both legs fold behind the shoulders with the feet raised above the head and the hands joining in front.",
+      "file": "ch1-6.xhtml",
+      "images": [
+        {
+          "id": "Im116",
+          "src": "/book/brahmachari/Im116.jpg",
+          "sha256": "204ea2a54964d9733879f21e2f845befcc707c1d01fee9a72addcd27434567f4"
+        }
+      ],
+      "hero": "/book/brahmachari/Im116.jpg",
+      "textUrl": "/book/brahmachari/dvipada-kandapidasana.json",
+      "relatedModel": null,
+      "comparison": null,
+      "kind": "posture"
+    },
+    {
+      "id": "bhagasana",
+      "order": 79,
+      "name": "Bhagasana",
+      "iast": "Bhagāsana",
+      "sanskrit": "भगासन",
+      "english": "Root seat",
+      "russian": "БАГАСАНА (корневое положение)",
+      "family": "seated",
+      "summary": "The soles face upward between spread knees while the trunk remains upright.",
+      "file": "ch1-6.xhtml",
+      "images": [
+        {
+          "id": "Im117",
+          "src": "/book/brahmachari/Im117.jpg",
+          "sha256": "ac04c54117267bccfb85d52e635db37275ef696077d5e14d92fac7f1bb43f8eb"
+        }
+      ],
+      "hero": "/book/brahmachari/Im117.jpg",
+      "textUrl": "/book/brahmachari/bhagasana.json",
+      "relatedModel": null,
+      "comparison": null,
+      "kind": "posture"
+    },
+    {
+      "id": "udara-karsanasana",
+      "order": 80,
+      "name": "Udara-karsanasana",
+      "iast": "Udara-karṣaṇāsana",
+      "sanskrit": "उदरकर्षणासन",
+      "english": "Abdominal twist",
+      "russian": "УДАРА-КАРШАНАСАНА (положение создающее всасывающий эффект в животе)",
+      "family": "kneeling",
+      "summary": "A low squat turns toward one side as one knee lowers across toward the opposite foot.",
+      "file": "ch1-6.xhtml",
+      "images": [
+        {
+          "id": "Im118",
+          "src": "/book/brahmachari/Im118.jpg",
+          "sha256": "a46b81ea961570218d8ab2686f977cbd517e8940f7efaf7d4ed0fb432132483f"
+        }
+      ],
+      "hero": "/book/brahmachari/Im118.jpg",
+      "textUrl": "/book/brahmachari/udara-karsanasana.json",
+      "relatedModel": null,
+      "comparison": null,
+      "kind": "posture"
+    },
+    {
+      "id": "tolangulasana",
+      "order": 81,
+      "name": "Tolangulasana",
+      "iast": "Tolāṅgulāsana",
+      "sanskrit": "तोलाङ्गुलासन",
+      "english": "Finger balance variants",
+      "russian": "ТОЛАНГУЛАСАНА (баланс на пальцах)",
+      "family": "balance",
+      "summary": "The section pairs a seated straight-leg hand balance with an extended prone lifting shape.",
+      "file": "ch1-6.xhtml",
+      "images": [
+        {
+          "id": "Im119",
+          "src": "/book/brahmachari/Im119.jpg",
+          "sha256": "b4b8d5bfb4ccc30e35f4d5d2deb09ae064d30279cc1bc9bcd8039c9f0e4fc4a2"
+        },
+        {
+          "id": "Im120",
+          "src": "/book/brahmachari/Im120.jpg",
+          "sha256": "4e9c59fb5ce434cd142bbcdb7d9e3f39e424d200820e6e2f95e90746ce4184f6"
+        }
+      ],
+      "hero": "/book/brahmachari/Im119.jpg",
+      "textUrl": "/book/brahmachari/tolangulasana.json",
+      "relatedModel": null,
+      "comparison": null,
+      "kind": "posture"
+    },
+    {
+      "id": "purvottanasana",
+      "order": 82,
+      "name": "Purvottanasana",
+      "iast": "Pūrvottānāsana",
+      "sanskrit": "पूर्वोत्तानासन",
+      "english": "Upward toe-held balance",
+      "russian": "ПУРВОТТАНАСАНА (положение, предшествующее вытяжению)",
+      "family": "seated",
+      "summary": "Both straight legs lift in front of the seated trunk and the hands hold the toes.",
+      "file": "ch1-6.xhtml",
+      "images": [
+        {
+          "id": "Im121",
+          "src": "/book/brahmachari/Im121.jpg",
+          "sha256": "6e28c22b9990fd47c5cfeb1b0236cb37d21c368665d8218b9fd74e148f187bdd"
+        }
+      ],
+      "hero": "/book/brahmachari/Im121.jpg",
+      "textUrl": "/book/brahmachari/purvottanasana.json",
+      "relatedModel": null,
+      "comparison": null,
+      "kind": "posture"
+    },
+    {
+      "id": "dvipada-vistrasana",
+      "order": 83,
+      "name": "Dvipada-vistrasana",
+      "iast": "Dvipāda-vistṛtāsana",
+      "sanskrit": "द्विपादविस्तृतासन",
+      "english": "Two-leg spread",
+      "russian": "ДВИПАДА-ВИШТРАСАНА (положение с разведёнными ногами)",
+      "family": "seated",
+      "summary": "The legs spread into a wide seated split with upright, side-fold and forward-fold variations.",
+      "file": "ch1-6.xhtml",
+      "images": [
+        {
+          "id": "Im122",
+          "src": "/book/brahmachari/Im122.jpg",
+          "sha256": "3a5fc2576a2d87e85ddee7ea17d3a99e0ffc37fee4a3eab0374a9c2c56c80f2e"
+        },
+        {
+          "id": "Im123",
+          "src": "/book/brahmachari/Im123.jpg",
+          "sha256": "fecea87287d8369152a6b5c43c62e04e6195b2e40f451113a8e7f88e237db42f"
+        },
+        {
+          "id": "Im124",
+          "src": "/book/brahmachari/Im124.jpg",
+          "sha256": "6073cc02de6cc1736b954b99549a91d2c52735e6dfcc69c93c28fb3afd8c7cc0"
+        }
+      ],
+      "hero": "/book/brahmachari/Im122.jpg",
+      "textUrl": "/book/brahmachari/dvipada-vistrasana.json",
+      "relatedModel": null,
+      "comparison": null,
+      "kind": "posture"
+    },
+    {
+      "id": "sirsasana",
+      "order": 84,
+      "name": "Sirsasana",
+      "iast": "Śīrṣāsana",
+      "sanskrit": "शीर्षासन",
+      "english": "Headstand",
+      "russian": "ШИРШАСАНА (стойкана на голове)",
+      "family": "inverted",
+      "summary": "The plates show head placement, folded-leg preparations, upright headstand and leg variations.",
+      "file": "ch1-7.xhtml",
+      "images": [
+        {
+          "id": "Im125",
+          "src": "/book/brahmachari/Im125.jpg",
+          "sha256": "49e14795e5ab0b4eae4839752ad6f37fb5217e194b4893347163a4d655dcca22"
+        },
+        {
+          "id": "Im126",
+          "src": "/book/brahmachari/Im126.jpg",
+          "sha256": "35527a8a28e6059b5c02199f34e673aa7ea3f925e07094e2a11100552f0d76d3"
+        },
+        {
+          "id": "Im127",
+          "src": "/book/brahmachari/Im127.jpg",
+          "sha256": "cba0072d0a3c3b7204d675010ba72cf92bc7bf0402ef43cc75e4343987249834"
+        },
+        {
+          "id": "Im128",
+          "src": "/book/brahmachari/Im128.jpg",
+          "sha256": "a1ce3b401c55fc07196001156ecbf1d4c66da0f90fbad9d2000efd8105f384ab"
+        },
+        {
+          "id": "Im129",
+          "src": "/book/brahmachari/Im129.jpg",
+          "sha256": "0ff3d15225e4befe7854276f1143e113287e9c32b6cf97e2c26e71866241028b"
+        },
+        {
+          "id": "Im130",
+          "src": "/book/brahmachari/Im130.jpg",
+          "sha256": "49fb28a2186a09c24ba5685ee55740aee1c189acd8e51e2f810b75de4aaa24de"
+        },
+        {
+          "id": "Im131",
+          "src": "/book/brahmachari/Im131.jpg",
+          "sha256": "c0645e9062f2f94b601321fff099d081afa56d94c236334ebd6e816c4928eab1"
+        },
+        {
+          "id": "Im132",
+          "src": "/book/brahmachari/Im132.jpg",
+          "sha256": "098b54b66fe8b825ade18a552f1290077e86998943bcbf2a301f495f84b68fdb"
+        },
+        {
+          "id": "Im133",
+          "src": "/book/brahmachari/Im133.jpg",
+          "sha256": "bbf208370b48acf4aeb824a1a531b84785ac32d1321b4cf5ab65eda0075837e8"
+        },
+        {
+          "id": "Im134",
+          "src": "/book/brahmachari/Im134.jpg",
+          "sha256": "aac7573c1aee8107ba3b904f83d29fbfb5f69e07fda72520bf49340af027de58"
+        },
+        {
+          "id": "Im135",
+          "src": "/book/brahmachari/Im135.jpg",
+          "sha256": "009db99763fa26200a360425d434ea50cafb2a26ad1891acdbbdeaf604a446cf"
+        },
+        {
+          "id": "Im136",
+          "src": "/book/brahmachari/Im136.jpg",
+          "sha256": "1bcba0f56e86da0827a1f15aa97450cb0f1a1f93e514aa5ba48144247605f8da"
+        },
+        {
+          "id": "Im137",
+          "src": "/book/brahmachari/Im137.jpg",
+          "sha256": "03a6886827d85ffb2dab0ae968301af580acc5a6b8080d7c208730e84b987cdf"
+        }
+      ],
+      "hero": "/book/brahmachari/Im130.jpg",
+      "textUrl": "/book/brahmachari/sirsasana.json",
+      "relatedModel": null,
+      "comparison": null,
+      "kind": "posture"
+    },
+    {
+      "id": "supta-pada-kandarasana",
+      "order": 85,
+      "name": "Supta-pada-kandarasana",
+      "iast": "Supta-pāda-kandarāsana",
+      "sanskrit": "सुप्तपादकन्दरासन",
+      "english": "Reclined leg-behind-head",
+      "russian": "СУПТА-ПАДА-КАНДАРАСАНА (положение лежа с ногой за головой)",
+      "family": "supine",
+      "summary": "One leg folds behind the neck while the other extends forward along the floor.",
+      "file": "ch1-7.xhtml",
+      "images": [
+        {
+          "id": "Im138",
+          "src": "/book/brahmachari/Im138.jpg",
+          "sha256": "29a87c32ddaf8811d9bb2d6e51fd799a8d4f606877eb9016866e579d4889e654"
+        }
+      ],
+      "hero": "/book/brahmachari/Im138.jpg",
+      "textUrl": "/book/brahmachari/supta-pada-kandarasana.json",
+      "relatedModel": null,
+      "comparison": null,
+      "kind": "posture"
+    },
+    {
+      "id": "katichakrasana",
+      "order": 86,
+      "name": "Katichakrasana",
+      "iast": "Kaṭicakrāsana",
+      "sanskrit": "कटिचक्रासन",
+      "english": "Standing waist rotation",
+      "russian": "КАТИЧАКРАСАНА (положение поясничного колеса)",
+      "family": "standing",
+      "summary": "The trunk rotates with both arms extending around shoulder height.",
+      "file": "ch1-7.xhtml",
+      "images": [
+        {
+          "id": "Im139",
+          "src": "/book/brahmachari/Im139.jpg",
+          "sha256": "8495a0b295713918938e73964e084aa3f91e03d9805977e97bb6e2c0d8b928a3"
+        }
+      ],
+      "hero": "/book/brahmachari/Im139.jpg",
+      "textUrl": "/book/brahmachari/katichakrasana.json",
+      "relatedModel": null,
+      "comparison": null,
+      "kind": "posture"
+    },
+    {
+      "id": "pretasana",
+      "order": 87,
+      "name": "Pretasana",
+      "iast": "Pretāsana",
+      "sanskrit": "प्रेतासन",
+      "english": "Ghost seat",
+      "russian": "ПРЕТАСАНА (положение призрака)",
+      "family": "seated",
+      "summary": "An upright seated shape with knees open and the feet joined in front of the pelvis.",
+      "file": "ch1-7.xhtml",
+      "images": [
+        {
+          "id": "Im140",
+          "src": "/book/brahmachari/Im140.jpg",
+          "sha256": "691c4c2b27d8dbbf5561c44899a1d7450b4fc311b856d69356ac42ef6dddf793"
+        }
+      ],
+      "hero": "/book/brahmachari/Im140.jpg",
+      "textUrl": "/book/brahmachari/pretasana.json",
+      "relatedModel": null,
+      "comparison": null,
+      "kind": "posture"
+    },
+    {
+      "id": "pada-skanda-dandasana",
+      "order": 88,
+      "name": "Pada-skanda-dandasana",
+      "iast": "Pāda-skandha-daṇḍāsana",
+      "sanskrit": "पादस्कन्धदण्डासन",
+      "english": "Leg-behind-head staff",
+      "russian": "ПАДА-СКАНДА-ДАНДАСАНА (положение посоха с ногой за головой)",
+      "family": "balance",
+      "summary": "One leg folds behind the shoulder across several hand-supported, extended and reclined shapes.",
+      "file": "ch1-7.xhtml",
+      "images": [
+        {
+          "id": "Im141",
+          "src": "/book/brahmachari/Im141.jpg",
+          "sha256": "0e7a5842a2c14edd0fd65758d7c718be8ab4fdf00b4efb0763b307cf57177d96"
+        },
+        {
+          "id": "Im142",
+          "src": "/book/brahmachari/Im142.jpg",
+          "sha256": "dd0fc3843434158b32532c960ee2097daf6acaad8b6bfec52ad993cef1c6d4db"
+        },
+        {
+          "id": "Im143",
+          "src": "/book/brahmachari/Im143.jpg",
+          "sha256": "f774ad0d0f248d5681c903ae3d5d670ddd1b62af1970ad37fd94061fc9a7f9fe"
+        }
+      ],
+      "hero": "/book/brahmachari/Im141.jpg",
+      "textUrl": "/book/brahmachari/pada-skanda-dandasana.json",
+      "relatedModel": null,
+      "comparison": null,
+      "kind": "posture"
+    },
+    {
+      "id": "supta-vajrasana",
+      "order": 89,
+      "name": "Supta-vajrasana",
+      "iast": "Supta-vajrāsana",
+      "sanskrit": "सुप्तवज्रासन",
+      "english": "Reclined adamantine seat",
+      "russian": "СУПТА-ВАЖРАСАНА (несокрушимое положение)",
+      "family": "kneeling",
+      "summary": "The lower legs remain folded back while the trunk reclines into a deep arch.",
+      "file": "ch1-7.xhtml",
+      "images": [
+        {
+          "id": "Im144",
+          "src": "/book/brahmachari/Im144.jpg",
+          "sha256": "6c3cbf4f16744b7133b9b3a26cd816cee549f6cb05bf52c707fad249dc47bff6"
+        }
+      ],
+      "hero": "/book/brahmachari/Im144.jpg",
+      "textUrl": "/book/brahmachari/supta-vajrasana.json",
+      "relatedModel": null,
+      "comparison": null,
+      "kind": "posture"
+    },
+    {
+      "id": "vistra-pada-vaksa-bhumi-sparsasana",
+      "order": 90,
+      "name": "Vistra-pada-vaksa-bhumi-sparsasana",
+      "iast": "Vistṛta-pāda-vakṣa-bhūmi-sparśāsana",
+      "sanskrit": "विस्तृतपादवक्षभूमिस्पर्शासन",
+      "english": "Wide-leg chest-to-floor",
+      "russian": "ВИШТРА-ПАДА-ВАКША-БХОМИ-СПАРШАСАНА (наклон к разведённым ногам сидя)",
+      "family": "seated",
+      "summary": "The legs spread sideways and the chest lowers to the ground between them.",
+      "file": "ch1-7.xhtml",
+      "images": [
+        {
+          "id": "Im145",
+          "src": "/book/brahmachari/Im145.jpg",
+          "sha256": "75fae5411b65f5e99d88229544a39c3c251130e6935db787c3ca0dfcce02e42a"
+        }
+      ],
+      "hero": "/book/brahmachari/Im145.jpg",
+      "textUrl": "/book/brahmachari/vistra-pada-vaksa-bhumi-sparsasana.json",
+      "relatedModel": null,
+      "comparison": null,
+      "kind": "posture"
+    },
+    {
+      "id": "kakasana",
+      "order": 91,
+      "name": "Kakasana",
+      "iast": "Kākāsana",
+      "sanskrit": "काकासन",
+      "english": "Crow squat",
+      "russian": "КАКАСАНА (положение вороны)",
+      "family": "standing",
+      "summary": "A compact squat with feet together and the hands resting on the knees.",
+      "file": "ch1-7.xhtml",
+      "images": [
+        {
+          "id": "Im146",
+          "src": "/book/brahmachari/Im146.jpg",
+          "sha256": "afdcc27d45c4f0e0dd882f059919a269cd6e756e4984be2b1389720ecd34d7c4"
+        }
+      ],
+      "hero": "/book/brahmachari/Im146.jpg",
+      "textUrl": "/book/brahmachari/kakasana.json",
+      "relatedModel": null,
+      "comparison": null,
+      "kind": "posture"
+    },
+    {
+      "id": "lolasana",
+      "order": 92,
+      "name": "Lolasana",
+      "iast": "Lolāsana",
+      "sanskrit": "लोलासन",
+      "english": "Pendant balance",
+      "russian": "ЛОЛАСАНА (положение маятника)",
+      "family": "balance",
+      "summary": "The rounded trunk and tucked legs lift between the arms, supported by both palms.",
+      "file": "ch1-7.xhtml",
+      "images": [
+        {
+          "id": "Im147",
+          "src": "/book/brahmachari/Im147.jpg",
+          "sha256": "a33daba94f2e0e9725254639ccd975858c18085b6eef2c22ff497a26feafa60d"
+        }
+      ],
+      "hero": "/book/brahmachari/Im147.jpg",
+      "textUrl": "/book/brahmachari/lolasana.json",
+      "relatedModel": null,
+      "comparison": null,
+      "kind": "posture"
+    },
+    {
+      "id": "supta-padangustha-nasa-sparsasana",
+      "order": 93,
+      "name": "Supta-padangustha-nasa-sparsasana",
+      "iast": "Supta-pādāṅguṣṭha-nāsā-sparśāsana",
+      "sanskrit": "सुप्तपादाङ्गुष्ठनासास्पर्शासन",
+      "english": "Reclined toe-to-nose",
+      "russian": "СУПТА-ПАДАНГУШТА-НАСА-СПАРШАСАНА (положение касания пальца ноги носа, лёжа)",
+      "family": "supine",
+      "summary": "One straight leg rises toward the face while the hands hold the foot; the other leg extends outward.",
+      "file": "ch1-7.xhtml",
+      "images": [
+        {
+          "id": "Im148",
+          "src": "/book/brahmachari/Im148.jpg",
+          "sha256": "e284c4ed00e724247e0c8ce084f4f9468f7f07290640325ce29d6d0d58718bd1"
+        },
+        {
+          "id": "Im149",
+          "src": "/book/brahmachari/Im149.jpg",
+          "sha256": "69741b2b8968b14ee0d8910e4a5e39992c020b7e2b2a89c26c64b1e8af520b36"
+        }
+      ],
+      "hero": "/book/brahmachari/Im148.jpg",
+      "textUrl": "/book/brahmachari/supta-padangustha-nasa-sparsasana.json",
+      "relatedModel": null,
+      "comparison": null,
+      "kind": "posture"
+    },
+    {
+      "id": "karna-pidasana",
+      "order": 94,
+      "name": "Karna-pidasana",
+      "iast": "Karṇa-pīḍāsana",
+      "sanskrit": "कर्णपीडासन",
+      "english": "Ear-pressure fold",
+      "russian": "КАРНА-ПИДАСАНА (положение с давлением на уши)",
+      "family": "inverted",
+      "summary": "The bent knees lower beside the ears while the shoulders and arms remain grounded.",
+      "file": "ch1-7.xhtml",
+      "images": [
+        {
+          "id": "Im150",
+          "src": "/book/brahmachari/Im150.jpg",
+          "sha256": "10582294244c5a425f01b5411aa24cc3a2942057b3532ea3f4c89886420cfdc1"
+        }
+      ],
+      "hero": "/book/brahmachari/Im150.jpg",
+      "textUrl": "/book/brahmachari/karna-pidasana.json",
+      "relatedModel": null,
+      "comparison": null,
+      "kind": "posture"
+    },
+    {
+      "id": "meru-dandasana",
+      "order": 95,
+      "name": "Meru-dandasana",
+      "iast": "Meru-daṇḍāsana",
+      "sanskrit": "मेरुदण्डासन",
+      "english": "Spinal fold variants",
+      "russian": "МЕРУ-ДАНДАСАНА (положение спинного хребта)",
+      "family": "seated",
+      "summary": "The primary picture shows raised knees beside the shoulders and feet held under the chin; another picture shows a deeper forward fold.",
+      "file": "ch1-7.xhtml",
+      "images": [
+        {
+          "id": "Im151",
+          "src": "/book/brahmachari/Im151.jpg",
+          "sha256": "e10f3e3f91d7204c585b8429aa1a81135d3d01647e6fff72d8aa8d66aa060228"
+        },
+        {
+          "id": "Im152",
+          "src": "/book/brahmachari/Im152.jpg",
+          "sha256": "7fed9f0c7145b6ee48fce63e9cb71069a537848aede3e2a65f9b23017cbc61e7"
+        }
+      ],
+      "hero": "/book/brahmachari/Im151.jpg",
+      "textUrl": "/book/brahmachari/meru-dandasana.json",
+      "relatedModel": null,
+      "comparison": null,
+      "kind": "posture"
+    },
+    {
+      "id": "padangustha-nasa-sparsasana",
+      "order": 96,
+      "name": "Padangustha-nasa-sparsasana",
+      "iast": "Pādāṅguṣṭha-nāsā-sparśāsana",
+      "sanskrit": "पादाङ्गुष्ठनासास्पर्शासन",
+      "english": "Standing toe-to-nose fold",
+      "russian": "ПАДАНГУШТА-НАСА-СПАРШАСАНА (положение с касанием носом пальца ноги)",
+      "family": "standing",
+      "summary": "From a long staggered stance, the trunk folds toward the front foot while the hands clasp behind the back.",
+      "file": "ch1-7.xhtml",
+      "images": [
+        {
+          "id": "Im153",
+          "src": "/book/brahmachari/Im153.jpg",
+          "sha256": "3dee58b85ca636818887c72d0ace8c8cfa9e04dc05d1a7caa1be9bccff1e741a"
+        }
+      ],
+      "hero": "/book/brahmachari/Im153.jpg",
+      "textUrl": "/book/brahmachari/padangustha-nasa-sparsasana.json",
+      "relatedModel": null,
+      "comparison": null,
+      "kind": "posture"
+    },
+    {
+      "id": "kalabhairavasana",
+      "order": 97,
+      "name": "Kalabhairavasana",
+      "iast": "Kālabhairavāsana",
+      "sanskrit": "कालभैरवासन",
+      "english": "Kalabhairava stance",
+      "russian": "КАЛАБХАЙРАВАСАНА (положение кала-бхайрава)",
+      "family": "standing",
+      "summary": "Both feet remain grounded in a staggered stance. One arm reaches forward and the other backward; the text also describes the gaze and open mouth.",
+      "file": "ch1-7.xhtml",
+      "images": [
+        {
+          "id": "Im154",
+          "src": "/book/brahmachari/Im154.jpg",
+          "sha256": "6c4dd8157bbfc7aa3efdf5d7d6ce48e952fe4787184c3b9d30600f6d735c6482"
+        }
+      ],
+      "hero": "/book/brahmachari/Im154.jpg",
+      "textUrl": "/book/brahmachari/kalabhairavasana.json",
+      "relatedModel": null,
+      "comparison": null,
+      "kind": "posture"
+    },
+    {
+      "id": "catuskonasana",
+      "order": 98,
+      "name": "Catuskonasana",
+      "iast": "Catuṣkoṇāsana",
+      "sanskrit": "चतुष्कोणासन",
+      "english": "Four-angle posture",
+      "russian": "ЧАТУСКАНАСАНА (положение четырехугольника)",
+      "family": "seated",
+      "summary": "One leg folds behind the shoulder and the opposite leg bends back beside the hip.",
+      "file": "ch1-7.xhtml",
+      "images": [
+        {
+          "id": "Im155",
+          "src": "/book/brahmachari/Im155.jpg",
+          "sha256": "5536681e788982316f0fb68a27106c5e117d1ac7ecee949eca811fe7512f94dc"
+        }
+      ],
+      "hero": "/book/brahmachari/Im155.jpg",
+      "textUrl": "/book/brahmachari/catuskonasana.json",
+      "relatedModel": null,
+      "comparison": null,
+      "kind": "posture"
+    },
+    {
+      "id": "kukilasana",
+      "order": 99,
+      "name": "Kukilasana",
+      "iast": "Kukilāsana",
+      "sanskrit": "कुकिलासन",
+      "english": "Cuckoo",
+      "russian": "КУКИЛАСАНА (положение кукушки)",
+      "family": "seated",
+      "summary": "The knees spread and the forearms fold together low in front of the trunk.",
+      "file": "ch1-7.xhtml",
+      "images": [
+        {
+          "id": "Im156",
+          "src": "/book/brahmachari/Im156.jpg",
+          "sha256": "6fc9d9b4cc4caefe7339286a8c67c8c39bbb3929c81790f245a36c2e68af66fa"
+        }
+      ],
+      "hero": "/book/brahmachari/Im156.jpg",
+      "textUrl": "/book/brahmachari/kukilasana.json",
+      "relatedModel": null,
+      "comparison": null,
+      "kind": "posture"
+    },
+    {
+      "id": "vrscikasana",
+      "order": 100,
+      "name": "Vrscikasana",
+      "iast": "Vṛścikāsana",
+      "sanskrit": "वृश्चिकासन",
+      "english": "Scorpion",
+      "russian": "ВРИШЧИКАСАНА (положение скорпиона)",
+      "family": "inverted",
+      "summary": "Forearm-supported and hand-supported inversions curve the bent legs toward the head.",
+      "file": "ch1-7.xhtml",
+      "images": [
+        {
+          "id": "Im157",
+          "src": "/book/brahmachari/Im157.jpg",
+          "sha256": "d05ec24c22a58a18bc04048e1b125d620300302c63f94903bcf92fe3db36fe45"
+        },
+        {
+          "id": "Im158",
+          "src": "/book/brahmachari/Im158.jpg",
+          "sha256": "4482e9731219048f42054f4e0ae644ac7f5c86393687e8c1d8df8caf6a3eff99"
+        }
+      ],
+      "hero": "/book/brahmachari/Im157.jpg",
+      "textUrl": "/book/brahmachari/vrscikasana.json",
+      "relatedModel": null,
+      "comparison": null,
+      "kind": "posture"
+    },
+    {
+      "id": "takyasana",
+      "order": 101,
+      "name": "Takyasana",
+      "iast": "Takyāsana",
+      "sanskrit": "तक्यासन",
+      "english": "Pillow variants",
+      "russian": "ТАКЬЯСАНА (положение подушки)",
+      "family": "balance",
+      "summary": "The plates show an asymmetric side-supported balance and a folded seated variation.",
+      "file": "ch1-7.xhtml",
+      "images": [
+        {
+          "id": "Im159",
+          "src": "/book/brahmachari/Im159.jpg",
+          "sha256": "469f300334e92d7e89cc6da6014447e2174f4d06922c1471d617dfd883f7ca61"
+        },
+        {
+          "id": "Im160",
+          "src": "/book/brahmachari/Im160.jpg",
+          "sha256": "72d36397ca160613fdfd33f51d6304d7b6ab9af0890d6b91ba5bc52af9fff439"
+        }
+      ],
+      "hero": "/book/brahmachari/Im159.jpg",
+      "textUrl": "/book/brahmachari/takyasana.json",
+      "relatedModel": null,
+      "comparison": null,
+      "kind": "posture"
+    },
+    {
+      "id": "mayura-padmasana",
+      "order": 102,
+      "name": "Mayura-padmasana",
+      "iast": "Mayūra-padmāsana",
+      "sanskrit": "मयूरपद्मासन",
+      "english": "Lotus peacock",
+      "russian": "МАЮРА-ПАДМАСАНА (положение павлина с лотосом)",
+      "family": "balance",
+      "summary": "The horizontal peacock balance retains folded lotus legs behind the trunk.",
+      "file": "ch1-7.xhtml",
+      "images": [
+        {
+          "id": "Im161",
+          "src": "/book/brahmachari/Im161.jpg",
+          "sha256": "2bfccb22fa7ef9e3d5d72ce97fd7f5ffdb877085f8a95ad5cca394755620385d"
+        }
+      ],
+      "hero": "/book/brahmachari/Im161.jpg",
+      "textUrl": "/book/brahmachari/mayura-padmasana.json",
+      "relatedModel": null,
+      "comparison": null,
+      "kind": "posture"
+    },
+    {
+      "id": "purna-chakrasana",
+      "order": 103,
+      "name": "Purna-chakrasana",
+      "iast": "Pūrṇa-cakrāsana",
+      "sanskrit": "पूर्णचक्रासन",
+      "english": "Full-wheel turning stage",
+      "russian": "ПУРНА-ЧАКРАСАНА (полное положение колеса)",
+      "family": "balance",
+      "summary": "The book describes the feet walking around planted hands. Its picture shows an intermediate turn, with one knee bent and the other leg extended.",
+      "file": "ch1-7.xhtml",
+      "images": [
+        {
+          "id": "Im162",
+          "src": "/book/brahmachari/Im162.jpg",
+          "sha256": "fa191d89618b68da80c98ce24a32900d2896428178a1f1827dc97534dd685107"
+        }
+      ],
+      "hero": "/book/brahmachari/Im162.jpg",
+      "textUrl": "/book/brahmachari/purna-chakrasana.json",
+      "relatedModel": null,
+      "comparison": null,
+      "kind": "posture"
+    },
+    {
+      "id": "paksyasana",
+      "order": 104,
+      "name": "Paksyasana",
+      "iast": "Pakṣyāsana",
+      "sanskrit": "पक्ष्यासन",
+      "english": "Bird or airplane",
+      "russian": "ПАКСЬЯСАНА ИЛИ ВАЮЯНАСАНА (положение птицы или самолета)",
+      "family": "standing",
+      "summary": "A single-leg balance with the other foot drawn behind the head and arms extended sideways.",
+      "file": "ch1-7.xhtml",
+      "images": [
+        {
+          "id": "Im163",
+          "src": "/book/brahmachari/Im163.jpg",
+          "sha256": "67baa6d6e0f5ac48b108ad5c820622a044e96163647c51a83eb1846c77145185"
+        }
+      ],
+      "hero": "/book/brahmachari/Im163.jpg",
+      "textUrl": "/book/brahmachari/paksyasana.json",
+      "relatedModel": null,
+      "comparison": null,
+      "kind": "posture"
+    },
+    {
+      "id": "vatayanasana",
+      "order": 105,
+      "name": "Vatayanasana",
+      "iast": "Vātāyanāsana",
+      "sanskrit": "वातायनासन",
+      "english": "Horse-face kneeling balance",
+      "russian": "ВАТАЯНАСАНА (положение вентилятора)",
+      "family": "kneeling",
+      "summary": "One leg folds into a half-lotus shape while the body balances over the other bent leg and one knee.",
+      "file": "ch1-7.xhtml",
+      "images": [
+        {
+          "id": "Im164",
+          "src": "/book/brahmachari/Im164.jpg",
+          "sha256": "5d0bb24af817aa487a0babdadbed4c0e92f76163169f068e65fc65e3dc09ec71"
+        },
+        {
+          "id": "Im165",
+          "src": "/book/brahmachari/Im165.jpg",
+          "sha256": "2fc22e32fd2b6d055197c106fdc90935786957d304e282fba69d749e27f44a8d"
+        }
+      ],
+      "hero": "/book/brahmachari/Im164.jpg",
+      "textUrl": "/book/brahmachari/vatayanasana.json",
+      "relatedModel": null,
+      "comparison": null,
+      "kind": "posture"
+    },
+    {
+      "id": "ardha-urdhvasana",
+      "order": 106,
+      "name": "Ardha-urdhvasana",
+      "iast": "Ardha-ūrdhvāsana",
+      "sanskrit": "अर्धऊर्ध्वासन",
+      "english": "Half-raised balance",
+      "russian": "АРДХА-УРДХВАСАНА (полуприподнятое положение)",
+      "family": "standing",
+      "summary": "One leg extends upward behind the body as the trunk inclines and one arm reaches forward.",
+      "file": "ch1-7.xhtml",
+      "images": [
+        {
+          "id": "Im166",
+          "src": "/book/brahmachari/Im166.jpg",
+          "sha256": "9d8d337d7a4ed8205289d98ea54b79eab2fe92063801dfb7e2b384cacb3c7138"
+        },
+        {
+          "id": "Im167",
+          "src": "/book/brahmachari/Im167.jpg",
+          "sha256": "24a9efcd7bc67571297dbb19aed6366dd3322c13932bb1af9fe90685bbdd17fb"
+        }
+      ],
+      "hero": "/book/brahmachari/Im166.jpg",
+      "textUrl": "/book/brahmachari/ardha-urdhvasana.json",
+      "relatedModel": null,
+      "comparison": null,
+      "kind": "posture"
+    },
+    {
+      "id": "tribandhasana",
+      "order": 107,
+      "name": "Tribandhasana",
+      "iast": "Tribandhāsana",
+      "sanskrit": "त्रिबन्धासन",
+      "english": "Three-lock seat",
+      "russian": "ТРИБАНДХАСАНА (положение тройного замка)",
+      "family": "seated",
+      "summary": "A lotus seat with straight arms and lowered chin, presented in the text with the three locks.",
+      "file": "ch1-7.xhtml",
+      "images": [
+        {
+          "id": "Im168",
+          "src": "/book/brahmachari/Im168.jpg",
+          "sha256": "788f4b334eadc03cc7b57ff074c01b815bf5394663b2ee189e6e2554011d1b9b"
+        }
+      ],
+      "hero": "/book/brahmachari/Im168.jpg",
+      "textUrl": "/book/brahmachari/tribandhasana.json",
+      "relatedModel": null,
+      "comparison": null,
+      "kind": "posture"
+    },
+    {
+      "id": "natarajasana",
+      "order": 108,
+      "name": "Natarajasana",
+      "iast": "Naṭarājāsana",
+      "sanskrit": "नटराजासन",
+      "english": "Dancer variants",
+      "russian": "НАТАРАДЖАСАНА",
+      "family": "standing",
+      "summary": "Six plates show distinct dance-like balances with raised knees, overhead arms and deep leg lifts.",
+      "file": "ch1-7.xhtml",
+      "images": [
+        {
+          "id": "Im169",
+          "src": "/book/brahmachari/Im169.jpg",
+          "sha256": "e39cbbb30d85c1a712e0f8472b942e38e7c5c8655b49ee7dc5270c57ba0e6398"
+        },
+        {
+          "id": "Im170",
+          "src": "/book/brahmachari/Im170.jpg",
+          "sha256": "a36b88387e76e8a6e6e625286007aa07ceedeae1bd89470010143a224e4f5470"
+        },
+        {
+          "id": "Im171",
+          "src": "/book/brahmachari/Im171.jpg",
+          "sha256": "52a5d085c9e688c922ee9611fffabe59b53c1a6a074d8f6d188cef5c0cfe71ed"
+        },
+        {
+          "id": "Im172",
+          "src": "/book/brahmachari/Im172.jpg",
+          "sha256": "6d95c1ca0a0ed132b63c7d159300423cd7fcac8bfe70331c8daeceda26d4d257"
+        },
+        {
+          "id": "Im173",
+          "src": "/book/brahmachari/Im173.jpg",
+          "sha256": "68a3b445ea44e8d1e1bc50fc86dbd1318fdea1e3535994e4ccd7f91ee354dced"
+        },
+        {
+          "id": "Im174",
+          "src": "/book/brahmachari/Im174.jpg",
+          "sha256": "b31eed4717b800bcbe128c0c6aa704b296c0f3e4cbe9a4891b306d5de39a0564"
+        }
+      ],
+      "hero": "/book/brahmachari/Im169.jpg",
+      "textUrl": "/book/brahmachari/natarajasana.json",
+      "relatedModel": null,
+      "comparison": null,
+      "kind": "posture"
+    },
+    {
+      "id": "surya-namaskar",
+      "order": 109,
+      "name": "Surya-namaskar",
+      "iast": "Sūrya-namaskāra",
+      "sanskrit": "सूर्यनमस्कार",
+      "english": "Sun salutation",
+      "russian": "СУРЬЯ НАМАСКАР (приветствие солнцу)",
+      "family": "sequence",
+      "summary": "Twelve illustrations document the book's sequence; use their displayed order rather than a substituted modern sequence.",
+      "file": "ch1-8.xhtml",
+      "images": [
+        {
+          "id": "Im175",
+          "src": "/book/brahmachari/Im175.jpg",
+          "sha256": "bb7ae8be2eb6c09936044d0e4a6747eb1bb7f31d1a49f9cc31da1beec71600ba"
+        },
+        {
+          "id": "Im176",
+          "src": "/book/brahmachari/Im176.jpg",
+          "sha256": "2c48f4f034c9b52712744f36f0994fd393c58af73cf9a2f00b5512d9010d897b"
+        },
+        {
+          "id": "Im177",
+          "src": "/book/brahmachari/Im177.jpg",
+          "sha256": "73ead203b0866f28e3e9a765630eba53f9712829e64da333cb62d1f6072aa1f3"
+        },
+        {
+          "id": "Im178",
+          "src": "/book/brahmachari/Im178.jpg",
+          "sha256": "966157af584715c7e9990e5642edab9f94180ad87d23d8e5c84dbe65450caf66"
+        },
+        {
+          "id": "Im179",
+          "src": "/book/brahmachari/Im179.jpg",
+          "sha256": "a6658c893c2161df3684084c8599051eb6b2c3a1efbd02ac58b5eedd07dfd422"
+        },
+        {
+          "id": "Im180",
+          "src": "/book/brahmachari/Im180.jpg",
+          "sha256": "9fd9bd2dde9a1408a9a9d6eaa756fba5ad12a5b0dc8c43ea0d7de7d482984c51"
+        },
+        {
+          "id": "Im181",
+          "src": "/book/brahmachari/Im181.jpg",
+          "sha256": "b8e16c3363d13e2125dbd766feb25588dc90170fea26da9789ee45c14f1ee80b"
+        },
+        {
+          "id": "Im182",
+          "src": "/book/brahmachari/Im182.jpg",
+          "sha256": "93b25def99bf72308cb159426c75f0043ae69577edb8f014ac85d4000d4d53db"
+        },
+        {
+          "id": "Im183",
+          "src": "/book/brahmachari/Im183.jpg",
+          "sha256": "4ae6e694fd11c13742486f8d4b4bd20949d4f48fb20bfb75e2748f40b7469729"
+        },
+        {
+          "id": "Im184",
+          "src": "/book/brahmachari/Im184.jpg",
+          "sha256": "5bc5271ae79bf620723f575bcb57a23310b124956ef31bd74841ddc555abd606"
+        },
+        {
+          "id": "Im185",
+          "src": "/book/brahmachari/Im185.jpg",
+          "sha256": "4c1dc81d1e87dc93c6c57b5aee3087041ae0ce0dabf48187ab685d6b66296208"
+        },
+        {
+          "id": "Im186",
+          "src": "/book/brahmachari/Im186.jpg",
+          "sha256": "438d5e3b4c40f2eb0061994c78fef5545bc545472c070a65c84fcd50c8a53283"
+        }
+      ],
+      "hero": "/book/brahmachari/Im175.jpg",
+      "textUrl": "/book/brahmachari/surya-namaskar.json",
+      "relatedModel": null,
+      "comparison": null,
+      "kind": "sequence"
+    }
+  ]
+}
