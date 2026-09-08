@@ -1,5 +1,7 @@
 # Brahmachari collection review — 8 September 2026
 
+The later [full 108-model visual audit](docs/model-audit.md) supersedes the geometry and sampled visual-review findings below. Source extraction and attribution remain unchanged.
+
 ## Scope and source
 
 The primary atlas follows all **108 named posture sections** in the user-supplied Russian _Yogāsana Vijñāna_, in book order. The final Sūrya Namaskāra section is separate: 109 sections overall, with 185 original illustrations (Im2–Im186), of which twelve illustrate the sun salutation. The introductory portrait is not counted. Each posture has a normalized Sanskrit name in IAST and Devanagari, an English label, the original Russian heading and one static 3D study.

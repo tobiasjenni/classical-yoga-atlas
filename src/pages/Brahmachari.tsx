@@ -196,11 +196,16 @@ function BookEntry({ entry: e }: { entry: Entry }) {
                 </button>
               )}
               {bookModel.review === 'needs-refinement' && (
-                <p className="micro">
-                  This study required a larger position correction. Its support points and contacts
-                  need further refinement against the photograph.
-                </p>
+                <p className="micro">{bookModel.audit.limitation}</p>
               )}
+              <details className="micro">
+                <summary>Model audit notes</summary>
+                <p>
+                  Compared with {bookModel.image} from the front, side and rear three-quarter views.
+                </p>
+                <p>Features checked: {bookModel.audit.featuresChecked}.</p>
+                {bookModel.review !== 'needs-refinement' && <p>{bookModel.audit.limitation}</p>}
+              </details>
               <p className="micro">
                 Contact and joint angles are schematic. This model does not reproduce every
                 variation in the section.

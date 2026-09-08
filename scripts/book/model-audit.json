@@ -1,0 +1,974 @@
+[
+  {
+    "id": "siddhasana",
+    "order": 1,
+    "image": "Im3",
+    "reviewedViews": ["front", "side", "rear-three-quarter"],
+    "featuresChecked": "Crossed knees and stacked palms",
+    "limitation": "Depth, soft-tissue contact and finger articulation remain schematic.",
+    "needsRefinement": false
+  },
+  {
+    "id": "padmasana",
+    "order": 2,
+    "image": "Im11",
+    "reviewedViews": ["front", "side", "rear-three-quarter"],
+    "featuresChecked": "Lotus crossing and lap hands",
+    "limitation": "Depth, soft-tissue contact and finger articulation remain schematic.",
+    "needsRefinement": false
+  },
+  {
+    "id": "bhadrasana",
+    "order": 3,
+    "image": "Im14",
+    "reviewedViews": ["front", "side", "rear-three-quarter"],
+    "featuresChecked": "Grounded kneeling base and rear hand position",
+    "limitation": "Depth, soft-tissue contact and finger articulation remain schematic.",
+    "needsRefinement": false
+  },
+  {
+    "id": "muktasana",
+    "order": 4,
+    "image": "Im16",
+    "reviewedViews": ["front", "side", "rear-three-quarter"],
+    "featuresChecked": "Distinct heel placement and open palms",
+    "limitation": "Depth, soft-tissue contact and finger articulation remain schematic.",
+    "needsRefinement": false
+  },
+  {
+    "id": "vajrasana",
+    "order": 5,
+    "image": "Im17",
+    "reviewedViews": ["front", "side", "rear-three-quarter"],
+    "featuresChecked": "Forward knees and folded shins",
+    "limitation": "Depth, soft-tissue contact and finger articulation remain schematic.",
+    "needsRefinement": false
+  },
+  {
+    "id": "svastikasana",
+    "order": 6,
+    "image": "Im19",
+    "reviewedViews": ["front", "side", "rear-three-quarter"],
+    "featuresChecked": "Crossed shins and knee supports",
+    "limitation": "Depth, soft-tissue contact and finger articulation remain schematic.",
+    "needsRefinement": false
+  },
+  {
+    "id": "simhasana",
+    "order": 7,
+    "image": "Im20",
+    "reviewedViews": ["front", "side", "rear-three-quarter"],
+    "featuresChecked": "Wide grounded knees and raised heels",
+    "limitation": "Depth, soft-tissue contact and finger articulation remain schematic.",
+    "needsRefinement": false
+  },
+  {
+    "id": "gomukhasana",
+    "order": 8,
+    "image": "Im21",
+    "reviewedViews": ["front", "side", "rear-three-quarter"],
+    "featuresChecked": "Stacked knees and opposing behind-back arm paths",
+    "limitation": "Depth, soft-tissue contact and finger articulation remain schematic.",
+    "needsRefinement": false
+  },
+  {
+    "id": "virasana",
+    "order": 9,
+    "image": "Im23",
+    "reviewedViews": ["front", "side", "rear-three-quarter"],
+    "featuresChecked": "Straight rear leg and forward arm",
+    "limitation": "Depth, soft-tissue contact and finger articulation remain schematic.",
+    "needsRefinement": false
+  },
+  {
+    "id": "dhanurasana",
+    "order": 10,
+    "image": "Im24",
+    "reviewedViews": ["front", "side", "rear-three-quarter"],
+    "featuresChecked": "Straight overhead legs and foot hold",
+    "limitation": "Depth, soft-tissue contact and finger articulation remain schematic.",
+    "needsRefinement": false
+  },
+  {
+    "id": "shavasana",
+    "order": 11,
+    "image": "Im25",
+    "reviewedViews": ["front", "side", "rear-three-quarter"],
+    "featuresChecked": "Supine trunk and relaxed feet",
+    "limitation": "Depth, soft-tissue contact and finger articulation remain schematic.",
+    "needsRefinement": false
+  },
+  {
+    "id": "guptasana",
+    "order": 12,
+    "image": "Im26",
+    "reviewedViews": ["front", "side", "rear-three-quarter"],
+    "featuresChecked": "Concealed feet and grounded folded legs",
+    "limitation": "Depth, soft-tissue contact and finger articulation remain schematic.",
+    "needsRefinement": false
+  },
+  {
+    "id": "matsyasana",
+    "order": 13,
+    "image": "Im27",
+    "reviewedViews": ["front", "side", "rear-three-quarter"],
+    "featuresChecked": "Folded legs, reclined chest and head position",
+    "limitation": "Depth, soft-tissue contact and finger articulation remain schematic.",
+    "needsRefinement": false
+  },
+  {
+    "id": "matsyendrasana",
+    "order": 14,
+    "image": "Im29",
+    "reviewedViews": ["front", "side", "rear-three-quarter"],
+    "featuresChecked": "Crossed raised knee and ankle-reaching twist",
+    "limitation": "Depth, soft-tissue contact and finger articulation remain schematic.",
+    "needsRefinement": false
+  },
+  {
+    "id": "goraksasana",
+    "order": 15,
+    "image": "Im30",
+    "reviewedViews": ["front", "side", "rear-three-quarter"],
+    "featuresChecked": "Wide floor knees and inward feet",
+    "limitation": "Depth, soft-tissue contact and finger articulation remain schematic.",
+    "needsRefinement": false
+  },
+  {
+    "id": "paschimottanasana",
+    "order": 16,
+    "image": "Im31",
+    "reviewedViews": ["front", "side", "rear-three-quarter"],
+    "featuresChecked": "Straight seated legs and forward elbow direction",
+    "limitation": "Depth, soft-tissue contact and finger articulation remain schematic.",
+    "needsRefinement": false
+  },
+  {
+    "id": "utkatasana",
+    "order": 17,
+    "image": "Im33",
+    "reviewedViews": ["front", "side", "rear-three-quarter"],
+    "featuresChecked": "High squat knees and hands near the face",
+    "limitation": "Depth, soft-tissue contact and finger articulation remain schematic.",
+    "needsRefinement": false
+  },
+  {
+    "id": "sankatasana",
+    "order": 18,
+    "image": "Im34",
+    "reviewedViews": ["front", "side", "rear-three-quarter"],
+    "featuresChecked": "Standing leg wrap and joined overhead reach",
+    "limitation": "Depth, soft-tissue contact and finger articulation remain schematic.",
+    "needsRefinement": false
+  },
+  {
+    "id": "mayurasana",
+    "order": 19,
+    "image": "Im37",
+    "reviewedViews": ["front", "side", "rear-three-quarter"],
+    "featuresChecked": "Horizontal prone balance and rear-facing palms",
+    "limitation": "Depth, soft-tissue contact and finger articulation remain schematic.",
+    "needsRefinement": false
+  },
+  {
+    "id": "kukkutasana",
+    "order": 20,
+    "image": "Im39",
+    "reviewedViews": ["front", "side", "rear-three-quarter"],
+    "featuresChecked": "Lifted folded legs and inner palm supports",
+    "limitation": "Depth, soft-tissue contact and finger articulation remain schematic.",
+    "needsRefinement": false
+  },
+  {
+    "id": "kurmasana",
+    "order": 21,
+    "image": "Im40",
+    "reviewedViews": ["front", "side", "rear-three-quarter"],
+    "featuresChecked": "Kneeling base and lower-abdomen hands",
+    "limitation": "Depth, soft-tissue contact and finger articulation remain schematic.",
+    "needsRefinement": false
+  },
+  {
+    "id": "uttana-kurmasana",
+    "order": 22,
+    "image": "Im41",
+    "reviewedViews": ["front", "side", "rear-three-quarter"],
+    "featuresChecked": "Reclined kneeling base and leg reach",
+    "limitation": "Depth, soft-tissue contact and finger articulation remain schematic.",
+    "needsRefinement": false
+  },
+  {
+    "id": "uttana-mandukasana",
+    "order": 23,
+    "image": "Im43",
+    "reviewedViews": ["front", "side", "rear-three-quarter"],
+    "featuresChecked": "Straight arms extending behind the head",
+    "limitation": "Depth, soft-tissue contact and finger articulation remain schematic.",
+    "needsRefinement": false
+  },
+  {
+    "id": "vrksasana",
+    "order": 24,
+    "image": "Im46",
+    "reviewedViews": ["front", "side", "rear-three-quarter"],
+    "featuresChecked": "Straight handstand legs and palm supports",
+    "limitation": "Depth, soft-tissue contact and finger articulation remain schematic.",
+    "needsRefinement": false
+  },
+  {
+    "id": "mandukasana",
+    "order": 25,
+    "image": "Im49",
+    "reviewedViews": ["front", "side", "rear-three-quarter"],
+    "featuresChecked": "Hands behind the neck and wide elbows",
+    "limitation": "Depth, soft-tissue contact and finger articulation remain schematic.",
+    "needsRefinement": false
+  },
+  {
+    "id": "garudasana",
+    "order": 26,
+    "image": "Im50",
+    "reviewedViews": ["front", "side", "rear-three-quarter"],
+    "featuresChecked": "Bent standing knee and front forearm wrap",
+    "limitation": "Depth, soft-tissue contact and finger articulation remain schematic.",
+    "needsRefinement": false
+  },
+  {
+    "id": "vrsabhasana",
+    "order": 27,
+    "image": "Im51",
+    "reviewedViews": ["front", "side", "rear-three-quarter"],
+    "featuresChecked": "Forearm supports and asymmetric folded legs",
+    "limitation": "Depth, soft-tissue contact and finger articulation remain schematic.",
+    "needsRefinement": false
+  },
+  {
+    "id": "salabhasana",
+    "order": 28,
+    "image": "Im52",
+    "reviewedViews": ["front", "side", "rear-three-quarter"],
+    "featuresChecked": "Straight raised prone legs and rear arms",
+    "limitation": "Depth, soft-tissue contact and finger articulation remain schematic.",
+    "needsRefinement": false
+  },
+  {
+    "id": "makarasana",
+    "order": 29,
+    "image": "Im53",
+    "reviewedViews": ["front", "side", "rear-three-quarter"],
+    "featuresChecked": "Straight prone forward reach",
+    "limitation": "Depth, soft-tissue contact and finger articulation remain schematic.",
+    "needsRefinement": false
+  },
+  {
+    "id": "ustrasana",
+    "order": 30,
+    "image": "Im54",
+    "reviewedViews": ["front", "side", "rear-three-quarter"],
+    "featuresChecked": "Bent-leg ankle hold and lifted chest",
+    "limitation": "Depth, soft-tissue contact and finger articulation remain schematic.",
+    "needsRefinement": false
+  },
+  {
+    "id": "bhujangasana",
+    "order": 31,
+    "image": "Im55",
+    "reviewedViews": ["front", "side", "rear-three-quarter"],
+    "featuresChecked": "Straight arms and extended prone legs",
+    "limitation": "Depth, soft-tissue contact and finger articulation remain schematic.",
+    "needsRefinement": false
+  },
+  {
+    "id": "yogasana",
+    "order": 32,
+    "image": "Im57",
+    "reviewedViews": ["front", "side", "rear-three-quarter"],
+    "featuresChecked": "Folded lotus base and rear arm bind",
+    "limitation": "Depth, soft-tissue contact and finger articulation remain schematic.",
+    "needsRefinement": false
+  },
+  {
+    "id": "chakrasana",
+    "order": 33,
+    "image": "Im58",
+    "reviewedViews": ["front", "side", "rear-three-quarter"],
+    "featuresChecked": "Wheel arch and palm orientation",
+    "limitation": "Depth, soft-tissue contact and finger articulation remain schematic.",
+    "needsRefinement": false
+  },
+  {
+    "id": "supta-pavana-muktasana",
+    "order": 34,
+    "image": "Im60",
+    "reviewedViews": ["front", "side", "rear-three-quarter"],
+    "featuresChecked": "Single knee-to-chest hold and resting leg",
+    "limitation": "Depth, soft-tissue contact and finger articulation remain schematic.",
+    "needsRefinement": false
+  },
+  {
+    "id": "uttanapadasana",
+    "order": 35,
+    "image": "Im61",
+    "reviewedViews": ["front", "side", "rear-three-quarter"],
+    "featuresChecked": "Straight raised legs and forward arms",
+    "limitation": "Depth, soft-tissue contact and finger articulation remain schematic.",
+    "needsRefinement": false
+  },
+  {
+    "id": "hasta-padangusthasana",
+    "order": 36,
+    "image": "Im62",
+    "reviewedViews": ["front", "side", "rear-three-quarter"],
+    "featuresChecked": "Straight raised leg with two-hand reach",
+    "limitation": "Depth, soft-tissue contact and finger articulation remain schematic.",
+    "needsRefinement": false
+  },
+  {
+    "id": "baddha-padmasana",
+    "order": 37,
+    "image": "Im64",
+    "reviewedViews": ["front", "side", "rear-three-quarter"],
+    "featuresChecked": "Opposite-foot bind around the torso",
+    "limitation": "Depth, soft-tissue contact and finger articulation remain schematic.",
+    "needsRefinement": false
+  },
+  {
+    "id": "pranavasana",
+    "order": 38,
+    "image": "Im66",
+    "reviewedViews": ["front", "side", "rear-three-quarter"],
+    "featuresChecked": "Supine double-leg nape configuration",
+    "limitation": "Depth, soft-tissue contact and finger articulation remain schematic.",
+    "needsRefinement": false
+  },
+  {
+    "id": "naukasana",
+    "order": 39,
+    "image": "Im67",
+    "reviewedViews": ["front", "side", "rear-three-quarter"],
+    "featuresChecked": "Straight reaching arms and raised rear legs",
+    "limitation": "Depth, soft-tissue contact and finger articulation remain schematic.",
+    "needsRefinement": false
+  },
+  {
+    "id": "konasana",
+    "order": 40,
+    "image": "Im68",
+    "reviewedViews": ["front", "side", "rear-three-quarter"],
+    "featuresChecked": "Straight wide stance and lateral overhead reach",
+    "limitation": "Depth, soft-tissue contact and finger articulation remain schematic.",
+    "needsRefinement": false
+  },
+  {
+    "id": "bhonomonasana",
+    "order": 41,
+    "image": "Im69",
+    "reviewedViews": ["front", "side", "rear-three-quarter"],
+    "featuresChecked": "Straight straddle and low torso",
+    "limitation": "Depth, soft-tissue contact and finger articulation remain schematic.",
+    "needsRefinement": false
+  },
+  {
+    "id": "sarvangasana",
+    "order": 42,
+    "image": "Im70",
+    "reviewedViews": ["front", "side", "rear-three-quarter"],
+    "featuresChecked": "Overhead legs with arms beside the trunk",
+    "limitation": "Depth, soft-tissue contact and finger articulation remain schematic.",
+    "needsRefinement": false
+  },
+  {
+    "id": "akarna-dhanurasana",
+    "order": 43,
+    "image": "Im71",
+    "reviewedViews": ["front", "side", "rear-three-quarter"],
+    "featuresChecked": "One straight leg and one foot toward the ear",
+    "limitation": "Depth, soft-tissue contact and finger articulation remain schematic.",
+    "needsRefinement": false
+  },
+  {
+    "id": "urdhva-hastottanasana",
+    "order": 44,
+    "image": "Im72",
+    "reviewedViews": ["front", "side", "rear-three-quarter"],
+    "featuresChecked": "Straight overhead arms and lateral spinal bend",
+    "limitation": "Depth, soft-tissue contact and finger articulation remain schematic.",
+    "needsRefinement": false
+  },
+  {
+    "id": "parvatasana",
+    "order": 45,
+    "image": "Im73",
+    "reviewedViews": ["front", "side", "rear-three-quarter"],
+    "featuresChecked": "Kneeling leg crossing and overhead joined hands",
+    "limitation": "Depth, soft-tissue contact and finger articulation remain schematic.",
+    "needsRefinement": false
+  },
+  {
+    "id": "padangusthasana",
+    "order": 46,
+    "image": "Im74",
+    "reviewedViews": ["front", "side", "rear-three-quarter"],
+    "featuresChecked": "Low toe balance with one crossed foot",
+    "limitation": "Depth, soft-tissue contact and finger articulation remain schematic.",
+    "needsRefinement": false
+  },
+  {
+    "id": "garbhasana",
+    "order": 47,
+    "image": "Im76",
+    "reviewedViews": ["front", "side", "rear-three-quarter"],
+    "featuresChecked": "Raised folded legs and cheek hands",
+    "limitation": "The exact passage of the forearms through the folded legs is not reproduced by the current rig.",
+    "needsRefinement": true
+  },
+  {
+    "id": "brahmacharyasana",
+    "order": 48,
+    "image": "Im77",
+    "reviewedViews": ["front", "side", "rear-three-quarter"],
+    "featuresChecked": "Narrow knees and feet outside the seat",
+    "limitation": "Depth, soft-tissue contact and finger articulation remain schematic.",
+    "needsRefinement": false
+  },
+  {
+    "id": "utthita-padmasana",
+    "order": 49,
+    "image": "Im78",
+    "reviewedViews": ["front", "side", "rear-three-quarter"],
+    "featuresChecked": "Raised lotus and outside palm supports",
+    "limitation": "Depth, soft-tissue contact and finger articulation remain schematic.",
+    "needsRefinement": false
+  },
+  {
+    "id": "mrgasana",
+    "order": 50,
+    "image": "Im79",
+    "reviewedViews": ["front", "side", "rear-three-quarter"],
+    "featuresChecked": "Asymmetric legs and hand at the cheek",
+    "limitation": "The cheek-hand shape and elbow support remain approximate; the photograph obscures their depth.",
+    "needsRefinement": true
+  },
+  {
+    "id": "pavanamuktasana",
+    "order": 51,
+    "image": "Im81",
+    "reviewedViews": ["front", "side", "rear-three-quarter"],
+    "featuresChecked": "Raised squat knees enclosed by the arms",
+    "limitation": "Depth, soft-tissue contact and finger articulation remain schematic.",
+    "needsRefinement": false
+  },
+  {
+    "id": "urdhva-sarvangasana",
+    "order": 52,
+    "image": "Im83",
+    "reviewedViews": ["front", "side", "rear-three-quarter"],
+    "featuresChecked": "Straight vertical legs and back supports",
+    "limitation": "Depth, soft-tissue contact and finger articulation remain schematic.",
+    "needsRefinement": false
+  },
+  {
+    "id": "vikatasana",
+    "order": 53,
+    "image": "Im84",
+    "reviewedViews": ["front", "side", "rear-three-quarter"],
+    "featuresChecked": "Distinct foot orientations in the folded seat",
+    "limitation": "Depth, soft-tissue contact and finger articulation remain schematic.",
+    "needsRefinement": false
+  },
+  {
+    "id": "sirsachakrasana",
+    "order": 54,
+    "image": "Im85",
+    "reviewedViews": ["front", "side", "rear-three-quarter"],
+    "featuresChecked": "Low head position and bridge supports",
+    "limitation": "Depth, soft-tissue contact and finger articulation remain schematic.",
+    "needsRefinement": false
+  },
+  {
+    "id": "avatthasana",
+    "order": 55,
+    "image": "Im86",
+    "reviewedViews": ["front", "side", "rear-three-quarter"],
+    "featuresChecked": "Straight rear leg, upward arm and lateral arm",
+    "limitation": "Depth, soft-tissue contact and finger articulation remain schematic.",
+    "needsRefinement": false
+  },
+  {
+    "id": "kandapidasana",
+    "order": 56,
+    "image": "Im87",
+    "reviewedViews": ["front", "side", "rear-three-quarter"],
+    "featuresChecked": "Grounded knees and raised inward feet",
+    "limitation": "Depth, soft-tissue contact and finger articulation remain schematic.",
+    "needsRefinement": false
+  },
+  {
+    "id": "ardha-matsyendrasana",
+    "order": 57,
+    "image": "Im88",
+    "reviewedViews": ["front", "side", "rear-three-quarter"],
+    "featuresChecked": "Crossed raised knee and opposite ankle reach",
+    "limitation": "Depth, soft-tissue contact and finger articulation remain schematic.",
+    "needsRefinement": false
+  },
+  {
+    "id": "bakasana",
+    "order": 58,
+    "image": "Im89",
+    "reviewedViews": ["front", "side", "rear-three-quarter"],
+    "featuresChecked": "High pelvis and knees toward the upper arms",
+    "limitation": "Depth, soft-tissue contact and finger articulation remain schematic.",
+    "needsRefinement": false
+  },
+  {
+    "id": "titibhasana",
+    "order": 59,
+    "image": "Im91",
+    "reviewedViews": ["front", "side", "rear-three-quarter"],
+    "featuresChecked": "Straight raised straddle outside the arms",
+    "limitation": "Depth, soft-tissue contact and finger articulation remain schematic.",
+    "needsRefinement": false
+  },
+  {
+    "id": "viparita-sirsa-dvihasta-baddhasana",
+    "order": 60,
+    "image": "Im92",
+    "reviewedViews": ["front", "side", "rear-three-quarter"],
+    "featuresChecked": "Standing forward fold and wrapped arms",
+    "limitation": "Depth, soft-tissue contact and finger articulation remain schematic.",
+    "needsRefinement": false
+  },
+  {
+    "id": "jhulasana",
+    "order": 61,
+    "image": "Im94",
+    "reviewedViews": ["front", "side", "rear-three-quarter"],
+    "featuresChecked": "Raised crossed shins distinct from full lotus",
+    "limitation": "Depth, soft-tissue contact and finger articulation remain schematic.",
+    "needsRefinement": false
+  },
+  {
+    "id": "sukhasana",
+    "order": 62,
+    "image": "Im95",
+    "reviewedViews": ["front", "side", "rear-three-quarter"],
+    "featuresChecked": "Crossed seat and upward stacked palms",
+    "limitation": "Depth, soft-tissue contact and finger articulation remain schematic.",
+    "needsRefinement": false
+  },
+  {
+    "id": "janu-sirsasana",
+    "order": 63,
+    "image": "Im96",
+    "reviewedViews": ["front", "side", "rear-three-quarter"],
+    "featuresChecked": "One grounded bent knee and one straight leg",
+    "limitation": "Depth, soft-tissue contact and finger articulation remain schematic.",
+    "needsRefinement": false
+  },
+  {
+    "id": "nadi-sodhanasana",
+    "order": 64,
+    "image": "Im98",
+    "reviewedViews": ["front", "side", "rear-three-quarter"],
+    "featuresChecked": "Straight standing legs and ankle-reaching hands",
+    "limitation": "Depth, soft-tissue contact and finger articulation remain schematic.",
+    "needsRefinement": false
+  },
+  {
+    "id": "vistra-pada-sarvangasana",
+    "order": 65,
+    "image": "Im99",
+    "reviewedViews": ["front", "side", "rear-three-quarter"],
+    "featuresChecked": "Separated overhead leg angles and one grounded arm",
+    "limitation": "Depth, soft-tissue contact and finger articulation remain schematic.",
+    "needsRefinement": false
+  },
+  {
+    "id": "ekapada-bhujasana",
+    "order": 66,
+    "image": "Im100",
+    "reviewedViews": ["front", "side", "rear-three-quarter"],
+    "featuresChecked": "One straight forward leg and one shoulder hook",
+    "limitation": "Depth, soft-tissue contact and finger articulation remain schematic.",
+    "needsRefinement": false
+  },
+  {
+    "id": "dvipada-bhujasana",
+    "order": 67,
+    "image": "Im101",
+    "reviewedViews": ["front", "side", "rear-three-quarter"],
+    "featuresChecked": "Two shoulder-hooked legs with forward feet",
+    "limitation": "Depth, soft-tissue contact and finger articulation remain schematic.",
+    "needsRefinement": false
+  },
+  {
+    "id": "sirsa-janu-sparsasana",
+    "order": 68,
+    "image": "Im102",
+    "reviewedViews": ["front", "side", "rear-three-quarter"],
+    "featuresChecked": "Standing fold with the other foot held behind",
+    "limitation": "Depth, soft-tissue contact and finger articulation remain schematic.",
+    "needsRefinement": false
+  },
+  {
+    "id": "supta-vrscikasana",
+    "order": 69,
+    "image": "Im103",
+    "reviewedViews": ["front", "side", "rear-three-quarter"],
+    "featuresChecked": "Lateral arm reach and folded legs over the chest",
+    "limitation": "Depth, soft-tissue contact and finger articulation remain schematic.",
+    "needsRefinement": false
+  },
+  {
+    "id": "utthita-dvipada-kandarasana",
+    "order": 70,
+    "image": "Im105",
+    "reviewedViews": ["front", "side", "rear-three-quarter"],
+    "featuresChecked": "Bent legs behind the head over a hand balance",
+    "limitation": "Depth, soft-tissue contact and finger articulation remain schematic.",
+    "needsRefinement": false
+  },
+  {
+    "id": "tadasana",
+    "order": 71,
+    "image": "Im106",
+    "reviewedViews": ["front", "side", "rear-three-quarter"],
+    "featuresChecked": "Lifted heels and joined straight overhead reach",
+    "limitation": "Depth, soft-tissue contact and finger articulation remain schematic.",
+    "needsRefinement": false
+  },
+  {
+    "id": "khanjanasana",
+    "order": 72,
+    "image": "Im108",
+    "reviewedViews": ["front", "side", "rear-three-quarter"],
+    "featuresChecked": "Wide kneeling base and lowered lateral arms",
+    "limitation": "Depth, soft-tissue contact and finger articulation remain schematic.",
+    "needsRefinement": false
+  },
+  {
+    "id": "ekahasta-bhujasana",
+    "order": 73,
+    "image": "Im110",
+    "reviewedViews": ["front", "side", "rear-three-quarter"],
+    "featuresChecked": "One raised bent leg and opposite reaching arm",
+    "limitation": "Depth, soft-tissue contact and finger articulation remain schematic.",
+    "needsRefinement": false
+  },
+  {
+    "id": "dvihasta-bhujasana",
+    "order": 74,
+    "image": "Im111",
+    "reviewedViews": ["front", "side", "rear-three-quarter"],
+    "featuresChecked": "Two bent legs beside the shoulders and toe holds",
+    "limitation": "Depth, soft-tissue contact and finger articulation remain schematic.",
+    "needsRefinement": false
+  },
+  {
+    "id": "janu-bhumi-sthirasana",
+    "order": 75,
+    "image": "Im112",
+    "reviewedViews": ["front", "side", "rear-three-quarter"],
+    "featuresChecked": "Grounded knees, rear shins and rear hands",
+    "limitation": "Depth, soft-tissue contact and finger articulation remain schematic.",
+    "needsRefinement": false
+  },
+  {
+    "id": "padahastasana",
+    "order": 76,
+    "image": "Im113",
+    "reviewedViews": ["front", "side", "rear-three-quarter"],
+    "featuresChecked": "Straight forward fold and palms by the feet",
+    "limitation": "Depth, soft-tissue contact and finger articulation remain schematic.",
+    "needsRefinement": false
+  },
+  {
+    "id": "ekapada-kandarasana",
+    "order": 77,
+    "image": "Im114",
+    "reviewedViews": ["front", "side", "rear-three-quarter"],
+    "featuresChecked": "One bent leg at the nape and one grounded leg",
+    "limitation": "Depth, soft-tissue contact and finger articulation remain schematic.",
+    "needsRefinement": false
+  },
+  {
+    "id": "dvipada-kandapidasana",
+    "order": 78,
+    "image": "Im116",
+    "reviewedViews": ["front", "side", "rear-three-quarter"],
+    "featuresChecked": "Two bent legs at the nape and prayer hands",
+    "limitation": "Depth, soft-tissue contact and finger articulation remain schematic.",
+    "needsRefinement": false
+  },
+  {
+    "id": "bhagasana",
+    "order": 79,
+    "image": "Im117",
+    "reviewedViews": ["front", "side", "rear-three-quarter"],
+    "featuresChecked": "Low joined feet and grounded wide knees",
+    "limitation": "Depth, soft-tissue contact and finger articulation remain schematic.",
+    "needsRefinement": false
+  },
+  {
+    "id": "udara-karsanasana",
+    "order": 80,
+    "image": "Im118",
+    "reviewedViews": ["front", "side", "rear-three-quarter"],
+    "featuresChecked": "One lowered knee beneath a turning squat",
+    "limitation": "Depth, soft-tissue contact and finger articulation remain schematic.",
+    "needsRefinement": false
+  },
+  {
+    "id": "tolangulasana",
+    "order": 81,
+    "image": "Im119",
+    "reviewedViews": ["front", "side", "rear-three-quarter"],
+    "featuresChecked": "Straight raised seated legs and palm supports",
+    "limitation": "Depth, soft-tissue contact and finger articulation remain schematic.",
+    "needsRefinement": false
+  },
+  {
+    "id": "purvottanasana",
+    "order": 82,
+    "image": "Im121",
+    "reviewedViews": ["front", "side", "rear-three-quarter"],
+    "featuresChecked": "Reclining straight-leg V balance",
+    "limitation": "Depth, soft-tissue contact and finger articulation remain schematic.",
+    "needsRefinement": false
+  },
+  {
+    "id": "dvipada-vistrasana",
+    "order": 83,
+    "image": "Im122",
+    "reviewedViews": ["front", "side", "rear-three-quarter"],
+    "featuresChecked": "Straight straddle and lower-leg hand reach",
+    "limitation": "Depth, soft-tissue contact and finger articulation remain schematic.",
+    "needsRefinement": false
+  },
+  {
+    "id": "sirsasana",
+    "order": 84,
+    "image": "Im130",
+    "reviewedViews": ["front", "side", "rear-three-quarter"],
+    "featuresChecked": "Grounded forearm triangle and straight inverted legs",
+    "limitation": "Depth, soft-tissue contact and finger articulation remain schematic.",
+    "needsRefinement": false
+  },
+  {
+    "id": "supta-pada-kandarasana",
+    "order": 85,
+    "image": "Im138",
+    "reviewedViews": ["front", "side", "rear-three-quarter"],
+    "featuresChecked": "One resting leg and one bent leg behind the head",
+    "limitation": "Depth, soft-tissue contact and finger articulation remain schematic.",
+    "needsRefinement": false
+  },
+  {
+    "id": "katichakrasana",
+    "order": 86,
+    "image": "Im139",
+    "reviewedViews": ["front", "side", "rear-three-quarter"],
+    "featuresChecked": "Lateral arm and separate arm crossing the chest",
+    "limitation": "Depth, soft-tissue contact and finger articulation remain schematic.",
+    "needsRefinement": false
+  },
+  {
+    "id": "pretasana",
+    "order": 87,
+    "image": "Im140",
+    "reviewedViews": ["front", "side", "rear-three-quarter"],
+    "featuresChecked": "Wide grounded fold with a low forward lean",
+    "limitation": "Depth, soft-tissue contact and finger articulation remain schematic.",
+    "needsRefinement": false
+  },
+  {
+    "id": "pada-skanda-dandasana",
+    "order": 88,
+    "image": "Im141",
+    "reviewedViews": ["front", "side", "rear-three-quarter"],
+    "featuresChecked": "Bent leg at the nape over a straight rear-leg plank",
+    "limitation": "Depth, soft-tissue contact and finger articulation remain schematic.",
+    "needsRefinement": false
+  },
+  {
+    "id": "supta-vajrasana",
+    "order": 89,
+    "image": "Im144",
+    "reviewedViews": ["front", "side", "rear-three-quarter"],
+    "featuresChecked": "Reclined kneeling arch from its own picture",
+    "limitation": "Depth, soft-tissue contact and finger articulation remain schematic.",
+    "needsRefinement": false
+  },
+  {
+    "id": "vistra-pada-vaksa-bhumi-sparsasana",
+    "order": 90,
+    "image": "Im145",
+    "reviewedViews": ["front", "side", "rear-three-quarter"],
+    "featuresChecked": "Hands behind the neck over the low straddle",
+    "limitation": "Depth, soft-tissue contact and finger articulation remain schematic.",
+    "needsRefinement": false
+  },
+  {
+    "id": "kakasana",
+    "order": 91,
+    "image": "Im146",
+    "reviewedViews": ["front", "side", "rear-three-quarter"],
+    "featuresChecked": "Raised squat knees and hands over the knees",
+    "limitation": "Depth, soft-tissue contact and finger articulation remain schematic.",
+    "needsRefinement": false
+  },
+  {
+    "id": "lolasana",
+    "order": 92,
+    "image": "Im147",
+    "reviewedViews": ["front", "side", "rear-three-quarter"],
+    "featuresChecked": "High folded-leg balance and rear foot arrangement",
+    "limitation": "Depth, soft-tissue contact and finger articulation remain schematic.",
+    "needsRefinement": false
+  },
+  {
+    "id": "supta-padangustha-nasa-sparsasana",
+    "order": 93,
+    "image": "Im148",
+    "reviewedViews": ["front", "side", "rear-three-quarter"],
+    "featuresChecked": "One foot toward the face and one resting leg",
+    "limitation": "Depth, soft-tissue contact and finger articulation remain schematic.",
+    "needsRefinement": false
+  },
+  {
+    "id": "karna-pidasana",
+    "order": 94,
+    "image": "Im150",
+    "reviewedViews": ["front", "side", "rear-three-quarter"],
+    "featuresChecked": "Bent knees beside the head and grounded trunk",
+    "limitation": "The precise knee-to-ear contact remains approximate on the fixed-proportion rig.",
+    "needsRefinement": true
+  },
+  {
+    "id": "meru-dandasana",
+    "order": 95,
+    "image": "Im151",
+    "reviewedViews": ["front", "side", "rear-three-quarter"],
+    "featuresChecked": "Bent-knee toe hold distinct from the straight V",
+    "limitation": "Depth, soft-tissue contact and finger articulation remain schematic.",
+    "needsRefinement": false
+  },
+  {
+    "id": "padangustha-nasa-sparsasana",
+    "order": 96,
+    "image": "Im153",
+    "reviewedViews": ["front", "side", "rear-three-quarter"],
+    "featuresChecked": "Low asymmetric fold, straight rear leg and bound arms",
+    "limitation": "The hidden front knee and exact face-to-foot contact need another reference angle.",
+    "needsRefinement": true
+  },
+  {
+    "id": "kalabhairavasana",
+    "order": 97,
+    "image": "Im154",
+    "reviewedViews": ["front", "side", "rear-three-quarter"],
+    "featuresChecked": "Two planted feet and opposing straight arm reaches",
+    "limitation": "Depth, soft-tissue contact and finger articulation remain schematic.",
+    "needsRefinement": false
+  },
+  {
+    "id": "catuskonasana",
+    "order": 98,
+    "image": "Im155",
+    "reviewedViews": ["front", "side", "rear-three-quarter"],
+    "featuresChecked": "One leg at the nape and one folded kneeling leg",
+    "limitation": "Depth, soft-tissue contact and finger articulation remain schematic.",
+    "needsRefinement": false
+  },
+  {
+    "id": "kukilasana",
+    "order": 99,
+    "image": "Im156",
+    "reviewedViews": ["front", "side", "rear-three-quarter"],
+    "featuresChecked": "Wide grounded folded legs and crossed forearms",
+    "limitation": "Depth, soft-tissue contact and finger articulation remain schematic.",
+    "needsRefinement": false
+  },
+  {
+    "id": "vrscikasana",
+    "order": 100,
+    "image": "Im157",
+    "reviewedViews": ["front", "side", "rear-three-quarter"],
+    "featuresChecked": "Grounded forearms and close inverted legs",
+    "limitation": "Depth, soft-tissue contact and finger articulation remain schematic.",
+    "needsRefinement": false
+  },
+  {
+    "id": "takyasana",
+    "order": 101,
+    "image": "Im159",
+    "reviewedViews": ["front", "side", "rear-three-quarter"],
+    "featuresChecked": "Correct supporting arm and opposite thigh reach",
+    "limitation": "Depth, soft-tissue contact and finger articulation remain schematic.",
+    "needsRefinement": false
+  },
+  {
+    "id": "mayura-padmasana",
+    "order": 102,
+    "image": "Im161",
+    "reviewedViews": ["front", "side", "rear-three-quarter"],
+    "featuresChecked": "Horizontal folded-leg balance and rear-facing palms",
+    "limitation": "Depth, soft-tissue contact and finger articulation remain schematic.",
+    "needsRefinement": false
+  },
+  {
+    "id": "purna-chakrasana",
+    "order": 103,
+    "image": "Im162",
+    "reviewedViews": ["front", "side", "rear-three-quarter"],
+    "featuresChecked": "Straight extended leg in a twisted arm support",
+    "limitation": "Depth, soft-tissue contact and finger articulation remain schematic.",
+    "needsRefinement": false
+  },
+  {
+    "id": "paksyasana",
+    "order": 104,
+    "image": "Im163",
+    "reviewedViews": ["front", "side", "rear-three-quarter"],
+    "featuresChecked": "Straight lateral arms beneath the nape-bound leg",
+    "limitation": "Depth, soft-tissue contact and finger articulation remain schematic.",
+    "needsRefinement": false
+  },
+  {
+    "id": "vatayanasana",
+    "order": 105,
+    "image": "Im164",
+    "reviewedViews": ["front", "side", "rear-three-quarter"],
+    "featuresChecked": "Grounded folded knee and opposite toe support",
+    "limitation": "Depth, soft-tissue contact and finger articulation remain schematic.",
+    "needsRefinement": false
+  },
+  {
+    "id": "ardha-urdhvasana",
+    "order": 106,
+    "image": "Im166",
+    "reviewedViews": ["front", "side", "rear-three-quarter"],
+    "featuresChecked": "Straight forward arm and raised rear-foot reach",
+    "limitation": "Depth, soft-tissue contact and finger articulation remain schematic.",
+    "needsRefinement": false
+  },
+  {
+    "id": "tribandhasana",
+    "order": 107,
+    "image": "Im168",
+    "reviewedViews": ["front", "side", "rear-three-quarter"],
+    "featuresChecked": "Lotus base, hands over knees and lowered gaze",
+    "limitation": "Depth, soft-tissue contact and finger articulation remain schematic.",
+    "needsRefinement": false
+  },
+  {
+    "id": "natarajasana",
+    "order": 108,
+    "image": "Im169",
+    "reviewedViews": ["front", "side", "rear-three-quarter"],
+    "featuresChecked": "Bent supporting leg, raised knee and distinct hand gestures",
+    "limitation": "Depth, soft-tissue contact and finger articulation remain schematic.",
+    "needsRefinement": false
+  }
+]
