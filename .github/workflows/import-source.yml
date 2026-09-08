@@ -1,1 +1,38 @@
-
+name: Import verified atlas source
+on:
+  workflow_dispatch:
+permissions:
+  contents: write
+jobs:
+  import:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Verify and expand source archive
+        run: |
+          python3 - <<'PY'
+          import hashlib, pathlib, zipfile
+          archive = pathlib.Path('atlas-source.zip')
+          expected = '3f0f48dfc0b329803866dacf15275a868185d69438599b8056f36e2c4e4b3dc2'
+          assert hashlib.sha256(archive.read_bytes()).hexdigest() == expected
+          with zipfile.ZipFile(archive) as bundle:
+              for item in bundle.infolist():
+                  target = pathlib.Path(item.filename)
+                  assert not target.is_absolute() and '..' not in target.parts
+                  if not item.filename.startswith('.github/'):
+                      bundle.extract(item)
+          archive.unlink()
+          PY
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 22
+      - run: npm ci
+      - run: npm test
+      - run: npm run build
+      - name: Publish source files
+        run: |
+          git config user.name 'github-actions[bot]'
+          git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
+          git add -A
+          git commit -m 'Publish complete verified Classical Yoga Atlas source'
+          git push
