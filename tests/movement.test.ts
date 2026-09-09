@@ -5,7 +5,7 @@ import { asanaSchema } from '../src/core/schema';
 import { applyPose, makeRig, definitions } from '../src/core/rig';
 import { blendLimbs, duration, frameTime, sample, mirrorPose, identity } from '../src/core/motion';
 import { bodyClearance } from '../src/core/clearance';
-const dir = new URL('../src/data/asanas/', import.meta.url);
+const dir = new URL('./fixtures/retired-hyp/', import.meta.url);
 const records = readdirSync(dir)
   .filter((f) => f.endsWith('.json'))
   .map((f) => asanaSchema.parse(JSON.parse(readFileSync(new URL(f, dir), 'utf8'))));

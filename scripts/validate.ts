@@ -1,7 +1,7 @@
 import { readdirSync, readFileSync } from 'node:fs';
 import './validate-book.ts';
 import { asanaSchema } from '../src/core/schema.ts';
-const directory = new URL('../src/data/asanas/', import.meta.url);
+const directory = new URL('../tests/fixtures/retired-hyp/', import.meta.url);
 const files = readdirSync(directory).filter((f) => f.endsWith('.json'));
 const records = files.map((file) => {
   const parsed = asanaSchema.safeParse(JSON.parse(readFileSync(new URL(file, directory), 'utf8')));
@@ -15,5 +15,5 @@ for (const a of records)
   for (const ref of [...a.relatedAsanas, ...(a.counterpose ?? [])])
     if (!ids.has(ref)) throw new Error(`${a.id}: unknown reference ${ref}`);
 console.log(
-  `Validated ${records.length} asanas: schema, citations, quaternions, flows and references.`,
+  `Validated ${records.length} retired HYP regression fixtures: schema, citations, quaternions, flows and references.`,
 );

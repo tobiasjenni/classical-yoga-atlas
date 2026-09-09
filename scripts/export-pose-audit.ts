@@ -8,11 +8,11 @@ const out = resolve(process.argv[2] || '../../work/pose-audit');
 mkdirSync(out, { recursive: true });
 const hyp = process.argv[4] === 'hyp';
 const hypEntries = hyp
-  ? readdirSync('src/data/asanas')
+  ? readdirSync('tests/fixtures/retired-hyp')
       .filter((f) => f.endsWith('.json'))
       .sort()
       .map((f, i) => {
-        const entry = JSON.parse(readFileSync(resolve('src/data/asanas', f), 'utf8'));
+        const entry = JSON.parse(readFileSync(resolve('tests/fixtures/retired-hyp', f), 'utf8'));
         return { ...entry, order: i + 1, name: entry.iast };
       })
   : [];

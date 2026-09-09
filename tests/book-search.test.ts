@@ -43,9 +43,9 @@ describe('Book discovery', () => {
     );
     expect(book.entries.map((e) => e.id)).toEqual(before);
   });
-  it('keeps editorial contact flags and HYP source differences separate', () => {
+  it('filters refinement findings and ignores retired comparison filters', () => {
     expect(find('review=refine').entries.length).toBeGreaterThan(0);
-    expect(find('review=different').entries.every((e) => !!e.comparison)).toBe(true);
-    expect(find('review=related').entries.every((e) => !!e.relatedModel)).toBe(true);
+    expect(find('review=different').entries).toHaveLength(108);
+    expect(find('review=related').entries).toHaveLength(108);
   });
 });

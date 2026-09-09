@@ -1,6 +1,5 @@
 import { ArrowUpRight, BookOpen, Check } from 'lucide-react';
 import { Link } from 'react-router-dom';
-import { asanas } from '../data';
 import book from '../data/brahmachari.json';
 export default function Sources() {
   return (
@@ -53,26 +52,6 @@ export default function Sources() {
           </p>
         </details>
       </section>
-      <section className="notes-block">
-        <span className="eyebrow">SECONDARY COMPARISON · 15 ANIMATED STUDIES</span>
-        <h2>Haṭha Yoga Pradīpikā</h2>
-        <p>
-          Svātmārāma. English translation by Pancham Sinh, Panini Office, Allahabad, 1914. The
-          earlier fifteen reconstructions remain available separately. Shared posture names do not
-          imply identical configurations across these sources.
-        </p>
-        <Link to="/hyp" className="text-button">
-          Open HYP comparisons <ArrowUpRight size={16} />
-        </Link>
-        <a
-          href="https://sacred-texts.com/hin/hyp/hyp03.htm"
-          target="_blank"
-          rel="noreferrer"
-          className="text-button"
-        >
-          Read the earlier source <ArrowUpRight size={16} />
-        </a>
-      </section>
       <div className="notes-grid two">
         <section className="notes-block">
           <span className="verified">
@@ -88,54 +67,29 @@ export default function Sources() {
           <span className="unverified-tag">UNVERIFIED</span>
           <h2>What the model proposes</h2>
           <p>
-            Movement, entry and exit, timings, difficulty and selected joints are editorial
-            reconstructions. Shipped flows are checked against simplified body and floor boundaries;
-            the mannequin does not simulate tissue strain, balance or individual anatomy.
+            The models are static reconstructions of the book pictures. Sequence order and hold
+            times are editorial choices. The mannequin does not simulate tissue strain, balance or
+            individual anatomy.
           </p>
         </section>
       </div>
-      <h2 className="section-title">The HYP comparison inventory</h2>
-      <div className="source-table">
-        <table>
-          <thead>
-            <tr>
-              <th>Posture</th>
-              <th>Chapter · verse</th>
-              <th>Movement provenance</th>
-            </tr>
-          </thead>
-          <tbody>
-            {[...asanas]
-              .sort((a, b) => parseInt(a.source[0].verse) - parseInt(b.source[0].verse))
-              .map((a) => (
-                <tr key={a.id}>
-                  <td>
-                    <Link to={`/asana/${a.id}`}>{a.iast}</Link>
-                  </td>
-                  <td>1.{a.source[0].verse}</td>
-                  <td>
-                    <span className="unverified-tag">unverified reconstruction</span>
-                  </td>
-                </tr>
-              ))}
-          </tbody>
-        </table>
-      </div>
       <section className="notes-block">
-        <h2>Beyond the first volume</h2>
+        <h2>Study the 108 asanas in your own order</h2>
         <p>
-          Gheranda Samhita, Shiva Samhita and Sritattvanidhi are deferred until their inventories
-          and source references can be verified. Yoga Makaranda (1934) and Light on Yoga (1966) will
-          belong to a separately labelled transitional tier. No entries from these tiers are
-          published in this version.
+          The sequence builder uses only this book’s static pose studies. Choose the order and hold
+          times, preview the model with its source picture, and export your sequence. Transitions
+          between asanas are direct changes, with no invented entry or exit movement.
         </p>
+        <Link to="/sequence" className="button">
+          Build a book sequence <ArrowUpRight size={16} />
+        </Link>
       </section>
       <section className="notes-block">
         <h2>Contributing a posture</h2>
         <p>
-          Use the pose studio to author a complete flow. Export its JSON, attach edition-specific
-          source metadata, and distinguish evidence from interpretation. The repository README
-          documents validation and submission end to end.
+          Use the pose studio to start from one of the 108 book poses. Export its JSON, attach
+          edition-specific source metadata, and distinguish evidence from interpretation. The
+          repository README documents validation and submission end to end.
         </p>
         <Link to="/studio" className="button">
           Open the pose studio <ArrowUpRight size={15} />

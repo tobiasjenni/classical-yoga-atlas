@@ -3,7 +3,7 @@ import { makeRig, applyPose } from '../src/core/rig.ts';
 import { bodyClearance } from '../src/core/clearance.ts';
 import { duration, sample } from '../src/core/motion.ts';
 const rig = makeRig();
-const dir = new URL('../src/data/asanas/', import.meta.url);
+const dir = new URL('../tests/fixtures/retired-hyp/', import.meta.url);
 const rows = [];
 for (const f of readdirSync(dir).filter((f) => f.endsWith('.json'))) {
   const a = JSON.parse(readFileSync(new URL(f, dir), 'utf8'));

@@ -17,7 +17,7 @@ prior = {e['id']: e for e in json.loads(Path('scripts/book/model-audit.json').re
 review = json.loads(Path('scripts/book/blender-review.json').read_text(encoding='utf-8'))
 records = {}
 diagnostics = []
-for group, expected in [('human',108),('reference',108),('hyp-human',15),('hyp-reference',15)]:
+for group, expected in [('human',108),('reference',108)]:
     directory = root / group
     inventory = json.loads((directory/'inventory.json').read_text(encoding='utf-8'))
     report = json.loads((directory/'blender-report.json').read_text(encoding='utf-8'))
@@ -33,7 +33,7 @@ for group, expected in [('human',108),('reference',108),('hyp-human',15),('hyp-r
         r = by_id[entry['id']]
         assert hashlib.sha256((directory/(entry['id']+'.bin')).read_bytes()).hexdigest() == r['meshSha256']
         assert len(r['renders']) == 3
-        collection = 'hyp' if group.startswith('hyp-') else 'book'
+        collection = 'book'
         key = collection + '/' + entry['id']
         assert entry['order'] in review['reviewed'][collection+'-'+entry['style']], f'Visual review incomplete: {key} {group}'
         style = entry['style']
@@ -63,9 +63,9 @@ for group, expected in [('human',108),('reference',108),('hyp-human',15),('hyp-r
         r['collection'] = collection
         diagnostics.append(r)
         records[key]['styles'][style] = {'images':images, 'diagnostics':r}
-assert len(records) == 123
+assert len(records) == 108
 payload = {'date':review['date'], 'blenderVersion':report['blenderVersion'], 'engine':report['engine'],
-           'scope':'108 book studies plus 15 secondary HYP final poses; both styles; three views each',
+           'scope':'108 book studies; both styles; three views each',
            'findings':review['summary'], 'models':list(records.values())}
 (out/'audit-data.json').write_text(json.dumps(payload,ensure_ascii=False,indent=2)+'\n',encoding='utf-8')
 (out/'diagnostics.json').write_text(json.dumps(diagnostics,indent=2)+'\n',encoding='utf-8')

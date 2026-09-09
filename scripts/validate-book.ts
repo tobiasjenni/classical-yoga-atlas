@@ -15,7 +15,8 @@ if (
 for (const [index, e] of book.entries.entries()) {
   if (e.order !== index + 1) throw new Error(`Book order changed: ${e.id}`);
   if (e.relatedModel && !/^[a-z-]+$/.test(e.relatedModel)) throw new Error('Unsafe comparison ID');
-  if (e.relatedModel) readFileSync(new URL(`src/data/asanas/${e.relatedModel}.json`, root));
+  if (e.relatedModel)
+    readFileSync(new URL(`tests/fixtures/retired-hyp/${e.relatedModel}.json`, root));
   if (
     ids.has(e.id) ||
     !e.english ||

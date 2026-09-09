@@ -29,13 +29,7 @@ export function bookResults(params: URLSearchParams) {
         params.get('q') ?? '',
       ) &&
       (!bookFamilies.includes(family ?? '') || entry.family === family) &&
-      (review === 'related'
-        ? !!entry.relatedModel
-        : review === 'different'
-          ? !!entry.comparison
-          : review === 'refine'
-            ? bookModels[entry.id]?.review === 'needs-refinement'
-            : true),
+      (review === 'refine' ? bookModels[entry.id]?.review === 'needs-refinement' : true),
   );
   if (params.get('sort') === 'name') entries.sort((a, b) => a.iast.localeCompare(b.iast));
   const pages = Math.max(1, Math.ceil(entries.length / pageSize));

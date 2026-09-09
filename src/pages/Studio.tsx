@@ -1,6 +1,6 @@
 import { lazy, Suspense, useEffect, useRef, useState } from 'react';
 import { Euler, Quaternion } from 'three';
-import { asanas } from '../data';
+import { book, bookModels } from '../data/book';
 import {
   Download,
   Upload,
@@ -34,19 +34,23 @@ const flowSchema = z
     keyframes: flowFramesSchema,
   })
   .strict();
-const draftKey = 'classical-yoga-atlas-studio-v1';
-type Draft = { frames: Keyframe[]; record: Asana | null };
+const draftKey = 'classical-yoga-atlas-book-studio-v2';
+type Draft = { frames: Keyframe[]; record: Asana | null; bookId?: string };
 function initial(): Draft {
   try {
     const raw = JSON.parse(localStorage.getItem(draftKey) ?? 'null');
-    if (raw && z.array(keyframeSchema).safeParse(raw.frames).success)
-      return { frames: raw.frames, record: raw.record ? asanaSchema.parse(raw.record) : null };
+    if (raw && z.array(keyframeSchema).min(1).safeParse(raw.frames).success)
+      return {
+        frames: raw.frames,
+        record: raw.record ? asanaSchema.parse(raw.record) : null,
+        bookId: bookModels[raw.bookId] ? raw.bookId : undefined,
+      };
   } catch {
     /* A corrupt local draft must not prevent opening the editor. */
   }
   return { frames: blankFlow(), record: null };
 }
-export default function Studio({ records = asanas }: { records?: Asana[] }) {
+export default function Studio() {
   const [params] = useSearchParams();
   const [draft, setDraft] = useState<Draft>(initial),
     [index, setIndex] = useState(0),
@@ -116,13 +120,25 @@ export default function Studio({ records = asanas }: { records?: Asana[] }) {
     setIndex(0);
     setMessage(`Loaded ${record.iast}. Your changes are saved as a local draft.`);
   }
+  function loadBook(id: string) {
+    const entry = book.entries.find((e) => e.id === id);
+    if (!entry || !bookModels[id]) return;
+    commit({
+      frames: blankFlow().map((f) => ({
+        ...f,
+        pose: structuredClone(bookModels[id].pose),
+        instruction: `${entry.iast}: static book pose. Any authored movement is an editorial draft.`,
+      })),
+      record: null,
+      bookId: id,
+    });
+    setIndex(3);
+    setMessage(`Loaded ${entry.iast} from the book. Edits stay in your local authoring draft.`);
+  }
   useEffect(() => {
-    const record = records.find((a) => a.id === params.get('asana'));
-    if (record && draft.record?.id !== record.id) {
-      setDraft({ frames: structuredClone(record.keyframes), record: structuredClone(record) });
-      setIndex(record.keyframes.findIndex((f) => f.phase === 'final'));
-    }
-  }, [params, records]);
+    const id = params.get('book');
+    if (id && bookModels[id] && draft.bookId !== id) loadBook(id);
+  }, [params]);
   function download() {
     const value = draft.record
       ? { ...draft.record, keyframes: draft.frames }
@@ -203,18 +219,19 @@ export default function Studio({ records = asanas }: { records?: Asana[] }) {
           Start from an entry{' '}
           <select
             aria-label="Load asana into studio"
-            value={draft.record?.id ?? ''}
+            value={draft.bookId ?? ''}
             onChange={(e) => {
-              const a = records.find((a) => a.id === e.target.value);
-              if (a) load(a);
+              loadBook(e.target.value);
             }}
           >
             <option value="">Untitled flow</option>
-            {records.map((a) => (
-              <option value={a.id} key={a.id}>
-                {a.iast}
-              </option>
-            ))}
+            {book.entries
+              .filter((a) => a.kind === 'posture')
+              .map((a) => (
+                <option value={a.id} key={a.id}>
+                  {a.iast}
+                </option>
+              ))}
           </select>
         </label>
         <span className="save-state">

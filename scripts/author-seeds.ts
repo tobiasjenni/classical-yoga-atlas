@@ -310,7 +310,7 @@ for (const seed of seeds) {
   if (seed.id === 'padmasana') a.drishti = 'Tip of the nose — HYP 1.46, 1.48 (Sinh 1914).';
   if (seed.id === 'simhasana') a.drishti = 'Tip of the nose — HYP 1.53 (Sinh 1914).';
   writeFileSync(
-    new URL(`../src/data/asanas/${seed.id}.json`, import.meta.url),
+    new URL(`../tests/fixtures/retired-hyp/${seed.id}.json`, import.meta.url),
     JSON.stringify(asanaSchema.parse(a), null, 2) + '\n',
   );
 }

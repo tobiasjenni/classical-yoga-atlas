@@ -26,7 +26,7 @@ for (const path of [
   '/',
   '/brahmachari/gomukhasana',
   '/brahmachari/surya-namaskar',
-  '/hyp',
+  '/brahmachari/karna-pidasana',
   '/sequence',
   '/sources',
 ]) {

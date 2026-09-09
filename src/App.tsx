@@ -1,10 +1,9 @@
 import { lazy, Suspense, useEffect, useState, useRef } from 'react';
-import { BrowserRouter, NavLink, Route, Routes, useLocation } from 'react-router-dom';
+import { BrowserRouter, NavLink, Route, Routes, Navigate, useLocation } from 'react-router-dom';
 import {
   ArrowUpRight,
   BookOpen,
   Flower2,
-  GitCompareArrows,
   Grid2X2,
   Layers,
   Menu,
@@ -14,12 +13,8 @@ import {
   X,
 } from 'lucide-react';
 import { useModalFocus } from './core/modal-focus';
-import { usePlayerClock } from './core/player';
-const Atlas = lazy(() => import('./pages/Atlas'));
 const Studio = lazy(() => import('./pages/Studio'));
-const Detail = lazy(() => import('./pages/Detail'));
-const Compare = lazy(() => import('./pages/Compare'));
-const Sequence = lazy(() => import('./pages/Sequence'));
+const Sequence = lazy(() => import('./pages/BookSequence'));
 const Sources = lazy(() => import('./pages/Sources'));
 const Brahmachari = lazy(() => import('./pages/Brahmachari'));
 function Shell() {
@@ -34,7 +29,6 @@ function Shell() {
   const location = useLocation();
   const navigation = useRef<HTMLElement>(null);
   useModalFocus(open, navigation, () => setOpen(false));
-  usePlayerClock();
   useEffect(() => {
     document.documentElement.dataset.theme = dark ? 'dark' : 'light';
     try {
@@ -48,10 +42,8 @@ function Shell() {
     const titles: Record<string, string> = {
       '/': '108 asanas',
       '/brahmachari': '108 asanas',
-      '/hyp': 'HYP comparison library',
       '/studio': 'Pose studio',
-      '/compare': 'Compare HYP poses',
-      '/sequence': 'HYP sequences',
+      '/sequence': 'Book sequences',
       '/sources': 'Sources & approach',
     };
     if (titles[location.pathname])
@@ -86,9 +78,7 @@ function Shell() {
   }, [location.pathname, location.hash]);
   const nav = [
     { to: '/', icon: Grid2X2, label: 'Asana atlas', end: true },
-    { to: '/hyp', icon: BookOpen, label: 'HYP comparisons' },
-    { to: '/compare', icon: GitCompareArrows, label: 'Compare HYP poses' },
-    { to: '/sequence', icon: Layers, label: 'HYP sequences' },
+    { to: '/sequence', icon: Layers, label: 'Book sequences' },
     { to: '/studio', icon: PencilRuler, label: 'Pose studio' },
   ];
   return (
@@ -202,11 +192,11 @@ function Shell() {
         <Suspense fallback={<main className="page loading">Opening the atlas…</main>}>
           <Routes>
             <Route path="/" element={<Brahmachari />} />
-            <Route path="/hyp" element={<Atlas />} />
-            <Route path="/asana/:id" element={<Detail />} />
+            <Route path="/hyp" element={<Navigate to="/" replace />} />
+            <Route path="/asana/:id" element={<Navigate to="/" replace />} />
             <Route path="/brahmachari" element={<Brahmachari />} />
             <Route path="/brahmachari/:id" element={<Brahmachari />} />
-            <Route path="/compare" element={<Compare />} />
+            <Route path="/compare" element={<Navigate to="/" replace />} />
             <Route path="/sequence" element={<Sequence />} />
             <Route path="/studio" element={<Studio />} />
             <Route path="/sources" element={<Sources />} />

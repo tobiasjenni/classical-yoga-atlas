@@ -4,7 +4,6 @@ import { ArrowLeft, ArrowRight, BookOpen, X } from 'lucide-react';
 import { book, bookModels as models, type BookEntry as Entry } from '../data/book';
 import BookIndex from './BookIndex';
 const Stage = lazy(() => import('../components/Stage'));
-const BookComparison = lazy(() => import('../components/BookComparison'));
 export default function Brahmachari() {
   const { id } = useParams();
   if (id) {
@@ -40,7 +39,6 @@ function BookEntry({ entry: e }: { entry: Entry }) {
         ),
       ),
     ),
-    [study, setStudy] = useState(false),
     [textOpen, setTextOpen] = useState(false),
     [text, setText] = useState<string[]>([]),
     [error, setError] = useState(''),
@@ -83,8 +81,7 @@ function BookEntry({ entry: e }: { entry: Entry }) {
   }, [textOpen, e.textUrl, text.length, retry]);
   const bookModel = models[e.id];
   const previous = book.entries[e.order - 2],
-    next = book.entries[e.order],
-    model = e.relatedModel;
+    next = book.entries[e.order];
   return (
     <main className="page book-page book-detail">
       <Link
@@ -241,41 +238,19 @@ function BookEntry({ entry: e }: { entry: Entry }) {
         </aside>
       </div>
       <section className="notes-block book-comparison">
-        <span className="eyebrow">3D REVIEW</span>
-        <h2>
-          {e.comparison
-            ? 'A source-specific variation'
-            : model
-              ? 'Earlier-source comparison'
-              : bookModel
-                ? 'About the reconstruction'
-                : 'The illustrated sequence'}
-        </h2>
+        <span className="eyebrow">BOOK STUDY</span>
+        <h2>{bookModel ? 'Study this posture in a sequence' : 'The illustrated sequence'}</h2>
         <p>
-          {e.comparison ??
-            (!bookModel
-              ? 'The book supplies twelve illustrated stages of Sūrya Namaskār. A 3D movement sequence has not been reconstructed for these stages.'
-              : model
-                ? 'A secondary HYP study is available for comparison with this book-specific 3D pose. It represents a different source and may use different hand contacts or leg placement.'
-                : 'The 3D study follows the primary illustration shown for this section. The book’s other variations remain available in the picture strip. Entry and exit movements are not inferred from a still photograph.')}
+          {bookModel
+            ? 'This static 3D study follows the selected book picture. Add it to your sequence to study the poses in your chosen order and timing. Entry and exit movements are not inferred from the photograph.'
+            : 'The book supplies twelve illustrated stages of Sūrya Namaskār. These pictures remain available as a separate source section.'}
         </p>
-        {model && (
-          <>
-            <p className="micro">
-              The comparison below is labelled Haṭha Yoga Pradīpikā. It is not a verified
-              reconstruction of this book illustration.
-            </p>
-            <button className="button" aria-expanded={study} onClick={() => setStudy((v) => !v)}>
-              {study ? 'Hide' : 'Show'} HYP 3D comparison
-            </button>
-          </>
+        {bookModel && (
+          <Link className="button primary" to={`/sequence?add=${encodeURIComponent(e.id)}`}>
+            Add to book sequence <ArrowRight size={16} />
+          </Link>
         )}
       </section>
-      {study && model && (
-        <Suspense fallback={<p role="status">Loading HYP comparison…</p>}>
-          <BookComparison id={model} />
-        </Suspense>
-      )}
       <section className="notes-block original-section">
         <button
           className="text-button"

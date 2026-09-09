@@ -45,7 +45,7 @@ export default function BookIndex() {
   }
   return (
     <main className="page book-page">
-      <CollectionLinks active="book" />
+      <CollectionLinks />
       <section className="book-hero">
         <div>
           <span className="eyebrow">THE BRAHMACHARI COLLECTION</span>
@@ -150,8 +150,6 @@ export default function BookIndex() {
               >
                 <option value="">All studies</option>
                 <option value="refine">Models need refinement</option>
-                <option value="related">HYP comparison available</option>
-                <option value="different">Source differences</option>
               </select>
             </label>
             <label>

@@ -1,6 +1,6 @@
 # Blender render audit — 9 September 2026
 
-This audit uses Blender 4.5.13 LTS, EEVEE, 24 samples and three orthographic views per mesh. It covers the 108 Brahmachari studies and the final poses of the 15 secondary HYP animations, in both Human and Reference appearances: 246 posed meshes and 738 renders. The [browsable report](https://classical-yoga-atlas.toebu-jenni.workers.dev/audits/blender/) contains every render and the corresponding book picture where one exists.
+This audit uses Blender 4.5.13 LTS, EEVEE, 24 samples and three orthographic views per mesh. The published report covers the 108 Brahmachari studies in both Human and Reference appearances: 216 posed meshes and 648 renders. The retired HYP collection has been removed from the public report. The [browsable report](https://classical-yoga-atlas.toebu-jenni.workers.dev/audits/blender/) contains every render and the corresponding book picture where one exists.
 
 ## Findings
 
@@ -13,7 +13,7 @@ Successful rendering does not establish that a yoga posture is correct. The earl
 
 The audit does not modify bone rotations, body proportions, model topology or animation data. It updates the review notices, adds reproducible Blender tooling and publishes the evidence. The source pose data was compared with the previous commit and confirmed unchanged.
 
-All 246 meshes had finite vertices and normals, no newly collapsed triangles, and no structural changes requested by Blender validation. The lowest vertex stayed at least 2 mm above the floor. All 64 application tests passed after rendering completed. These checks did not catch the visible seams and incorrect grips; the picture comparison remains essential.
+All 216 book meshes had finite vertices and normals, no newly collapsed triangles, and no structural changes requested by Blender validation. The lowest vertex stayed at least 2 mm above the floor. All 64 application tests passed after rendering completed. These checks did not catch the visible seams and incorrect grips; the picture comparison remains essential.
 
 ## Method and diagnostic limits
 
@@ -23,7 +23,7 @@ Blender renders front, side and rear three-quarter views at 420 × 420 pixels, w
 
 Diagnostics check finite vertices/normals, floor clearance, newly collapsed triangles and whether Blender's structural mesh validation would change a copy. The original geometry is always the rendered geometry. Counts of opposing geometric and shaded normals are retained as review cues: these can be internal faces at folded joints, and are not a count of visible holes. Structural validity does not imply a closed surface, absence of self-intersection, correct support contact or correct anatomical joint limits.
 
-The 15 HYP entries were rendered only at their final poses. Their transitions and sequence bridges were not rendered frame by frame in Blender. Existing application tests cover sampled motion geometry separately. Sūrya Namaskāra has source pictures but no separate 3D model and is not counted as a rendered mesh.
+Book sequences display these static poses with timed holds and direct changes. They do not generate or certify movements between postures. Sūrya Namaskāra has source pictures but no separate 3D model and is not counted as a rendered mesh.
 
 ## Reproduce
 
@@ -33,18 +33,12 @@ Requires Node 22.18+, Blender 4.5+, and a separate Python with NumPy/Pillow for 
 npm ci
 npm run audit:meshes -- /absolute/audit/human human
 npm run audit:meshes -- /absolute/audit/reference reference
-npm run audit:meshes -- /absolute/audit/hyp-human human hyp
-npm run audit:meshes -- /absolute/audit/hyp-reference reference hyp
 
 blender -b --factory-startup --python scripts/blender-audit.py -- /absolute/audit/human
 blender -b --factory-startup --python scripts/blender-audit.py -- /absolute/audit/reference
-blender -b --factory-startup --python scripts/blender-audit.py -- /absolute/audit/hyp-human
-blender -b --factory-startup --python scripts/blender-audit.py -- /absolute/audit/hyp-reference
 
 python scripts/blender-contact-sheets.py /absolute/audit/human
 python scripts/blender-contact-sheets.py /absolute/audit/reference
-python scripts/blender-contact-sheets.py /absolute/audit/hyp-human
-python scripts/blender-contact-sheets.py /absolute/audit/hyp-reference
 python scripts/publish-blender-audit.py /absolute/audit
 npm test
 npm run build
