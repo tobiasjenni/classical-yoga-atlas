@@ -149,7 +149,7 @@ export default function BookIndex() {
                 onChange={(e) => filter('review', e.target.value)}
               >
                 <option value="">All studies</option>
-                <option value="refine">Contacts need refinement</option>
+                <option value="refine">Models need refinement</option>
                 <option value="related">HYP comparison available</option>
                 <option value="different">Source differences</option>
               </select>

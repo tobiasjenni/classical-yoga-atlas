@@ -205,6 +205,9 @@ function BookEntry({ entry: e }: { entry: Entry }) {
                 </p>
                 <p>Features checked: {bookModel.audit.featuresChecked}.</p>
                 {bookModel.review !== 'needs-refinement' && <p>{bookModel.audit.limitation}</p>}
+                <a href={`/audits/blender/?q=${encodeURIComponent(e.id)}`}>
+                  View the Blender render audit
+                </a>
               </details>
               <p className="micro">
                 Contact and joint angles are schematic. This model does not reproduce every

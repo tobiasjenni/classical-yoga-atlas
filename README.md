@@ -144,4 +144,8 @@ Keyframes may specify `interpolation: "limb"` for world-space wrist/ankle paths 
 
 ## Full book model audit
 
-All 108 primary studies were rebuilt and compared with their selected book photograph in front, side and rear three-quarter mesh renders. See [the per-posture audit](docs/model-audit.md) for checked features and remaining limitations. Four complex contact configurations remain explicitly flagged in the atlas. The models remain schematic, not certified anatomical reproductions.
+All 108 primary studies were rebuilt and compared with their selected book photograph in front, side and rear three-quarter mesh renders. See [the per-posture audit](docs/model-audit.md) for checked features and remaining limitations. The later Blender audit expands the explicit refinement notices to 30 studies. The models remain schematic, not certified anatomical reproductions.
+
+## Blender render audit
+
+The [Blender audit report](https://classical-yoga-atlas.toebu-jenni.workers.dev/audits/blender/) shows all 108 book studies and the 15 HYP final poses in both Human and Reference appearances. It contains 738 actual Blender EEVEE renders, geometry diagnostics and specific remaining visual findings. See [reproduction instructions and limits](docs/blender-audit.md). The previous four-item limitation list was incomplete; the newer audit records 30 book studies with specific source or surface issues.

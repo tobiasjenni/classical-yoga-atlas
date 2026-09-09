@@ -34,6 +34,10 @@ export default function Sources() {
         </Link>
         <h3>Edition and source locations</h3>
         <p>
+          <a href="/audits/blender/">Blender render audit</a> — compare both model appearances with
+          the book pictures and read the remaining visual findings.
+        </p>
+        <p>
           {book.edition} {book.locatorPolicy}
         </p>
         <p>{book.metadataNote}</p>

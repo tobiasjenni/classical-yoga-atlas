@@ -1,0 +1,57 @@
+{
+  "date": "9 September 2026",
+  "summary": "The meshes render successfully, but the models are not all correct. The Human surface shows seams and pinching at some deeply folded joints, and several postures still have missing grips or limb placements that differ from the book. Specific findings are recorded below; neither appearance is anatomically certified.",
+  "reviewed": {
+    "book-human": [
+      1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26,
+      27, 28, 29, 30, 31, 32, 33, 34, 35, 36, 37, 38, 39, 40, 41, 42, 43, 44, 45, 46, 47, 48, 49,
+      50, 51, 52, 53, 54, 55, 56, 57, 58, 59, 60, 61, 62, 63, 64, 65, 66, 67, 68, 69, 70, 71, 72,
+      73, 74, 75, 76, 77, 78, 79, 80, 81, 82, 83, 84, 85, 86, 87, 88, 89, 90, 91, 92, 93, 94, 95,
+      96, 97, 98, 99, 100, 101, 102, 103, 104, 105, 106, 107, 108
+    ],
+    "book-reference": [
+      1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26,
+      27, 28, 29, 30, 31, 32, 33, 34, 35, 36, 37, 38, 39, 40, 41, 42, 43, 44, 45, 46, 47, 48, 49,
+      50, 51, 52, 53, 54, 55, 56, 57, 58, 59, 60, 61, 62, 63, 64, 65, 66, 67, 68, 69, 70, 71, 72,
+      73, 74, 75, 76, 77, 78, 79, 80, 81, 82, 83, 84, 85, 86, 87, 88, 89, 90, 91, 92, 93, 94, 95,
+      96, 97, 98, 99, 100, 101, 102, 103, 104, 105, 106, 107, 108
+    ],
+    "hyp-human": [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15],
+    "hyp-reference": [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15]
+  },
+  "findings": {
+    "book/siddhasana": "The Human mesh has a visible pelvis/thigh seam in the rear view. The crossed seat remains schematic.",
+    "book/padmasana": "The Human mesh has a visible pelvis/thigh seam in the rear view; the lotus contacts need a continuous surface.",
+    "book/gomukhasana": "The opposing arm paths are present, but the fingers do not form the photographed clasp. Deep elbow folds show surface pinching.",
+    "book/dhanurasana": "The elbow bend and hand-to-foot arrangement differ from the source photograph. The Human hip surface opens into pointed edges in the overhead fold.",
+    "book/uttana-mandukasana": "The overhead arms remain bent and their contact with the floor differs from the extended reach in the photograph.",
+    "book/yogasana": "The deep forward fold exposes a pointed/open thigh-to-pelvis seam in the Human mesh.",
+    "book/baddha-padmasana": "The behind-the-back bind is missing: the rendered arms reach around the sides toward the front instead of reproducing the photographed rear arm path.",
+    "book/bhonomonasana": "The rendered hands do not reach the feet as in the wide forward-fold photograph.",
+    "book/sarvangasana": "The Human hip surface opens into pointed edges during the overhead fold. This is a surface deformation defect, separate from the posture silhouette.",
+    "book/akarna-dhanurasana": "The forward hand stops well short of the straight-leg foot; the photographed archer grip is not reproduced.",
+    "book/urdhva-hastottanasana": "The elbows remain bent and the hands do not join in the long side-reaching shape shown in the source.",
+    "book/garbhasana": "The forearms do not pass through the folded legs as photographed. The elbows rest in front of the leg crossing.",
+    "book/mrgasana": "The supporting elbow does not rest on the leg as shown in the photograph; the cheek-hand pose also remains approximate.",
+    "book/sirsachakrasana": "The model uses a broad wheel-like leg placement. The source has a more compressed kneeling/head-support configuration.",
+    "book/kandapidasana": "The feet meet near the abdomen in the model rather than rising toward the chest as photographed.",
+    "book/bakasana": "The Human hip surface forms pointed edges under the deep fold. Knee-to-arm contacts remain schematic.",
+    "book/vistra-pada-sarvangasana": "The Human hip surface opens into pointed edges during the overhead fold; hand/foot placement remains approximate.",
+    "book/utthita-dvipada-kandarasana": "The feet sit behind the neck rather than meeting high above the head as in the frontal photograph.",
+    "book/ekahasta-bhujasana": "The raised free hand does not hold the lifted foot as shown in the photograph.",
+    "book/dvihasta-bhujasana": "The hands do not reproduce the photographed grips on the elevated feet; foot height relative to the face also differs.",
+    "book/dvipada-kandapidasana": "The feet meet behind the neck rather than high above the head as shown in the photograph.",
+    "book/supta-pada-kandarasana": "The source shows a lifted head/chest; the model remains in a lower supine position.",
+    "book/lolasana": "The Human hip surface forms pointed/open edges at the deep fold. The knee/arm support configuration remains approximate.",
+    "book/karna-pidasana": "The model does not reproduce the raised pelvis and folded knee-to-ear configuration in the photograph. The torso lies too low, and the Human hip surface has pointed edges.",
+    "book/meru-dandasana": "The photographed face-to-feet and hand contact is not reproduced; the model uses widely separated feet and schematic hand positions.",
+    "book/padangustha-nasa-sparsasana": "The hidden front leg and face-to-foot contact are not reconstructed accurately. The overall support configuration still needs source-led revision.",
+    "book/catuskonasana": "The arm-to-foot bind remains incomplete, with the hand passing behind rather than forming the photographed grip.",
+    "book/kukilasana": "The arms cross above the folded legs rather than passing down between the knees as shown in the source.",
+    "book/purna-chakrasana": "The torso and supporting elbows remain too elevated compared with the low side-support shape in the photograph.",
+    "book/ardha-urdhvasana": "The overhead hand does not reach the raised rear foot, leaving a visible gap where the source shows a grip.",
+    "hyp/bhadrasana": "The Human appearance shows an open-looking pelvis/thigh seam in the rear view. This batch checks the final mesh; there is no book photograph for this secondary HYP entry.",
+    "hyp/kukkutasana": "The Human appearance shows an open-looking pelvis/thigh seam in the rear view. This batch checks the final mesh; there is no book photograph for this secondary HYP entry.",
+    "hyp/padmasana": "The Human appearance shows an open-looking pelvis/thigh seam in the rear view. This batch checks the final mesh; there is no book photograph for this secondary HYP entry."
+  }
+}

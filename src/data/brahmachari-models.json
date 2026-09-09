@@ -62,10 +62,10 @@
       "image": "Im3",
       "reviewedViews": ["front", "side", "rear-three-quarter"],
       "featuresChecked": "Crossed knees and stacked palms",
-      "limitation": "Depth, soft-tissue contact and finger articulation remain schematic.",
-      "needsRefinement": false
+      "limitation": "The Human mesh has a visible pelvis/thigh seam in the rear view. The crossed seat remains schematic.",
+      "needsRefinement": true
     },
-    "review": "schematic"
+    "review": "needs-refinement"
   },
   {
     "id": "padmasana",
@@ -134,10 +134,10 @@
       "image": "Im11",
       "reviewedViews": ["front", "side", "rear-three-quarter"],
       "featuresChecked": "Lotus crossing and lap hands",
-      "limitation": "Depth, soft-tissue contact and finger articulation remain schematic.",
-      "needsRefinement": false
+      "limitation": "The Human mesh has a visible pelvis/thigh seam in the rear view; the lotus contacts need a continuous surface.",
+      "needsRefinement": true
     },
-    "review": "schematic"
+    "review": "needs-refinement"
   },
   {
     "id": "bhadrasana",
@@ -518,10 +518,10 @@
       "image": "Im21",
       "reviewedViews": ["front", "side", "rear-three-quarter"],
       "featuresChecked": "Stacked knees and opposing behind-back arm paths",
-      "limitation": "Depth, soft-tissue contact and finger articulation remain schematic.",
-      "needsRefinement": false
+      "limitation": "The opposing arm paths are present, but the fingers do not form the photographed clasp. Deep elbow folds show surface pinching.",
+      "needsRefinement": true
     },
-    "review": "schematic"
+    "review": "needs-refinement"
   },
   {
     "id": "virasana",
@@ -646,10 +646,10 @@
       "image": "Im24",
       "reviewedViews": ["front", "side", "rear-three-quarter"],
       "featuresChecked": "Straight overhead legs and foot hold",
-      "limitation": "Depth, soft-tissue contact and finger articulation remain schematic.",
-      "needsRefinement": false
+      "limitation": "The elbow bend and hand-to-foot arrangement differ from the source photograph. The Human hip surface opens into pointed edges in the overhead fold.",
+      "needsRefinement": true
     },
-    "review": "schematic"
+    "review": "needs-refinement"
   },
   {
     "id": "shavasana",
@@ -681,16 +681,14 @@
         "mixamorigRightHand": [
           -0.009207388542620166, -0.001233566989063073, 0.001116214696035761, 0.9999562272287029
         ],
-        "mixamorigLeftUpLeg": [
-          0.000013379352528930522, 0, 0.017234158258139162, 0.9998514807760832
-        ],
+        "mixamorigLeftUpLeg": [1.3379352528930522e-5, 0, 0.017234158258139162, 0.9998514807760832],
         "mixamorigLeftLeg": [0.015523477219787288, 0, 0.0005349671867653557, 0.9998793604556082],
         "mixamorigLeftFoot": [
           0.20053999923214538, 0.01694832172301254, -0.11956695881579313, 0.9722140738840839
         ],
         "mixamorigLeftToeBase": [0, 0, 0, 1],
         "mixamorigRightUpLeg": [
-          0.000013379352528930522, 0, -0.017234158258139162, 0.9998514807760832
+          1.3379352528930522e-5, 0, -0.017234158258139162, 0.9998514807760832
         ],
         "mixamorigRightLeg": [0.015523477219787288, 0, -0.0005349671867653557, 0.9998793604556082],
         "mixamorigRightFoot": [
@@ -1130,7 +1128,7 @@
           -0.027257143553468043, -0.002435413035411223, 0.9746019179000518, 0.22226609843652084
         ],
         "mixamorigLeftForeArm": [
-          0.017174276405763175, -0.00008014064029844906, 0.005285343407803959, 0.9998385384413215
+          0.017174276405763175, -8.014064029844906e-5, 0.005285343407803959, 0.9998385384413215
         ],
         "mixamorigLeftHand": [
           -0.008081341986311427, -0.7252033067889575, 0.004551247161240361, 0.6884723247040063
@@ -1140,7 +1138,7 @@
           0.02725714355346805, -0.0024354130354112234, 0.974601917900052, -0.2222660984365209
         ],
         "mixamorigRightForeArm": [
-          0.017174276405763175, 0.00008014064029844906, -0.005285343407803959, 0.9998385384413215
+          0.017174276405763175, 8.014064029844906e-5, -0.005285343407803959, 0.9998385384413215
         ],
         "mixamorigRightHand": [
           -0.008081341986311427, 0.7252033067889575, -0.004551247161240361, 0.6884723247040063
@@ -1514,10 +1512,10 @@
       "image": "Im43",
       "reviewedViews": ["front", "side", "rear-three-quarter"],
       "featuresChecked": "Straight arms extending behind the head",
-      "limitation": "Depth, soft-tissue contact and finger articulation remain schematic.",
-      "needsRefinement": false
+      "limitation": "The overhead arms remain bent and their contact with the floor differs from the extended reach in the photograph.",
+      "needsRefinement": true
     },
-    "review": "schematic"
+    "review": "needs-refinement"
   },
   {
     "id": "vrksasana",
@@ -2056,10 +2054,10 @@
       "image": "Im57",
       "reviewedViews": ["front", "side", "rear-three-quarter"],
       "featuresChecked": "Folded lotus base and rear arm bind",
-      "limitation": "Depth, soft-tissue contact and finger articulation remain schematic.",
-      "needsRefinement": false
+      "limitation": "The deep forward fold exposes a pointed/open thigh-to-pelvis seam in the Human mesh.",
+      "needsRefinement": true
     },
-    "review": "schematic"
+    "review": "needs-refinement"
   },
   {
     "id": "chakrasana",
@@ -2174,7 +2172,7 @@
         ],
         "mixamorigLeftToeBase": [0, 0, 0, 1],
         "mixamorigRightUpLeg": [
-          0.000013379352528930522, 0, -0.017234158258139162, 0.9998514807760832
+          1.3379352528930522e-5, 0, -0.017234158258139162, 0.9998514807760832
         ],
         "mixamorigRightLeg": [0.015523477219787288, 0, -0.0005349671867653557, 0.9998793604556082],
         "mixamorigRightFoot": [
@@ -2189,7 +2187,7 @@
     },
     "image": "Im60",
     "provenance": "unverified",
-    "bodyClearance": 0.000004328014244616237,
+    "bodyClearance": 4.328014244616237e-6,
     "correctionDistance": 0,
     "groundOffset": -0.016999998569488695,
     "audit": {
@@ -2218,7 +2216,7 @@
           -0.25951121310158526, -0.016599552507080312, 0.0044612960641863915, 0.9655871177519593
         ],
         "mixamorigLeftForeArm": [
-          0.017958570216791373, 0.000049453049918180337, -0.0006167501670300504, 0.9998385404301016
+          0.017958570216791373, 4.9453049918180337e-5, -0.0006167501670300504, 0.9998385404301016
         ],
         "mixamorigLeftHand": [
           -0.00927343895328242, 0.01713841883802087, 0.0001589622664651038, 0.9998101083009265
@@ -2228,7 +2226,7 @@
           -0.25951121310158526, 0.016599552507080312, -0.0044612960641863915, 0.9655871177519593
         ],
         "mixamorigRightForeArm": [
-          0.017958570216791377, -0.00004945304991818035, 0.0006167501670300505, 0.9998385404301018
+          0.017958570216791377, -4.945304991818035e-5, 0.0006167501670300505, 0.9998385404301018
         ],
         "mixamorigRightHand": [
           -0.00927343895328242, -0.01713841883802087, -0.0001589622664651038, 0.9998101083009265
@@ -2237,7 +2235,7 @@
           -0.20483834519202943, -0.0035307507288159855, 0.0007389059446341348, 0.9787891704326765
         ],
         "mixamorigLeftLeg": [
-          0.015532289351261571, 0.000010047608689123416, -0.00011190349863779162, 0.9998793604051248
+          0.015532289351261571, 1.0047608689123416e-5, -0.00011190349863779162, 0.9998793604051248
         ],
         "mixamorigLeftFoot": [
           0.4372717996147814, 0.0032350551872456328, -0.0015729606044226775, 0.8993222078179337
@@ -2247,7 +2245,7 @@
           -0.20483834519202943, 0.0035307507288159855, -0.0007389059446341348, 0.9787891704326765
         ],
         "mixamorigRightLeg": [
-          0.015532289351261571, -0.000010047608689123416, 0.00011190349863779162, 0.9998793604051248
+          0.015532289351261571, -1.0047608689123416e-5, 0.00011190349863779162, 0.9998793604051248
         ],
         "mixamorigRightFoot": [
           0.4372717996147815, -0.0032350551872456336, 0.001572960604422678, 0.8993222078179339
@@ -2392,10 +2390,10 @@
       "image": "Im64",
       "reviewedViews": ["front", "side", "rear-three-quarter"],
       "featuresChecked": "Opposite-foot bind around the torso",
-      "limitation": "Depth, soft-tissue contact and finger articulation remain schematic.",
-      "needsRefinement": false
+      "limitation": "The behind-the-back bind is missing: the rendered arms reach around the sides toward the front instead of reproducing the photographed rear arm path.",
+      "needsRefinement": true
     },
-    "review": "schematic"
+    "review": "needs-refinement"
   },
   {
     "id": "pranavasana",
@@ -2646,10 +2644,10 @@
       "image": "Im69",
       "reviewedViews": ["front", "side", "rear-three-quarter"],
       "featuresChecked": "Straight straddle and low torso",
-      "limitation": "Depth, soft-tissue contact and finger articulation remain schematic.",
-      "needsRefinement": false
+      "limitation": "The rendered hands do not reach the feet as in the wide forward-fold photograph.",
+      "needsRefinement": true
     },
-    "review": "schematic"
+    "review": "needs-refinement"
   },
   {
     "id": "sarvangasana",
@@ -2706,10 +2704,10 @@
       "image": "Im70",
       "reviewedViews": ["front", "side", "rear-three-quarter"],
       "featuresChecked": "Overhead legs with arms beside the trunk",
-      "limitation": "Depth, soft-tissue contact and finger articulation remain schematic.",
-      "needsRefinement": false
+      "limitation": "The Human hip surface opens into pointed edges during the overhead fold. This is a surface deformation defect, separate from the posture silhouette.",
+      "needsRefinement": true
     },
-    "review": "schematic"
+    "review": "needs-refinement"
   },
   {
     "id": "akarna-dhanurasana",
@@ -2739,7 +2737,7 @@
         ],
         "mixamorigLeftUpLeg": [-0.6988914236477677, 0, 0.006888011789382686, 0.7151946121477607],
         "mixamorigLeftLeg": [
-          0.015532692079944716, 8.673617379884035e-19, -0.000003410809010464898, 0.9998793604556082
+          0.015532692079944716, 8.673617379884035e-19, -3.410809010464898e-6, 0.9998793604556082
         ],
         "mixamorigLeftFoot": [
           -0.02705801243258011, 0.004794280036582043, -0.004942214667935549, 0.9996101506869093
@@ -2772,10 +2770,10 @@
       "image": "Im71",
       "reviewedViews": ["front", "side", "rear-three-quarter"],
       "featuresChecked": "One straight leg and one foot toward the ear",
-      "limitation": "Depth, soft-tissue contact and finger articulation remain schematic.",
-      "needsRefinement": false
+      "limitation": "The forward hand stops well short of the straight-leg foot; the photographed archer grip is not reproduced.",
+      "needsRefinement": true
     },
-    "review": "schematic"
+    "review": "needs-refinement"
   },
   {
     "id": "urdhva-hastottanasana",
@@ -2824,10 +2822,10 @@
       "image": "Im72",
       "reviewedViews": ["front", "side", "rear-three-quarter"],
       "featuresChecked": "Straight overhead arms and lateral spinal bend",
-      "limitation": "Depth, soft-tissue contact and finger articulation remain schematic.",
-      "needsRefinement": false
+      "limitation": "The elbows remain bent and the hands do not join in the long side-reaching shape shown in the source.",
+      "needsRefinement": true
     },
-    "review": "schematic"
+    "review": "needs-refinement"
   },
   {
     "id": "parvatasana",
@@ -3028,7 +3026,7 @@
       "image": "Im76",
       "reviewedViews": ["front", "side", "rear-three-quarter"],
       "featuresChecked": "Raised folded legs and cheek hands",
-      "limitation": "The exact passage of the forearms through the folded legs is not reproduced by the current rig.",
+      "limitation": "The forearms do not pass through the folded legs as photographed. The elbows rest in front of the leg crossing.",
       "needsRefinement": true
     },
     "review": "needs-refinement"
@@ -3222,7 +3220,7 @@
       "image": "Im79",
       "reviewedViews": ["front", "side", "rear-three-quarter"],
       "featuresChecked": "Asymmetric legs and hand at the cheek",
-      "limitation": "The cheek-hand shape and elbow support remain approximate; the photograph obscures their depth.",
+      "limitation": "The supporting elbow does not rest on the leg as shown in the photograph; the cheek-hand pose also remains approximate.",
       "needsRefinement": true
     },
     "review": "needs-refinement"
@@ -3478,10 +3476,10 @@
       "image": "Im85",
       "reviewedViews": ["front", "side", "rear-three-quarter"],
       "featuresChecked": "Low head position and bridge supports",
-      "limitation": "Depth, soft-tissue contact and finger articulation remain schematic.",
-      "needsRefinement": false
+      "limitation": "The model uses a broad wheel-like leg placement. The source has a more compressed kneeling/head-support configuration.",
+      "needsRefinement": true
     },
-    "review": "schematic"
+    "review": "needs-refinement"
   },
   {
     "id": "avatthasana",
@@ -3509,7 +3507,7 @@
           0.012862350419930089, 0, 0.012547930772654635, 0.9998385416531009
         ],
         "mixamorigRightHand": [
-          0.009274623804751804, 0.7026885055986508, -0.000057378592362393815, -0.7114371666988678
+          0.009274623804751804, 0.7026885055986508, -5.7378592362393815e-5, -0.7114371666988678
         ],
         "mixamorigLeftUpLeg": [0.8273973786395709, 0, 0, 0.561616931564894],
         "mixamorigLeftLeg": [-0.015532692454438553, 0, 0, 0.9998793604556082],
@@ -3598,10 +3596,10 @@
       "image": "Im87",
       "reviewedViews": ["front", "side", "rear-three-quarter"],
       "featuresChecked": "Grounded knees and raised inward feet",
-      "limitation": "Depth, soft-tissue contact and finger articulation remain schematic.",
-      "needsRefinement": false
+      "limitation": "The feet meet near the abdomen in the model rather than rising toward the chest as photographed.",
+      "needsRefinement": true
     },
-    "review": "schematic"
+    "review": "needs-refinement"
   },
   {
     "id": "ardha-matsyendrasana",
@@ -3734,10 +3732,10 @@
       "image": "Im89",
       "reviewedViews": ["front", "side", "rear-three-quarter"],
       "featuresChecked": "High pelvis and knees toward the upper arms",
-      "limitation": "Depth, soft-tissue contact and finger articulation remain schematic.",
-      "needsRefinement": false
+      "limitation": "The Human hip surface forms pointed edges under the deep fold. Knee-to-arm contacts remain schematic.",
+      "needsRefinement": true
     },
-    "review": "schematic"
+    "review": "needs-refinement"
   },
   {
     "id": "titibhasana",
@@ -4174,10 +4172,10 @@
       "image": "Im99",
       "reviewedViews": ["front", "side", "rear-three-quarter"],
       "featuresChecked": "Separated overhead leg angles and one grounded arm",
-      "limitation": "Depth, soft-tissue contact and finger articulation remain schematic.",
-      "needsRefinement": false
+      "limitation": "The Human hip surface opens into pointed edges during the overhead fold; hand/foot placement remains approximate.",
+      "needsRefinement": true
     },
-    "review": "schematic"
+    "review": "needs-refinement"
   },
   {
     "id": "ekapada-bhujasana",
@@ -4522,10 +4520,10 @@
       "image": "Im105",
       "reviewedViews": ["front", "side", "rear-three-quarter"],
       "featuresChecked": "Bent legs behind the head over a hand balance",
-      "limitation": "Depth, soft-tissue contact and finger articulation remain schematic.",
-      "needsRefinement": false
+      "limitation": "The feet sit behind the neck rather than meeting high above the head as in the frontal photograph.",
+      "needsRefinement": true
     },
-    "review": "schematic"
+    "review": "needs-refinement"
   },
   {
     "id": "tadasana",
@@ -4542,7 +4540,7 @@
           -0.027257143553454915, -0.002435413035423858, 0.9746019179000518, 0.22226609843652329
         ],
         "mixamorigLeftForeArm": [
-          0.017174276405782632, -0.00008014064029848374, 0.005285343407809107, 0.9998385384413211
+          0.017174276405782632, -8.014064029848374e-5, 0.005285343407809107, 0.9998385384413211
         ],
         "mixamorigLeftHand": [
           -0.008081341986320267, -0.7252033067889466, 0.004551247161245781, 0.6884723247040176
@@ -4552,7 +4550,7 @@
           0.027257143553454908, -0.0024354130354238574, 0.9746019179000516, -0.22226609843652323
         ],
         "mixamorigRightForeArm": [
-          0.017174276405782632, 0.00008014064029848374, -0.005285343407809107, 0.9998385384413211
+          0.017174276405782632, 8.014064029848374e-5, -0.005285343407809107, 0.9998385384413211
         ],
         "mixamorigRightHand": [
           -0.008081341986320267, 0.7252033067889466, -0.004551247161245781, 0.6884723247040176
@@ -4718,10 +4716,10 @@
       "image": "Im110",
       "reviewedViews": ["front", "side", "rear-three-quarter"],
       "featuresChecked": "One raised bent leg and opposite reaching arm",
-      "limitation": "Depth, soft-tissue contact and finger articulation remain schematic.",
-      "needsRefinement": false
+      "limitation": "The raised free hand does not hold the lifted foot as shown in the photograph.",
+      "needsRefinement": true
     },
-    "review": "schematic"
+    "review": "needs-refinement"
   },
   {
     "id": "dvihasta-bhujasana",
@@ -4786,10 +4784,10 @@
       "image": "Im111",
       "reviewedViews": ["front", "side", "rear-three-quarter"],
       "featuresChecked": "Two bent legs beside the shoulders and toe holds",
-      "limitation": "Depth, soft-tissue contact and finger articulation remain schematic.",
-      "needsRefinement": false
+      "limitation": "The hands do not reproduce the photographed grips on the elevated feet; foot height relative to the face also differs.",
+      "needsRefinement": true
     },
-    "review": "schematic"
+    "review": "needs-refinement"
   },
   {
     "id": "janu-bhumi-sthirasana",
@@ -5046,10 +5044,10 @@
       "image": "Im116",
       "reviewedViews": ["front", "side", "rear-three-quarter"],
       "featuresChecked": "Two bent legs at the nape and prayer hands",
-      "limitation": "Depth, soft-tissue contact and finger articulation remain schematic.",
-      "needsRefinement": false
+      "limitation": "The feet meet behind the neck rather than high above the head as shown in the photograph.",
+      "needsRefinement": true
     },
-    "review": "schematic"
+    "review": "needs-refinement"
   },
   {
     "id": "bhagasana",
@@ -5213,7 +5211,7 @@
         ],
         "mixamorigLeftUpLeg": [-0.6988914236477677, 0, 0.006888011789382686, 0.7151946121477607],
         "mixamorigLeftLeg": [
-          0.015532692079944716, 8.673617379884035e-19, -0.000003410809010464898, 0.9998793604556082
+          0.015532692079944716, 8.673617379884035e-19, -3.410809010464898e-6, 0.9998793604556082
         ],
         "mixamorigLeftFoot": [
           -0.02705801243258011, 0.004794280036582043, -0.004942214667935549, 0.9996101506869093
@@ -5221,7 +5219,7 @@
         "mixamorigLeftToeBase": [0, 0, 0, 1],
         "mixamorigRightUpLeg": [-0.6988914236477677, 0, -0.006888011789382686, 0.7151946121477607],
         "mixamorigRightLeg": [
-          0.015532692079944716, -8.673617379884035e-19, 0.000003410809010464898, 0.9998793604556082
+          0.015532692079944716, -8.673617379884035e-19, 3.410809010464898e-6, 0.9998793604556082
         ],
         "mixamorigRightFoot": [
           -0.02705801243258011, -0.004794280036582043, 0.004942214667935549, 0.9996101506869093
@@ -5492,10 +5490,10 @@
       "image": "Im138",
       "reviewedViews": ["front", "side", "rear-three-quarter"],
       "featuresChecked": "One resting leg and one bent leg behind the head",
-      "limitation": "Depth, soft-tissue contact and finger articulation remain schematic.",
-      "needsRefinement": false
+      "limitation": "The source shows a lifted head/chest; the model remains in a lower supine position.",
+      "needsRefinement": true
     },
-    "review": "schematic"
+    "review": "needs-refinement"
   },
   {
     "id": "katichakrasana",
@@ -5954,10 +5952,10 @@
       "image": "Im147",
       "reviewedViews": ["front", "side", "rear-three-quarter"],
       "featuresChecked": "High folded-leg balance and rear foot arrangement",
-      "limitation": "Depth, soft-tissue contact and finger articulation remain schematic.",
-      "needsRefinement": false
+      "limitation": "The Human hip surface forms pointed/open edges at the deep fold. The knee/arm support configuration remains approximate.",
+      "needsRefinement": true
     },
-    "review": "schematic"
+    "review": "needs-refinement"
   },
   {
     "id": "supta-padangustha-nasa-sparsasana",
@@ -6000,7 +5998,7 @@
         ],
         "mixamorigLeftToeBase": [0, 0, 0, 1],
         "mixamorigRightUpLeg": [
-          0.000013379352528930522, 0, -0.017234158258139162, 0.9998514807760832
+          1.3379352528930522e-5, 0, -0.017234158258139162, 0.9998514807760832
         ],
         "mixamorigRightLeg": [0.015523477219787288, 0, -0.0005349671867653557, 0.9998793604556082],
         "mixamorigRightFoot": [
@@ -6084,7 +6082,7 @@
       "image": "Im150",
       "reviewedViews": ["front", "side", "rear-three-quarter"],
       "featuresChecked": "Bent knees beside the head and grounded trunk",
-      "limitation": "The precise knee-to-ear contact remains approximate on the fixed-proportion rig.",
+      "limitation": "The model does not reproduce the raised pelvis and folded knee-to-ear configuration in the photograph. The torso lies too low, and the Human hip surface has pointed edges.",
       "needsRefinement": true
     },
     "review": "needs-refinement"
@@ -6156,10 +6154,10 @@
       "image": "Im151",
       "reviewedViews": ["front", "side", "rear-three-quarter"],
       "featuresChecked": "Bent-knee toe hold distinct from the straight V",
-      "limitation": "Depth, soft-tissue contact and finger articulation remain schematic.",
-      "needsRefinement": false
+      "limitation": "The photographed face-to-feet and hand contact is not reproduced; the model uses widely separated feet and schematic hand positions.",
+      "needsRefinement": true
     },
-    "review": "schematic"
+    "review": "needs-refinement"
   },
   {
     "id": "padangustha-nasa-sparsasana",
@@ -6222,7 +6220,7 @@
       "image": "Im153",
       "reviewedViews": ["front", "side", "rear-three-quarter"],
       "featuresChecked": "Low asymmetric fold, straight rear leg and bound arms",
-      "limitation": "The hidden front knee and exact face-to-foot contact need another reference angle.",
+      "limitation": "The hidden front leg and face-to-foot contact are not reconstructed accurately. The overall support configuration still needs source-led revision.",
       "needsRefinement": true
     },
     "review": "needs-refinement"
@@ -6342,10 +6340,10 @@
       "image": "Im155",
       "reviewedViews": ["front", "side", "rear-three-quarter"],
       "featuresChecked": "One leg at the nape and one folded kneeling leg",
-      "limitation": "Depth, soft-tissue contact and finger articulation remain schematic.",
-      "needsRefinement": false
+      "limitation": "The arm-to-foot bind remains incomplete, with the hand passing behind rather than forming the photographed grip.",
+      "needsRefinement": true
     },
-    "review": "schematic"
+    "review": "needs-refinement"
   },
   {
     "id": "kukilasana",
@@ -6410,10 +6408,10 @@
       "image": "Im156",
       "reviewedViews": ["front", "side", "rear-three-quarter"],
       "featuresChecked": "Wide grounded folded legs and crossed forearms",
-      "limitation": "Depth, soft-tissue contact and finger articulation remain schematic.",
-      "needsRefinement": false
+      "limitation": "The arms cross above the folded legs rather than passing down between the knees as shown in the source.",
+      "needsRefinement": true
     },
-    "review": "schematic"
+    "review": "needs-refinement"
   },
   {
     "id": "vrscikasana",
@@ -6694,10 +6692,10 @@
       "image": "Im162",
       "reviewedViews": ["front", "side", "rear-three-quarter"],
       "featuresChecked": "Straight extended leg in a twisted arm support",
-      "limitation": "Depth, soft-tissue contact and finger articulation remain schematic.",
-      "needsRefinement": false
+      "limitation": "The torso and supporting elbows remain too elevated compared with the low side-support shape in the photograph.",
+      "needsRefinement": true
     },
-    "review": "schematic"
+    "review": "needs-refinement"
   },
   {
     "id": "paksyasana",
@@ -6884,10 +6882,10 @@
       "image": "Im166",
       "reviewedViews": ["front", "side", "rear-three-quarter"],
       "featuresChecked": "Straight forward arm and raised rear-foot reach",
-      "limitation": "Depth, soft-tissue contact and finger articulation remain schematic.",
-      "needsRefinement": false
+      "limitation": "The overhead hand does not reach the raised rear foot, leaving a visible gap where the source shows a grip.",
+      "needsRefinement": true
     },
-    "review": "schematic"
+    "review": "needs-refinement"
   },
   {
     "id": "tribandhasana",

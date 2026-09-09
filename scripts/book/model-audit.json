@@ -5,8 +5,8 @@
     "image": "Im3",
     "reviewedViews": ["front", "side", "rear-three-quarter"],
     "featuresChecked": "Crossed knees and stacked palms",
-    "limitation": "Depth, soft-tissue contact and finger articulation remain schematic.",
-    "needsRefinement": false
+    "limitation": "The Human mesh has a visible pelvis/thigh seam in the rear view. The crossed seat remains schematic.",
+    "needsRefinement": true
   },
   {
     "id": "padmasana",
@@ -14,8 +14,8 @@
     "image": "Im11",
     "reviewedViews": ["front", "side", "rear-three-quarter"],
     "featuresChecked": "Lotus crossing and lap hands",
-    "limitation": "Depth, soft-tissue contact and finger articulation remain schematic.",
-    "needsRefinement": false
+    "limitation": "The Human mesh has a visible pelvis/thigh seam in the rear view; the lotus contacts need a continuous surface.",
+    "needsRefinement": true
   },
   {
     "id": "bhadrasana",
@@ -68,8 +68,8 @@
     "image": "Im21",
     "reviewedViews": ["front", "side", "rear-three-quarter"],
     "featuresChecked": "Stacked knees and opposing behind-back arm paths",
-    "limitation": "Depth, soft-tissue contact and finger articulation remain schematic.",
-    "needsRefinement": false
+    "limitation": "The opposing arm paths are present, but the fingers do not form the photographed clasp. Deep elbow folds show surface pinching.",
+    "needsRefinement": true
   },
   {
     "id": "virasana",
@@ -86,8 +86,8 @@
     "image": "Im24",
     "reviewedViews": ["front", "side", "rear-three-quarter"],
     "featuresChecked": "Straight overhead legs and foot hold",
-    "limitation": "Depth, soft-tissue contact and finger articulation remain schematic.",
-    "needsRefinement": false
+    "limitation": "The elbow bend and hand-to-foot arrangement differ from the source photograph. The Human hip surface opens into pointed edges in the overhead fold.",
+    "needsRefinement": true
   },
   {
     "id": "shavasana",
@@ -203,8 +203,8 @@
     "image": "Im43",
     "reviewedViews": ["front", "side", "rear-three-quarter"],
     "featuresChecked": "Straight arms extending behind the head",
-    "limitation": "Depth, soft-tissue contact and finger articulation remain schematic.",
-    "needsRefinement": false
+    "limitation": "The overhead arms remain bent and their contact with the floor differs from the extended reach in the photograph.",
+    "needsRefinement": true
   },
   {
     "id": "vrksasana",
@@ -284,8 +284,8 @@
     "image": "Im57",
     "reviewedViews": ["front", "side", "rear-three-quarter"],
     "featuresChecked": "Folded lotus base and rear arm bind",
-    "limitation": "Depth, soft-tissue contact and finger articulation remain schematic.",
-    "needsRefinement": false
+    "limitation": "The deep forward fold exposes a pointed/open thigh-to-pelvis seam in the Human mesh.",
+    "needsRefinement": true
   },
   {
     "id": "chakrasana",
@@ -329,8 +329,8 @@
     "image": "Im64",
     "reviewedViews": ["front", "side", "rear-three-quarter"],
     "featuresChecked": "Opposite-foot bind around the torso",
-    "limitation": "Depth, soft-tissue contact and finger articulation remain schematic.",
-    "needsRefinement": false
+    "limitation": "The behind-the-back bind is missing: the rendered arms reach around the sides toward the front instead of reproducing the photographed rear arm path.",
+    "needsRefinement": true
   },
   {
     "id": "pranavasana",
@@ -365,8 +365,8 @@
     "image": "Im69",
     "reviewedViews": ["front", "side", "rear-three-quarter"],
     "featuresChecked": "Straight straddle and low torso",
-    "limitation": "Depth, soft-tissue contact and finger articulation remain schematic.",
-    "needsRefinement": false
+    "limitation": "The rendered hands do not reach the feet as in the wide forward-fold photograph.",
+    "needsRefinement": true
   },
   {
     "id": "sarvangasana",
@@ -374,8 +374,8 @@
     "image": "Im70",
     "reviewedViews": ["front", "side", "rear-three-quarter"],
     "featuresChecked": "Overhead legs with arms beside the trunk",
-    "limitation": "Depth, soft-tissue contact and finger articulation remain schematic.",
-    "needsRefinement": false
+    "limitation": "The Human hip surface opens into pointed edges during the overhead fold. This is a surface deformation defect, separate from the posture silhouette.",
+    "needsRefinement": true
   },
   {
     "id": "akarna-dhanurasana",
@@ -383,8 +383,8 @@
     "image": "Im71",
     "reviewedViews": ["front", "side", "rear-three-quarter"],
     "featuresChecked": "One straight leg and one foot toward the ear",
-    "limitation": "Depth, soft-tissue contact and finger articulation remain schematic.",
-    "needsRefinement": false
+    "limitation": "The forward hand stops well short of the straight-leg foot; the photographed archer grip is not reproduced.",
+    "needsRefinement": true
   },
   {
     "id": "urdhva-hastottanasana",
@@ -392,8 +392,8 @@
     "image": "Im72",
     "reviewedViews": ["front", "side", "rear-three-quarter"],
     "featuresChecked": "Straight overhead arms and lateral spinal bend",
-    "limitation": "Depth, soft-tissue contact and finger articulation remain schematic.",
-    "needsRefinement": false
+    "limitation": "The elbows remain bent and the hands do not join in the long side-reaching shape shown in the source.",
+    "needsRefinement": true
   },
   {
     "id": "parvatasana",
@@ -419,7 +419,7 @@
     "image": "Im76",
     "reviewedViews": ["front", "side", "rear-three-quarter"],
     "featuresChecked": "Raised folded legs and cheek hands",
-    "limitation": "The exact passage of the forearms through the folded legs is not reproduced by the current rig.",
+    "limitation": "The forearms do not pass through the folded legs as photographed. The elbows rest in front of the leg crossing.",
     "needsRefinement": true
   },
   {
@@ -446,7 +446,7 @@
     "image": "Im79",
     "reviewedViews": ["front", "side", "rear-three-quarter"],
     "featuresChecked": "Asymmetric legs and hand at the cheek",
-    "limitation": "The cheek-hand shape and elbow support remain approximate; the photograph obscures their depth.",
+    "limitation": "The supporting elbow does not rest on the leg as shown in the photograph; the cheek-hand pose also remains approximate.",
     "needsRefinement": true
   },
   {
@@ -482,8 +482,8 @@
     "image": "Im85",
     "reviewedViews": ["front", "side", "rear-three-quarter"],
     "featuresChecked": "Low head position and bridge supports",
-    "limitation": "Depth, soft-tissue contact and finger articulation remain schematic.",
-    "needsRefinement": false
+    "limitation": "The model uses a broad wheel-like leg placement. The source has a more compressed kneeling/head-support configuration.",
+    "needsRefinement": true
   },
   {
     "id": "avatthasana",
@@ -500,8 +500,8 @@
     "image": "Im87",
     "reviewedViews": ["front", "side", "rear-three-quarter"],
     "featuresChecked": "Grounded knees and raised inward feet",
-    "limitation": "Depth, soft-tissue contact and finger articulation remain schematic.",
-    "needsRefinement": false
+    "limitation": "The feet meet near the abdomen in the model rather than rising toward the chest as photographed.",
+    "needsRefinement": true
   },
   {
     "id": "ardha-matsyendrasana",
@@ -518,8 +518,8 @@
     "image": "Im89",
     "reviewedViews": ["front", "side", "rear-three-quarter"],
     "featuresChecked": "High pelvis and knees toward the upper arms",
-    "limitation": "Depth, soft-tissue contact and finger articulation remain schematic.",
-    "needsRefinement": false
+    "limitation": "The Human hip surface forms pointed edges under the deep fold. Knee-to-arm contacts remain schematic.",
+    "needsRefinement": true
   },
   {
     "id": "titibhasana",
@@ -581,8 +581,8 @@
     "image": "Im99",
     "reviewedViews": ["front", "side", "rear-three-quarter"],
     "featuresChecked": "Separated overhead leg angles and one grounded arm",
-    "limitation": "Depth, soft-tissue contact and finger articulation remain schematic.",
-    "needsRefinement": false
+    "limitation": "The Human hip surface opens into pointed edges during the overhead fold; hand/foot placement remains approximate.",
+    "needsRefinement": true
   },
   {
     "id": "ekapada-bhujasana",
@@ -626,8 +626,8 @@
     "image": "Im105",
     "reviewedViews": ["front", "side", "rear-three-quarter"],
     "featuresChecked": "Bent legs behind the head over a hand balance",
-    "limitation": "Depth, soft-tissue contact and finger articulation remain schematic.",
-    "needsRefinement": false
+    "limitation": "The feet sit behind the neck rather than meeting high above the head as in the frontal photograph.",
+    "needsRefinement": true
   },
   {
     "id": "tadasana",
@@ -653,8 +653,8 @@
     "image": "Im110",
     "reviewedViews": ["front", "side", "rear-three-quarter"],
     "featuresChecked": "One raised bent leg and opposite reaching arm",
-    "limitation": "Depth, soft-tissue contact and finger articulation remain schematic.",
-    "needsRefinement": false
+    "limitation": "The raised free hand does not hold the lifted foot as shown in the photograph.",
+    "needsRefinement": true
   },
   {
     "id": "dvihasta-bhujasana",
@@ -662,8 +662,8 @@
     "image": "Im111",
     "reviewedViews": ["front", "side", "rear-three-quarter"],
     "featuresChecked": "Two bent legs beside the shoulders and toe holds",
-    "limitation": "Depth, soft-tissue contact and finger articulation remain schematic.",
-    "needsRefinement": false
+    "limitation": "The hands do not reproduce the photographed grips on the elevated feet; foot height relative to the face also differs.",
+    "needsRefinement": true
   },
   {
     "id": "janu-bhumi-sthirasana",
@@ -698,8 +698,8 @@
     "image": "Im116",
     "reviewedViews": ["front", "side", "rear-three-quarter"],
     "featuresChecked": "Two bent legs at the nape and prayer hands",
-    "limitation": "Depth, soft-tissue contact and finger articulation remain schematic.",
-    "needsRefinement": false
+    "limitation": "The feet meet behind the neck rather than high above the head as shown in the photograph.",
+    "needsRefinement": true
   },
   {
     "id": "bhagasana",
@@ -761,8 +761,8 @@
     "image": "Im138",
     "reviewedViews": ["front", "side", "rear-three-quarter"],
     "featuresChecked": "One resting leg and one bent leg behind the head",
-    "limitation": "Depth, soft-tissue contact and finger articulation remain schematic.",
-    "needsRefinement": false
+    "limitation": "The source shows a lifted head/chest; the model remains in a lower supine position.",
+    "needsRefinement": true
   },
   {
     "id": "katichakrasana",
@@ -824,8 +824,8 @@
     "image": "Im147",
     "reviewedViews": ["front", "side", "rear-three-quarter"],
     "featuresChecked": "High folded-leg balance and rear foot arrangement",
-    "limitation": "Depth, soft-tissue contact and finger articulation remain schematic.",
-    "needsRefinement": false
+    "limitation": "The Human hip surface forms pointed/open edges at the deep fold. The knee/arm support configuration remains approximate.",
+    "needsRefinement": true
   },
   {
     "id": "supta-padangustha-nasa-sparsasana",
@@ -842,7 +842,7 @@
     "image": "Im150",
     "reviewedViews": ["front", "side", "rear-three-quarter"],
     "featuresChecked": "Bent knees beside the head and grounded trunk",
-    "limitation": "The precise knee-to-ear contact remains approximate on the fixed-proportion rig.",
+    "limitation": "The model does not reproduce the raised pelvis and folded knee-to-ear configuration in the photograph. The torso lies too low, and the Human hip surface has pointed edges.",
     "needsRefinement": true
   },
   {
@@ -851,8 +851,8 @@
     "image": "Im151",
     "reviewedViews": ["front", "side", "rear-three-quarter"],
     "featuresChecked": "Bent-knee toe hold distinct from the straight V",
-    "limitation": "Depth, soft-tissue contact and finger articulation remain schematic.",
-    "needsRefinement": false
+    "limitation": "The photographed face-to-feet and hand contact is not reproduced; the model uses widely separated feet and schematic hand positions.",
+    "needsRefinement": true
   },
   {
     "id": "padangustha-nasa-sparsasana",
@@ -860,7 +860,7 @@
     "image": "Im153",
     "reviewedViews": ["front", "side", "rear-three-quarter"],
     "featuresChecked": "Low asymmetric fold, straight rear leg and bound arms",
-    "limitation": "The hidden front knee and exact face-to-foot contact need another reference angle.",
+    "limitation": "The hidden front leg and face-to-foot contact are not reconstructed accurately. The overall support configuration still needs source-led revision.",
     "needsRefinement": true
   },
   {
@@ -878,8 +878,8 @@
     "image": "Im155",
     "reviewedViews": ["front", "side", "rear-three-quarter"],
     "featuresChecked": "One leg at the nape and one folded kneeling leg",
-    "limitation": "Depth, soft-tissue contact and finger articulation remain schematic.",
-    "needsRefinement": false
+    "limitation": "The arm-to-foot bind remains incomplete, with the hand passing behind rather than forming the photographed grip.",
+    "needsRefinement": true
   },
   {
     "id": "kukilasana",
@@ -887,8 +887,8 @@
     "image": "Im156",
     "reviewedViews": ["front", "side", "rear-three-quarter"],
     "featuresChecked": "Wide grounded folded legs and crossed forearms",
-    "limitation": "Depth, soft-tissue contact and finger articulation remain schematic.",
-    "needsRefinement": false
+    "limitation": "The arms cross above the folded legs rather than passing down between the knees as shown in the source.",
+    "needsRefinement": true
   },
   {
     "id": "vrscikasana",
@@ -923,8 +923,8 @@
     "image": "Im162",
     "reviewedViews": ["front", "side", "rear-three-quarter"],
     "featuresChecked": "Straight extended leg in a twisted arm support",
-    "limitation": "Depth, soft-tissue contact and finger articulation remain schematic.",
-    "needsRefinement": false
+    "limitation": "The torso and supporting elbows remain too elevated compared with the low side-support shape in the photograph.",
+    "needsRefinement": true
   },
   {
     "id": "paksyasana",
@@ -950,8 +950,8 @@
     "image": "Im166",
     "reviewedViews": ["front", "side", "rear-three-quarter"],
     "featuresChecked": "Straight forward arm and raised rear-foot reach",
-    "limitation": "Depth, soft-tissue contact and finger articulation remain schematic.",
-    "needsRefinement": false
+    "limitation": "The overhead hand does not reach the raised rear foot, leaving a visible gap where the source shows a grip.",
+    "needsRefinement": true
   },
   {
     "id": "tribandhasana",

@@ -1,5 +1,7 @@
 # 108-model visual audit - 8 September 2026
 
+The [9 September Blender audit](blender-audit.md) supersedes the earlier four-item limitation list and records additional rendering and source-contact findings.
+
 All 108 primary book illustrations were compared with the actual skinned Human mesh from the front, side and rear three-quarter views. The Reference model uses the same skeleton. Each model was revised and the resulting meshes were inspected again. This is a visual reconstruction review, not anatomical certification or verification by the book's author.
 
 The previous automated audit checked body clearance and floor penetration, but those checks allowed incorrect knee and elbow arrangements. The old offline collision optimizer could rotate the bend plane and change the posture. The book authoring path now preserves its explicitly authored contacts and applies only a uniform floor translation. Existing animated Hatha Yoga Pradipika sequences are unchanged.
