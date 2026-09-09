@@ -2,6 +2,9 @@ import { lazy, Suspense, useEffect, useRef, useState } from 'react';
 import { Link, useParams, useSearchParams, useLocation } from 'react-router-dom';
 import { ArrowLeft, ArrowRight, BookOpen, X } from 'lucide-react';
 import { book, bookModels as models, type BookEntry as Entry } from '../data/book';
+import { LanguageSelector, useLanguage } from '../core/language';
+import { contacts, contactName, contactText } from '../data/contact';
+import ContactFindings from '../components/ContactFindings';
 import BookIndex from './BookIndex';
 const Stage = lazy(() => import('../components/Stage'));
 export default function Brahmachari() {
@@ -20,16 +23,19 @@ export default function Brahmachari() {
   return <BookIndex />;
 }
 function BookEntry({ entry: e }: { entry: Entry }) {
+  const { language } = useLanguage(),
+    t = contactText[language],
+    contact = contacts[e.id];
   const location = useLocation();
   const [imageParams, setImageParams] = useSearchParams();
   const collectionSearch =
     typeof location.state?.collectionSearch === 'string' ? location.state.collectionSearch : '';
   const [view, setView] = useState<'split' | 'picture' | 'model'>(() =>
-    window.matchMedia('(max-width: 600px)').matches ? 'model' : 'split',
+    window.matchMedia('(max-width: 600px)').matches ? 'picture' : 'split',
   );
   useEffect(() => {
-    document.title = `${e.iast} · ${e.english} · Classical Yoga Atlas`;
-  }, [e]);
+    document.title = `${e.iast} · ${contactName(e, language)} · Classical Yoga Atlas`;
+  }, [e, language]);
 
   const [selected, updateSelected] = useState(
       Math.max(
@@ -39,7 +45,7 @@ function BookEntry({ entry: e }: { entry: Entry }) {
         ),
       ),
     ),
-    [textOpen, setTextOpen] = useState(false),
+    [textOpen, setTextOpen] = useState(imageParams.get('text') === '1'),
     [text, setText] = useState<string[]>([]),
     [error, setError] = useState(''),
     [retry, setRetry] = useState(0);
@@ -91,6 +97,7 @@ function BookEntry({ entry: e }: { entry: Entry }) {
       >
         <ArrowLeft size={16} /> Back to Brahmachari collection
       </Link>
+      <LanguageSelector />
       <div className="detail-heading">
         <div>
           <span className="eyebrow">
@@ -100,13 +107,13 @@ function BookEntry({ entry: e }: { entry: Entry }) {
           <p className="book-sanskrit" lang="sa">
             {e.sanskrit}
           </p>
-          <p>{e.english}</p>
+          <p lang={language}>{contactName(e, language)}</p>
           <p lang="ru" className="book-russian">
             {e.russian}
           </p>
         </div>
         <span className="unverified-tag">
-          {bookModel ? '3D reconstruction · unverified' : '12 illustrated stages'}
+          {bookModel ? t.corrections : '12 illustrated stages'}
         </span>
       </div>
       <div className="detail-viewbar">
@@ -192,34 +199,24 @@ function BookEntry({ entry: e }: { entry: Entry }) {
                   Show this model’s source picture
                 </button>
               )}
-              {bookModel.review === 'needs-refinement' && (
-                <p className="micro">{bookModel.audit.limitation}</p>
-              )}
-              <details className="micro">
-                <summary>Model audit notes</summary>
-                <p>
-                  Compared with {bookModel.image} from the front, side and rear three-quarter views.
-                </p>
-                <p>Features checked: {bookModel.audit.featuresChecked}.</p>
-                {bookModel.review !== 'needs-refinement' && <p>{bookModel.audit.limitation}</p>}
-                <a href={`/audits/blender/?q=${encodeURIComponent(e.id)}`}>
-                  View the Blender render audit
-                </a>
-              </details>
-              <p className="micro">
-                Contact and joint angles are schematic. This model does not reproduce every
-                variation in the section.
+              <p className="micro" lang={language}>
+                {t.limitation}
               </p>
             </section>
           )}
           <section className="citation-card">
-            <span className="eyebrow">READING THE PICTURE</span>
-            <h2>{e.english}</h2>
-            <p>{e.summary}</p>
-            <p className="micro">
-              English label and visual description are editorial. The original section and pictures
-              remain the source.
+            <span className="eyebrow">{t.reading}</span>
+            <h2 lang={language}>{contactName(e, language)}</h2>
+            <p lang={language}>{contact?.description[language] ?? e.summary}</p>
+            <p className="micro" lang={language}>
+              {t.editorial}
             </p>
+            {contact && (
+              <p className="micro" lang={language}>
+                {t.paragraphs}: {contact.sourceParagraphs.join(', ')}.
+              </p>
+            )}
+            <ContactFindings id={e.id} />
           </section>
           <section className="notes-block book-reference">
             <span className="eyebrow">SOURCE LOCATION</span>
@@ -242,7 +239,7 @@ function BookEntry({ entry: e }: { entry: Entry }) {
         <h2>{bookModel ? 'Study this posture in a sequence' : 'The illustrated sequence'}</h2>
         <p>
           {bookModel
-            ? 'This static 3D study follows the selected book picture. Add it to your sequence to study the poses in your chosen order and timing. Entry and exit movements are not inferred from the photograph.'
+            ? 'This schematic 3D study has unresolved hand, foot and finger contacts. Read the contact audit alongside the source picture when adding it to a sequence. Entry and exit movements are not inferred from photographs.'
             : 'The book supplies twelve illustrated stages of Sūrya Namaskār. These pictures remain available as a separate source section.'}
         </p>
         {bookModel && (
@@ -251,7 +248,7 @@ function BookEntry({ entry: e }: { entry: Entry }) {
           </Link>
         )}
       </section>
-      <section className="notes-block original-section">
+      <section id="original-section" className="notes-block original-section">
         <button
           className="text-button"
           aria-expanded={textOpen}
@@ -277,7 +274,9 @@ function BookEntry({ entry: e }: { entry: Entry }) {
             ) : text.length ? (
               <div lang="ru" className="russian-transcript">
                 {text.map((p, i) => (
-                  <p key={i}>{p}</p>
+                  <p id={`source-paragraph-${i + 1}`} key={i}>
+                    <span className="source-paragraph-number">{i + 1}.</span> {p}
+                  </p>
                 ))}
               </div>
             ) : (

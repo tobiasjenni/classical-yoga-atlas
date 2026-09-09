@@ -1,3 +1,4 @@
+import { contactSearch, contacts } from './contact';
 import book from './brahmachari.json';
 import rawModels from './brahmachari-models.json';
 import { poseSchema } from '../core/schema';
@@ -25,11 +26,11 @@ export function bookResults(params: URLSearchParams) {
     (entry) =>
       (entry.kind === 'posture' || family === 'sequence' || !!params.get('q')?.trim()) &&
       matchesSearch(
-        `${entry.name} ${entry.iast} ${entry.sanskrit} ${entry.english} ${entry.russian}`,
+        `${entry.name} ${entry.iast} ${entry.sanskrit} ${entry.english} ${entry.russian} ${contactSearch(entry.id)}`,
         params.get('q') ?? '',
       ) &&
       (!bookFamilies.includes(family ?? '') || entry.family === family) &&
-      (review === 'refine' ? bookModels[entry.id]?.review === 'needs-refinement' : true),
+      (review === 'refine' ? contacts[entry.id]?.status === 'corrections-required' : true),
   );
   if (params.get('sort') === 'name') entries.sort((a, b) => a.iast.localeCompare(b.iast));
   const pages = Math.max(1, Math.ceil(entries.length / pageSize));

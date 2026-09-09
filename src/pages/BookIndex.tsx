@@ -2,6 +2,8 @@ import { lazy, Suspense, useEffect, useRef } from 'react';
 import { Link, useSearchParams, useLocation } from 'react-router-dom';
 import { ArrowRight, ArrowLeft, BookOpen, Search, X } from 'lucide-react';
 import { book, bookModels, bookFamilies, bookResults, pageSize } from '../data/book';
+import { useLanguage } from '../core/language';
+import { contactName } from '../data/contact';
 import CollectionLinks from '../components/CollectionLinks';
 import ModelFilter from '../components/ModelFilter';
 const PoseThumbnail = lazy(() =>
@@ -12,6 +14,7 @@ const ThumbnailCanvas = lazy(() =>
 );
 
 export default function BookIndex() {
+  const { language } = useLanguage();
   const [params, setParams] = useSearchParams();
   const location = useLocation();
   const catalogue = useRef<HTMLElement>(null);
@@ -66,7 +69,7 @@ export default function BookIndex() {
             </Link>
           </div>
           <div className="book-statline">
-            <span>108 Sanskrit & English names</span>
+            <span>108 Sanskrit names · EN / DE / RU descriptions</span>
             <span>185 source pictures</span>
           </div>
         </div>
@@ -149,7 +152,7 @@ export default function BookIndex() {
                 onChange={(e) => filter('review', e.target.value)}
               >
                 <option value="">All studies</option>
-                <option value="refine">Models need refinement</option>
+                <option value="refine">Contact corrections required</option>
               </select>
             </label>
             <label>
@@ -250,7 +253,7 @@ export default function BookIndex() {
                 <p className="book-sanskrit" lang="sa">
                   {entry.sanskrit}
                 </p>
-                <p className="book-english">{entry.english}</p>
+                <p className="book-english">{contactName(entry, language)}</p>
                 <span className="book-card-note">
                   {entry.kind === 'sequence' ? 'Explore the 12 stages' : 'View pose & source'}
                   <ArrowRight size={16} />

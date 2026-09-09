@@ -12,6 +12,9 @@ import {
   Sun,
   X,
 } from 'lucide-react';
+import './contact.css';
+import { LanguageProvider } from './core/language';
+const ContactAudit = lazy(() => import('./pages/ContactAudit'));
 import { useModalFocus } from './core/modal-focus';
 const Studio = lazy(() => import('./pages/Studio'));
 const Sequence = lazy(() => import('./pages/BookSequence'));
@@ -80,6 +83,7 @@ function Shell() {
     { to: '/', icon: Grid2X2, label: 'Asana atlas', end: true },
     { to: '/sequence', icon: Layers, label: 'Book sequences' },
     { to: '/studio', icon: PencilRuler, label: 'Pose studio' },
+    { to: '/audit', icon: BookOpen, label: 'Contact audit' },
   ];
   return (
     <>
@@ -200,6 +204,7 @@ function Shell() {
             <Route path="/sequence" element={<Sequence />} />
             <Route path="/studio" element={<Studio />} />
             <Route path="/sources" element={<Sources />} />
+            <Route path="/audit" element={<ContactAudit />} />
             <Route
               path="*"
               element={
@@ -235,8 +240,10 @@ function Shell() {
 }
 export default function App() {
   return (
-    <BrowserRouter>
-      <Shell />
-    </BrowserRouter>
+    <LanguageProvider>
+      <BrowserRouter>
+        <Shell />
+      </BrowserRouter>
+    </LanguageProvider>
   );
 }

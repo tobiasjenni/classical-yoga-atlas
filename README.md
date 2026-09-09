@@ -41,7 +41,11 @@ The studio starts from static book targets. Edits are local drafts and do not ch
 
 ## Model accuracy
 
-The [Blender audit](docs/blender-audit.md) records specific remaining visual findings for 30 book studies, including missing grips, different limb placements, and Human surface seams at deeply folded joints. Successful rendering is not proof of pose accuracy. The sequence feature does not repair these existing defects. Models and editorial timing are study aids, not practice instructions or anatomical certification.
+The [contact audit](https://classical-yoga-atlas.toebu-jenni.workers.dev/audit) reviews **all 108 postures**, all 173 posture pictures, and 648 existing Blender views in both model styles. Each entry records hand, foot and finger findings, original paragraph references, picture and pose hashes, and editorial descriptions in **English, German and Russian**. The description language is saved locally and also applies to the collection and sequence names. Original Russian transcripts remain unchanged.
+
+All 108 models have unresolved contact or articulation limitations. Both rigs bind all fingers to one hand bone and toes to the foot, so exact grips, interlacing and mudras cannot be reproduced. **This audit makes no model repairs.** It expands the earlier [Blender audit](docs/blender-audit.md), which recorded specific findings for 30 studies. Successful rendering is not proof of pose accuracy.
+
+The manually reviewed records are in `scripts/book/contact-review.tsv`, with translated findings in `scripts/book/contact-issues.tsv`. Run `node scripts/build-contact-audit.mjs` to regenerate the application data, public JSON and Markdown report, and the reviewed English catalogue descriptions. Evidence tests reject changed source, rig or pose data until it is reviewed again. The language switch translates the editorial posture descriptions and audit findings; it is not a translation of the entire historical book.
 
 Reproducible exporter, renderer, comparison-sheet and report scripts are in `scripts/`. Poses use metres, +Y up, +Z forward, and local normalized quaternion rotations on the documented mannequin bones. Mesh exports preserve the website’s actual posed vertices and normals.
 

@@ -24,17 +24,23 @@ export default function Sources() {
         </p>
         <p>
           Every asana has a Sanskrit name in Devanagari and IAST, an English label, the original
-          Russian heading, its source illustrations and an original static 3D pose study. Exact
-          contacts and movement remain unverified reconstructions. Sanskrit spellings and English
-          labels are editorial normalizations; the original heading is retained for comparison.
+          Russian heading, reviewed descriptions in English, German and Russian, its source
+          illustrations and an original static 3D pose study. Exact contacts require corrections.
+          Sanskrit spellings and translated labels are editorial normalizations; the original
+          heading is retained for comparison.
         </p>
         <Link to="/" className="button">
           Open the 108-asana atlas <ArrowUpRight size={16} />
         </Link>
         <h3>Edition and source locations</h3>
         <p>
-          <a href="/audits/blender/">Blender render audit</a> — compare both model appearances with
-          the book pictures and read the remaining visual findings.
+          <Link to="/audit">Hand, foot and finger audit of all 108 asanas</Link> — source-specific
+          contact findings, descriptions in three languages, and picture evidence. Both model styles
+          have fixed fingers and toes; this review documents defects and does not repair them.
+        </p>
+        <p>
+          <a href="/audits/blender/">Earlier Blender render audit</a> — all 648 rendered views. The
+          new contact audit above expands its findings to all 108 postures.
         </p>
         <p>
           {book.edition} {book.locatorPolicy}

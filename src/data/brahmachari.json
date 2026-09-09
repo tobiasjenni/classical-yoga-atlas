@@ -20,7 +20,7 @@
       "english": "Accomplished seat",
       "russian": "СИДДХАСАНА (совершенная поза)",
       "family": "seated",
-      "summary": "An upright seat with one heel in front of the other; the plates show several hand and gaze variants.",
+      "summary": "Upright seat with the heels arranged along the body's midline and the feet tucked between thighs and calves. The Russian text specifies the right hand over the left, both palms upward, in the lap.",
       "file": "ch1-4.xhtml",
       "images": [
         {
@@ -79,7 +79,7 @@
       "english": "Lotus",
       "russian": "ПАДМАСАНА (поза лотоса)",
       "family": "seated",
-      "summary": "Both feet rest on opposite thighs. The book illustrates hands in the lap and hands on the knees.",
+      "summary": "Each foot rests high on the opposite thigh, with the heels drawn toward the lower abdomen. In the selected plate the hands overlap in the lap, palms upward; other plates show different hand positions.",
       "file": "ch1-4.xhtml",
       "images": [
         {
@@ -118,7 +118,7 @@
       "english": "Blessed kneeling seat",
       "russian": "БХАДРАСАНА (благотворная поза)",
       "family": "kneeling",
-      "summary": "A kneeling seat on the heels, with hands on the thighs or reaching behind to the toes.",
+      "summary": "Kneeling with the pelvis over the heels. The selected side photograph shows the hands lowered behind the hips; the Russian section also describes hands on the thighs and separate toe-holding variants. These should not be merged into one hand position.",
       "file": "ch1-4.xhtml",
       "images": [
         {
@@ -147,7 +147,7 @@
       "english": "Free seat",
       "russian": "МУКТАСАНА (свободная поза)",
       "family": "seated",
-      "summary": "An upright crossed-leg seat, with relaxed arms and hands resting on the knees.",
+      "summary": "The heels are stacked low at the centre of the pelvis, with the feet concealed by the folded legs. The selected photograph shows the hands resting at the knees; the text also allows the hands to overlap.",
       "file": "ch1-4.xhtml",
       "images": [
         {
@@ -171,7 +171,7 @@
       "english": "Adamantine seat",
       "russian": "ВАДЖРАСАНА (несокрушимая поза)",
       "family": "kneeling",
-      "summary": "Knees and shins rest on the ground, the pelvis rests on the heels and hands lie on the thighs.",
+      "summary": "The knees rest on the ground and the pelvis sits over the heels. The text describes the big toes and heels together. Hands rest on the thighs toward the knees, with fingers directed down along the knee contours.",
       "file": "ch1-4.xhtml",
       "images": [
         {
@@ -200,7 +200,7 @@
       "english": "Auspicious seat",
       "russian": "СВАСТИКАСАНА (поза свастики)",
       "family": "seated",
-      "summary": "The feet are tucked between the opposite calves and thighs in an upright seated shape.",
+      "summary": "The feet are tucked into the opposite thigh–calf folds, with both knees lowered. The selected photograph shows open hands at the knees and curved thumb–index areas; the small finger contacts are not sharply resolved.",
       "file": "ch1-4.xhtml",
       "images": [
         {
@@ -224,7 +224,7 @@
       "english": "Lion",
       "russian": "СИМХАСАНА (поза льва)",
       "family": "kneeling",
-      "summary": "The knees spread and the body sits over raised heels, supported on the toes; hands rest on the knees.",
+      "summary": "A squat supported on the toes, with raised heels together and knees apart. The selected picture shows the fingers curving down around the knees; the text also permits overlapping hands.",
       "file": "ch1-4.xhtml",
       "images": [
         {
@@ -248,7 +248,7 @@
       "english": "Cow-face posture",
       "russian": "ГОМУКХАСАНА (поза коровьей головы)",
       "family": "seated",
-      "summary": "Folded legs accompany a behind-the-back hand clasp, with one elbow raised and the other lowered.",
+      "summary": "The knees overlap, with folded feet beside and beneath the pelvis. One arm reaches down behind the shoulder and the other up the back; the text specifies eight interlocked fingers. A second plate reverses the sides.",
       "file": "ch1-4.xhtml",
       "images": [
         {
@@ -277,7 +277,7 @@
       "english": "Hero lunge",
       "russian": "ВИРАСАНА (поза героя)",
       "family": "standing",
-      "summary": "A long lunge with the front knee bent and the rear leg extended; one arm reaches forward at shoulder height and the other bends behind the waist.",
+      "summary": "The front foot is flat and the rear instep lies on the floor, toes pointing backward. The front arm extends at shoulder height; the other fist rests near the navel. The text specifies thumbs enclosed inside both fists.",
       "file": "ch1-4.xhtml",
       "images": [
         {
@@ -301,7 +301,7 @@
       "english": "Supine bow variant",
       "russian": "ДХАНУРАСАНА (наклоненная поза)",
       "family": "inverted",
-      "summary": "The legs pass over the head while the shoulders remain down; both hands reach to the toes.",
+      "summary": "From a supine position the straight legs pass overhead. The arms extend along the floor to hold both big toes, with straight elbows and the feet together, as specified in the text.",
       "file": "ch1-4.xhtml",
       "images": [
         {
@@ -325,7 +325,7 @@
       "english": "Corpse posture",
       "russian": "ШАВАСАНА ИЛИ МРИТАСАНА(поза трупа)",
       "family": "supine",
-      "summary": "The body rests lengthwise on the back, with arms alongside the torso and legs extended.",
+      "summary": "Supine, with the heels touching and the toes turned outward as the text specifies. Arms lie beside the body, palms upward, with relaxed fingers.",
       "file": "ch1-4.xhtml",
       "images": [
         {
@@ -349,7 +349,7 @@
       "english": "Concealed seat",
       "russian": "GUPTASANA (скрытое положение)",
       "family": "seated",
-      "summary": "A compact folded-leg seat with the feet tucked beneath the thighs.",
+      "summary": "The heels align beneath the pelvis and the toes are concealed beneath the opposite thighs. Hands rest at the knees; the photograph suggests curved thumb–index positions, but the exact small contacts are indistinct.",
       "file": "ch1-4.xhtml",
       "images": [
         {
@@ -373,7 +373,7 @@
       "english": "Fish",
       "russian": "МАТСИАСАНА (поза рыбы)",
       "family": "supine",
-      "summary": "The lotus legs remain folded while the chest arches upward and the head rests behind the shoulders.",
+      "summary": "In the illustrated lotus backbend, the crown and knees meet the floor. Each hand holds the opposite foot; the feet remain high on the thighs.",
       "file": "ch1-4.xhtml",
       "images": [
         {
@@ -397,7 +397,7 @@
       "english": "Matsyendra twist",
       "russian": "МАТСИЕНДРАСАНА (поза Матсиендры)",
       "family": "seated",
-      "summary": "The book shows an initial leg arrangement followed by a seated trunk rotation and arm wrap.",
+      "summary": "One foot rests on the opposite thigh; the other crosses beyond the knee. The front hand holds the crossed foot's toes, while the arm behind the back reaches the lotus heel.",
       "file": "ch1-4.xhtml",
       "images": [
         {
@@ -426,7 +426,7 @@
       "english": "Goraksha seat",
       "russian": "ГОРАКШАСАНА (поза Горакши)",
       "family": "seated",
-      "summary": "The feet meet beneath the pelvis, knees open to the sides and hands rest on the knees.",
+      "summary": "The soles meet beneath the pelvis, knees on the floor. After arranging the feet, the hands rest at the knees. The small finger contacts in the photograph are indistinct.",
       "file": "ch1-4.xhtml",
       "images": [
         {
@@ -450,7 +450,7 @@
       "english": "Seated forward fold",
       "russian": "ПАШЧИМОТТАНАСАНА (поза растяжения задней поверхности)",
       "family": "seated",
-      "summary": "Both legs extend along the ground; the trunk folds toward them and the hands hold the feet.",
+      "summary": "Straight legs lie together on the floor, hands holding the toes. The later plate shows a deeper fold with fingers interlaced beyond the feet; it is a distinct grip variant.",
       "file": "ch1-4.xhtml",
       "images": [
         {
@@ -479,7 +479,7 @@
       "english": "Toe-supported squat",
       "russian": "УТКАТАСАНА (поза сидя на корточках)",
       "family": "standing",
-      "summary": "A deep squat balances on the toes with raised heels and hands held in front.",
+      "summary": "A deep squat on the toes, heels together beneath the pelvis. Elbows rest at the knees and the fingers interlace in front of the chest.",
       "file": "ch1-4.xhtml",
       "images": [
         {
@@ -503,7 +503,7 @@
       "english": "Entwined balance",
       "russian": "САНКАТАСАНА. (сплетённая поза или поза верёвки)",
       "family": "standing",
-      "summary": "One leg winds around the supporting leg while the palms join above the head.",
+      "summary": "One leg wraps around the supporting leg. The text and photograph also show the arms winding around each other overhead, rather than a simple uncrossed prayer position.",
       "file": "ch1-4.xhtml",
       "images": [
         {
@@ -527,7 +527,7 @@
       "english": "Peacock",
       "russian": "МАЮРАСАНА (поза павлина)",
       "family": "balance",
-      "summary": "The plates progress from a kneeling setup to a horizontal hand balance, including several leg variations.",
+      "summary": "In the horizontal balance the palms bear the weight, hands close together and elbows pressed into the navel region. The legs extend together behind the body. Other plates show preparation and a one-hand variant.",
       "file": "ch1-4.xhtml",
       "images": [
         {
@@ -566,7 +566,7 @@
       "english": "Cockerel",
       "russian": "КУКУТТАСАНА (поза петуха)",
       "family": "balance",
-      "summary": "The arms pass through the folded lotus legs and the palms support the raised body.",
+      "summary": "Both arms pass between the thighs and calves of the lotus legs. Palms press into the floor with a four-finger-width gap, lifting the folded legs and pelvis.",
       "file": "ch1-4.xhtml",
       "images": [
         {
@@ -590,7 +590,7 @@
       "english": "Kneeling tortoise",
       "russian": "КУРМАСАНА (поза черепахи)",
       "family": "kneeling",
-      "summary": "The body sits on the heels and inclines forward, with bent elbows drawn into the abdomen.",
+      "summary": "Seated on the heels with toes touching, the trunk inclines forward. Elbows press into the navel region; both hands form fists with the thumbs enclosed inside.",
       "file": "ch1-4.xhtml",
       "images": [
         {
@@ -614,7 +614,7 @@
       "english": "Reclined tortoise",
       "russian": "УТТАНА-КУРМАСАНА (поза вытянутой черепахи)",
       "family": "kneeling",
-      "summary": "A folded kneeling shape reclines into a backbend, with the crown down and the hands along the thighs.",
+      "summary": "The folded kneeling position reclines onto the crown. Hands lie on the thighs, fingers following the thigh surface; the feet remain folded beneath the pelvis.",
       "file": "ch1-4.xhtml",
       "images": [
         {
@@ -638,7 +638,7 @@
       "english": "Extended frog",
       "russian": "УТТАНА-МАНДУКАСАНА (поза вытянутой лягушки)",
       "family": "kneeling",
-      "summary": "The section first shows the kneeling preparation, then a reclined kneeling backbend with the arms extended behind the head.",
+      "summary": "The kneeling backbend rests on the head, with the arms extended along the floor behind it. The photograph crops the fingertips; exact finger placement cannot be determined.",
       "file": "ch1-5.xhtml",
       "images": [
         {
@@ -667,7 +667,7 @@
       "english": "Tree handstand variants",
       "russian": "ВРИКШАСАНА (поза дерева)",
       "family": "inverted",
-      "summary": "This section illustrates handstands and their preparations, including straight, folded and split legs.",
+      "summary": "The selected plate is a two-hand balance with straight arms and extended legs together overhead. Palms lie on the floor, fingers spread for support; the feet lengthen upward.",
       "file": "ch1-5.xhtml",
       "images": [
         {
@@ -711,7 +711,7 @@
       "english": "Frog",
       "russian": "МАНДУКАСАНА (поза лягушки)",
       "family": "kneeling",
-      "summary": "The chest inclines forward over the kneeling legs, with the elbows drawn behind the trunk.",
+      "summary": "Knees together, seated on the heels with the trunk inclined forward. The Russian text places one palm over the other below the navel. The photograph hides the hands; the raised elbows do not imply hands behind the neck.",
       "file": "ch1-5.xhtml",
       "images": [
         {
@@ -735,7 +735,7 @@
       "english": "Eagle",
       "russian": "ГАРУДАСАНА (поза орла)",
       "family": "standing",
-      "summary": "One leg crosses the standing leg; the elbows bend and the forearms intertwine in front of the chest.",
+      "summary": "One leg winds around the standing leg. The arms also intertwine in front of the chest, with the joined hands projecting forward like the beak described in the text.",
       "file": "ch1-5.xhtml",
       "images": [
         {
@@ -759,7 +759,7 @@
       "english": "Ox",
       "russian": "ВРШАБХАСАНА (поза вола)",
       "family": "kneeling",
-      "summary": "The body rests low over asymmetrically folded legs, supported by the forearms.",
+      "summary": "The bent legs fold asymmetrically beside the trunk. Both forearms and palms rest forward on the floor; the feet lie to the sides, with parts hidden in the photograph.",
       "file": "ch1-5.xhtml",
       "images": [
         {
@@ -783,7 +783,7 @@
       "english": "Locust",
       "russian": "ШАЛАБХАСАНА (поза саранчи)",
       "family": "prone",
-      "summary": "From a face-down position, the legs extend upward behind the pelvis while the chest remains low.",
+      "summary": "The joined straight legs lift behind the prone body. In the illustrated variant the hands lie beneath the lower abdomen; the text separately describes palms near the shoulders.",
       "file": "ch1-5.xhtml",
       "images": [
         {
@@ -807,7 +807,7 @@
       "english": "Crocodile",
       "russian": "МАКАРАСАНА (поза крокодила)",
       "family": "prone",
-      "summary": "The body lies face down, arms extending toward the head and legs lengthened behind.",
+      "summary": "The body lies face down, arms lengthened forward with palms down. The legs extend behind; the small toe contacts are difficult to resolve in this plate.",
       "file": "ch1-5.xhtml",
       "images": [
         {
@@ -831,7 +831,7 @@
       "english": "Prone camel variant",
       "russian": "УШТРАСАНА (поза верблюда)",
       "family": "prone",
-      "summary": "In this book the body lies face down, knees bent, with the hands holding the feet behind the back.",
+      "summary": "From prone, the knees bend and the hands grasp the lower legs near the ankles, lifting the chest and thighs. The plate shows a surrounding grip, not flat hands merely touching the feet.",
       "file": "ch1-5.xhtml",
       "images": [
         {
@@ -855,7 +855,7 @@
       "english": "Cobra",
       "russian": "БХУДЖАНГАСАНА (поза кобры)",
       "family": "prone",
-      "summary": "Palms support the lifted chest while the pelvis and extended legs remain near the ground.",
+      "summary": "Palms support the raised chest, placed beneath the shoulders in the text. The legs remain together with the tops of the feet on the floor.",
       "file": "ch1-5.xhtml",
       "images": [
         {
@@ -879,7 +879,7 @@
       "english": "Yoga seat and fold",
       "russian": "ЙОГАСАНА (поза йога)",
       "family": "seated",
-      "summary": "A lotus seat with hands in the lap is followed by a forward fold with the arms behind the back.",
+      "summary": "The selected photograph shows a forward fold in bound lotus, arms passing behind the back to the feet. The earlier upright plate instead has the left palm over the right in the lap.",
       "file": "ch1-5.xhtml",
       "images": [
         {
@@ -908,7 +908,7 @@
       "english": "Wheel",
       "russian": "ЧАКРАСАНА (поза колеса)",
       "family": "supine",
-      "summary": "Hands and feet support a high backward arch, with the abdomen facing upward.",
+      "summary": "Palms and soles support the arched body. In the selected photograph the heels are down and the fingers point toward the feet. The separate toe-supported plate is another variant.",
       "file": "ch1-5.xhtml",
       "images": [
         {
@@ -937,7 +937,7 @@
       "english": "Reclined knee embrace",
       "russian": "СУПТА-ПАВАНА-МУКТАСАНА (поза освобождающая ветер)",
       "family": "supine",
-      "summary": "One knee is drawn toward the chest while the opposite leg extends along the ground.",
+      "summary": "Both arms embrace one bent knee toward the chest. The text also lifts the head, shoulders and opposite straight leg off the floor. The fingers surround the shin rather than resting as flat paddles.",
       "file": "ch1-5.xhtml",
       "images": [
         {
@@ -961,7 +961,7 @@
       "english": "Raised legs",
       "russian": "УТТАНПАДАСАНА (поза вытянутых ног)",
       "family": "supine",
-      "summary": "The straight legs lift together while the head and upper trunk also rise slightly from the floor.",
+      "summary": "The straight legs and upper trunk lift from the floor. The hands remain alongside the thighs at thigh height, fingers lengthened toward the knees; the feet stay close together.",
       "file": "ch1-5.xhtml",
       "images": [
         {
@@ -985,7 +985,7 @@
       "english": "Standing toe hold",
       "russian": "ХАСТАПАДАНГУШТАСАНА (поза с захватом большого пальца ноги)",
       "family": "standing",
-      "summary": "A raised straight leg is held by the hand, with forward and outward-facing variations.",
+      "summary": "Both hands hold the toes of the raised straight leg in the selected forward fold. A separate plate shows a one-hand big-toe grip with the other hand at the waist.",
       "file": "ch1-5.xhtml",
       "images": [
         {
@@ -1014,7 +1014,7 @@
       "english": "Bound lotus",
       "russian": "БАДДХА-ПАДМАСАНА (поза связанного лотоса)",
       "family": "seated",
-      "summary": "Lotus legs accompany a behind-the-back toe hold; a second plate shows the forward fold.",
+      "summary": "Lotus feet sit high on the opposite thighs, heels near the lower abdomen. Both arms pass behind the back; each hand holds the toes of the same-side foot.",
       "file": "ch1-5.xhtml",
       "images": [
         {
@@ -1043,7 +1043,7 @@
       "english": "Pranava fold",
       "russian": "ПРАНАВАСАНА (поза пранавы)",
       "family": "supine",
-      "summary": "Both legs fold behind the shoulders while the trunk rests back and the palms join at the chest.",
+      "summary": "Both legs pass behind the head, one ankle beyond the other. The text specifies arms around the thighs and hands clasped behind the back. Hands joined at the chest do not match this source.",
       "file": "ch1-5.xhtml",
       "images": [
         {
@@ -1067,7 +1067,7 @@
       "english": "Prone boat",
       "russian": "НАУКАСАНА (поза лодки)",
       "family": "prone",
-      "summary": "The chest, arms and straight legs lift away from the floor in a face-down body extension.",
+      "summary": "The arms extend forward and the straight legs backward, all lifted above the floor. The photograph shows extended fingers; the exact rotation of the farther palm is indistinct.",
       "file": "ch1-5.xhtml",
       "images": [
         {
@@ -1091,7 +1091,7 @@
       "english": "Standing angle",
       "russian": "КОНАСАНА (поза угла)",
       "family": "standing",
-      "summary": "The feet spread apart, the trunk bends sideways, one hand reaches to the foot and the other arm extends overhead in the same direction.",
+      "summary": "With the feet wide apart, the trunk bends sideways. The lower hand touches the foot and the upper arm reaches overhead in the same direction, fingers extended.",
       "file": "ch1-5.xhtml",
       "images": [
         {
@@ -1115,7 +1115,7 @@
       "english": "Wide-leg forward fold",
       "russian": "БХОНОМАНАСАНА (наклон к разведенным ногам)",
       "family": "seated",
-      "summary": "The legs spread along the floor as the chest lowers between them and hands reach toward the feet.",
+      "summary": "The legs spread widely along the floor. Each hand holds the toes of its corresponding foot while the abdomen, chest and chin lower between the legs.",
       "file": "ch1-5.xhtml",
       "images": [
         {
@@ -1139,7 +1139,7 @@
       "english": "Overhead-leg inversion",
       "russian": "САРВАНГАСАНА (поза всех конечностей)",
       "family": "inverted",
-      "summary": "This section shows the legs extending overhead toward the floor, with the shoulders supporting the trunk.",
+      "summary": "The legs pass overhead until the toes touch the floor beyond the head. The selected photograph shows the arms resting beside the torso; individual finger contacts are indistinct.",
       "file": "ch1-5.xhtml",
       "images": [
         {
@@ -1163,7 +1163,7 @@
       "english": "Archer",
       "russian": "АКАРНА-ДХАНУРАСАНА (поза натянутой тетивы)",
       "family": "seated",
-      "summary": "One leg stays extended while the other foot draws toward the ear, both feet held by the hands.",
+      "summary": "Each hand holds the opposite big toe. One leg remains straight on the floor while the other toe is drawn toward the opposite ear, as specified in the Russian text.",
       "file": "ch1-5.xhtml",
       "images": [
         {
@@ -1187,7 +1187,7 @@
       "english": "Overhead side stretch",
       "russian": "УРДХВА-ХАСТАТОНАСАНА (верхнее вытягивание рук)",
       "family": "standing",
-      "summary": "The hands join above the head and the standing trunk bends sideways.",
+      "summary": "The standing trunk bends sideways with both arms overhead and the fingers interlaced. The photograph cuts off the feet, so their precise spacing is not visible.",
       "file": "ch1-5.xhtml",
       "images": [
         {
@@ -1208,10 +1208,10 @@
       "name": "Parvatasana",
       "iast": "Parvatāsana",
       "sanskrit": "पर्वतासन",
-      "english": "Seated mountain",
+      "english": "Kneeling lotus mountain",
       "russian": "ПАРВАТАСАНА (поза горы)",
       "family": "kneeling",
-      "summary": "In the primary picture, folded lotus legs balance over the knees while the arms extend overhead.",
+      "summary": "The body balances on the knees with both feet held in lotus on the opposite thighs, in front of the pelvis. Palms join overhead with fingers directed upward.",
       "file": "ch1-5.xhtml",
       "images": [
         {
@@ -1235,7 +1235,7 @@
       "english": "Toe balance",
       "russian": "ПАДАНГУШТАСАНА (поза большого пальца ноги)",
       "family": "balance",
-      "summary": "A deeply folded leg arrangement balances over one forefoot with the other foot resting above it.",
+      "summary": "The raised ankle rests on the opposite thigh. The supporting heel lifts so the weight is on the toes. Both hands rest at the waist, with fingers following the sides of the pelvis.",
       "file": "ch1-5.xhtml",
       "images": [
         {
@@ -1259,7 +1259,7 @@
       "english": "Embryo",
       "russian": "ГАРБХАСАНА (поза зародыша)",
       "family": "seated",
-      "summary": "The arms thread through the lotus legs; the illustrations show hands at the feet and beside the face.",
+      "summary": "Both arms thread between the thighs and calves of the lotus legs. In the selected final plate the palms cup the cheeks, with knees drawn toward the shoulders.",
       "file": "ch1-5.xhtml",
       "images": [
         {
@@ -1288,7 +1288,7 @@
       "english": "Celibate seat",
       "russian": "БРАХМАЧАРИАСАНА (поза целибата)",
       "family": "kneeling",
-      "summary": "The pelvis rests between the folded legs with the feet turned outward and hands on the knees.",
+      "summary": "The pelvis rests on the floor between the folded legs, feet turned outward. Hands rest over the joined knee region with the fingers directed down its contour.",
       "file": "ch1-5.xhtml",
       "images": [
         {
@@ -1312,7 +1312,7 @@
       "english": "Lifted lotus",
       "russian": "УТТХИТА-ПАДМАСАНА (поза приподнятого лотоса)",
       "family": "balance",
-      "summary": "The palms press into the floor beside the hips, raising the folded lotus body.",
+      "summary": "Palms press beside the body, outside the folded legs, lifting the lotus seat. The feet remain on the opposite thighs with heels close below the navel.",
       "file": "ch1-5.xhtml",
       "images": [
         {
@@ -1336,7 +1336,7 @@
       "english": "Deer variants",
       "russian": "МРГАСАНА (поза оленя)",
       "family": "seated",
-      "summary": "The primary picture shows one foot planted in front and the other leg folded back; one hand supports the cheek and the other rests on the raised knee.",
+      "summary": "One foot stands flat in front; the other leg bends back with its foot brought into the armpit. One palm cups the cheek, the other rests on the raised knee. The other plate uses different grips.",
       "file": "ch1-5.xhtml",
       "images": [
         {
@@ -1365,7 +1365,7 @@
       "english": "Seated knee embrace",
       "russian": "ПАВАНМУКТАСАНА (поза высвобождающая ветер)",
       "family": "seated",
-      "summary": "One or both bent knees are held close to the chest in a low seated or squatting position.",
+      "summary": "Both feet, calves and thighs stay together as the arms embrace the knees toward the chest. The selected photograph shows crossed forearms around the shins and the feet resting on the floor.",
       "file": "ch1-5.xhtml",
       "images": [
         {
@@ -1394,7 +1394,7 @@
       "english": "Upright shoulder stand",
       "russian": "УРДХВАСАРВАНГАСАНА (стойка на плечах)",
       "family": "inverted",
-      "summary": "The legs rise together above the trunk while the hands support the back.",
+      "summary": "The shoulders bear the raised body, legs and feet together overhead. Both hands support the waist from behind, with the fingers following the back and elbows on the floor.",
       "file": "ch1-5.xhtml",
       "images": [
         {
@@ -1418,7 +1418,7 @@
       "english": "Folded-foot seat",
       "russian": "ВИКАТАСАНА (пугающая поза)",
       "family": "seated",
-      "summary": "The knees spread in a seated shape while the soles turn upward beside the pelvis.",
+      "summary": "One heel is raised on toe support; its knee is pressed toward the floor by the hand. The other foot comes forward near the navel while its hand presses the other knee down.",
       "file": "ch1-5.xhtml",
       "images": [
         {
@@ -1442,7 +1442,7 @@
       "english": "Head-supported wheel",
       "russian": "ШИРШАЧАКРАСАНА (поза колеса с опорой на голову)",
       "family": "inverted",
-      "summary": "The feet and head support a deep backward arch, with the palms near the head.",
+      "summary": "The head and both palms stay planted while the legs travel around them. The selected plate captures an asymmetric intermediate position on the toes, not a symmetric stationary bridge.",
       "file": "ch1-5.xhtml",
       "images": [
         {
@@ -1463,10 +1463,10 @@
       "name": "Avatthasana",
       "iast": "Aśvatthāsana",
       "sanskrit": "अश्वत्थासन",
-      "english": "Sacred fig balance",
+      "english": "One-leg open-arm balance",
       "russian": "АВАТТХАСАНА (поза священного фигового дерева)",
       "family": "standing",
-      "summary": "One leg reaches backward, one arm rises overhead and the opposite arm extends sideways.",
+      "summary": "One leg lifts backward; one arm reaches overhead and the other sideways. The selected photograph shows extended fingers and a bent rear knee with the toes angled downward.",
       "file": "ch1-5.xhtml",
       "images": [
         {
@@ -1490,7 +1490,7 @@
       "english": "Root-compressing seat",
       "russian": "КАНДАПИДАСАНА (корневое сжимающее положение)",
       "family": "seated",
-      "summary": "The feet turn upward toward the abdomen while the knees open and remain low.",
+      "summary": "Heels approach the navel, toes point upward and the feet press against the abdomen. The selected photograph shows palms upward at the knees with curved thumb–index areas; exact contacts are unclear.",
       "file": "ch1-5.xhtml",
       "images": [
         {
@@ -1514,7 +1514,7 @@
       "english": "Half spinal twist",
       "russian": "АРДХА-МАТСИЕНДРАСАНА (скручивание позвоночника, половинная матсиендрасана)",
       "family": "seated",
-      "summary": "One foot crosses the opposite leg and the trunk turns toward the raised knee.",
+      "summary": "One heel tucks beneath the pelvis; the other foot crosses beyond the knee. The front hand holds its toes. The rear arm wraps around the waist toward the navel.",
       "file": "ch1-5.xhtml",
       "images": [
         {
@@ -1538,7 +1538,7 @@
       "english": "Crane",
       "russian": "БАКАСАНА (поза подъемного крана или журавля)",
       "family": "balance",
-      "summary": "The palms support the body while the knees fold against the upper arms and the feet lift behind.",
+      "summary": "The palms support the body, fingers spread, with the knees against the backs of the upper arms. Both feet lift behind, held close in the selected photograph.",
       "file": "ch1-6.xhtml",
       "images": [
         {
@@ -1559,10 +1559,10 @@
       "name": "Titibhasana",
       "iast": "Ṭiṭṭibhāsana",
       "sanskrit": "टिट्टिभासन",
-      "english": "Lapwing balance",
+      "english": "Wide-leg arm balance",
       "russian": "ТИТИБХАСАНА (ПОЗА ЧИБИСА)",
       "family": "balance",
-      "summary": "Both legs extend around the shoulders in a hand-supported balance; the section includes a toe-holding variant.",
+      "summary": "In the selected variant both palms support the body while straight legs extend upward and outward around the arms. The earlier supine variant instead holds the big toes with the hands.",
       "file": "ch1-6.xhtml",
       "images": [
         {
@@ -1588,10 +1588,10 @@
       "name": "Viparita-sirsa-dvihasta-baddhasana",
       "iast": "Viparīta-śīrṣa-dvihasta-baddhāsana",
       "sanskrit": "विपरीतशीर्षद्विहस्तबद्धासन",
-      "english": "Inverted arm bind",
+      "english": "Forward fold with both ankle holds",
       "russian": "ВИПАРИТА-ШИРША-ДВИХАСТА БАДДХАСАНА (перевёрнутая поза, с ручным замком)",
       "family": "standing",
-      "summary": "A standing forward fold accompanies an arm bind near or behind the head.",
+      "summary": "The head and shoulders pass between the legs beneath the knees. Both hands wrap around the ankles; the plate shows outward-turned feet and a view of the abdomen from behind.",
       "file": "ch1-6.xhtml",
       "images": [
         {
@@ -1620,7 +1620,7 @@
       "english": "Swing",
       "russian": "ДЖУЛАСАНА (поза качелей)",
       "family": "balance",
-      "summary": "The folded seated legs hover above the ground, supported by upright forearms and hands.",
+      "summary": "The lotus legs and pelvis lift between the arms. The photograph shows spread fingers supporting the hands with raised palm contours; the text calls this palm support. Feet remain on the opposite thighs.",
       "file": "ch1-6.xhtml",
       "images": [
         {
@@ -1644,7 +1644,7 @@
       "english": "Easy seat",
       "russian": "СУКХАСАНА (легкое положение)",
       "family": "seated",
-      "summary": "A relaxed upright crossed-leg seat with the hands resting together in the lap.",
+      "summary": "A comfortable crossed-leg seat. The selected photograph shows overlapping hands in the lap, palms upward; the Russian sentence instead places the hands on the knees. The two references differ.",
       "file": "ch1-6.xhtml",
       "images": [
         {
@@ -1668,7 +1668,7 @@
       "english": "Head-to-knee fold",
       "russian": "ДЖАНУ-ШИРШАСАНА (коленно-головная поза)",
       "family": "seated",
-      "summary": "One leg extends while the other folds inward; the trunk lowers along the extended leg.",
+      "summary": "In the selected plate the folded foot rests high on the opposite thigh. The opposite hand holds the extended leg's toes; the other arm reaches behind the back toward the lotus heel.",
       "file": "ch1-6.xhtml",
       "images": [
         {
@@ -1694,10 +1694,10 @@
       "name": "Nadi-sodhanasana",
       "iast": "Nāḍī-śodhanāsana",
       "sanskrit": "नाडीशोधनासन",
-      "english": "Nadi-cleansing fold",
+      "english": "Backward bend with ankle holds",
       "russian": "НАДИ-ШОДХАНАСАНА (поза, очищающая нади)",
       "family": "standing",
-      "summary": "With the feet close together, the trunk folds forward and hands reach near the ankles.",
+      "summary": "The book describes a backward bend with straight knees and feet together. Both hands hold the ankles behind the body, bringing the head toward the backs of the legs. A forward-fold model reverses this pose.",
       "file": "ch1-6.xhtml",
       "images": [
         {
@@ -1721,7 +1721,7 @@
       "english": "Split-leg inversion",
       "russian": "ВИШТРА-ПАДА-САРВАНГАСАНА (перевернутая поза с разведенными ногами)",
       "family": "inverted",
-      "summary": "The shoulders support the body as the straight legs extend apart overhead.",
+      "summary": "Both legs pass overhead and spread widely toward the floor. Each hand firmly holds the toes of its corresponding foot, with the arms extending toward the separated feet.",
       "file": "ch1-6.xhtml",
       "images": [
         {
@@ -1745,7 +1745,7 @@
       "english": "One-leg arm balance",
       "russian": "ЭКАПАДА БХУДЖАСАНА (одностороннее положение с рукой на ноге)",
       "family": "balance",
-      "summary": "One leg crosses high over an arm while the other extends forward, supported on the palms.",
+      "summary": "One leg rests over the shoulder with its foot pointing forward. Both palms support the lifted body beside the hips; the other straight leg extends forward above the floor.",
       "file": "ch1-6.xhtml",
       "images": [
         {
@@ -1769,7 +1769,7 @@
       "english": "Two-leg arm balance",
       "russian": "ДВИПАДА БХУДЖАСАНА (двухстороннее положения ноги на плече)",
       "family": "balance",
-      "summary": "Both knees fold over the shoulders while the palms support the lifted body.",
+      "summary": "Both legs fold over the shoulders with the feet directed outward. Palms beside the body lift the pelvis from the floor; fingers spread for support.",
       "file": "ch1-6.xhtml",
       "images": [
         {
@@ -1793,7 +1793,7 @@
       "english": "Standing head-to-knee",
       "russian": "ШИРШАДЖАНУ СПАРШАСАНА (Наклон с ксанием головой колена)",
       "family": "standing",
-      "summary": "The trunk folds over a straight supporting leg while the other knee bends, bringing that heel toward the buttock for a two-hand hold.",
+      "summary": "The supporting leg stays straight as the trunk folds forward. Both hands hold the other foot's toes behind the body, drawing its heel toward the buttock.",
       "file": "ch1-6.xhtml",
       "images": [
         {
@@ -1817,7 +1817,7 @@
       "english": "Reclined scorpion",
       "russian": "СУПТА ВРШЧИКАСАНА (положение спящего скорпиона)",
       "family": "prone",
-      "summary": "From a prone backbend, the bent legs reach toward the chin while the arms spread sideways along the ground.",
+      "summary": "Arms spread sideways: the text explicitly places thumbs on the floor and the other fingers upward. The bent legs arc toward the chin, with the big toes touching each other.",
       "file": "ch1-6.xhtml",
       "images": [
         {
@@ -1841,7 +1841,7 @@
       "english": "Lifted legs-behind-head",
       "russian": "УТТХИТА ДВИПАДА КАНДАРАСАНА (положение с двумя ногами за головой)",
       "family": "balance",
-      "summary": "Both feet fold behind the head; the plates show a hand-supported lift and a seated arm variation.",
+      "summary": "In the selected variant the soles meet above the head while both palms support the lifted body. The other plate crosses the feet behind the shoulders; these are different arrangements.",
       "file": "ch1-6.xhtml",
       "images": [
         {
@@ -1870,7 +1870,7 @@
       "english": "Palm-tree stretch",
       "russian": "ТАДАСАНА (положение пальмы)",
       "family": "standing",
-      "summary": "The arms extend overhead as the body rises over the toes, with straight and arched variations.",
+      "summary": "Feet together, heels raised on the toes. Both arms extend beside the ears; the text specifies palms facing outward. The selected plate keeps the hands apart, not joined in prayer.",
       "file": "ch1-6.xhtml",
       "images": [
         {
@@ -1899,7 +1899,7 @@
       "english": "Wagtail",
       "russian": "КХАНЖАНАСАНА (положение трясогузки)",
       "family": "kneeling",
-      "summary": "The plates pair a wide-kneed upright position with a forward hand-supported crouch.",
+      "summary": "The body balances on the knees, arms spread like wings. The text brings the feet toward the buttocks, off the floor; they are largely hidden in the selected frontal photograph.",
       "file": "ch1-6.xhtml",
       "images": [
         {
@@ -1925,10 +1925,10 @@
       "name": "Ekahasta-bhujasana",
       "iast": "Ekahasta-bhujāsana",
       "sanskrit": "एकहस्तभुजासन",
-      "english": "One-arm shoulder-foot pose",
+      "english": "One-leg shoulder pose with neck clasp",
       "russian": "ЭКАХАСТА БХУДЖАСАНА (положение руки на плече)",
       "family": "seated",
-      "summary": "One bent leg rises beside the shoulder while a hand holds the lifted foot.",
+      "summary": "One bent leg rests on the shoulder; the other heel tucks beneath the pelvis. The text specifies interlaced fingers at the neck, with both elbows bent around the head.",
       "file": "ch1-6.xhtml",
       "images": [
         {
@@ -1952,7 +1952,7 @@
       "english": "Both-arm shoulder-foot pose",
       "russian": "ДВИХАСТА БХУДЖАСАНА (положение обеих рук на плечах)",
       "family": "seated",
-      "summary": "Both knees draw beside the upper arms and the hands hold the raised feet.",
+      "summary": "Both bent legs rest over the shoulders. Each hand supports and holds its corresponding foot near the heel, with the soles facing forward in the photograph.",
       "file": "ch1-6.xhtml",
       "images": [
         {
@@ -1973,10 +1973,10 @@
       "name": "Janu-bhumi-sthirasana",
       "iast": "Jānu-bhūmi-sthirāsana",
       "sanskrit": "जानुभूमिस्थिरासन",
-      "english": "Knee stand",
+      "english": "Kneeling foot hold",
       "russian": "ДЖАНУ-БХОМИ СТХИРАСАНА (стойка на коленях)",
       "family": "kneeling",
-      "summary": "The torso rises over separated knees, hands resting behind the hips.",
+      "summary": "The knees are separated, torso upright. Each hand reaches behind to hold the same-side foot or toes, lifting the feet toward the hands; the grips are hidden in the frontal photograph.",
       "file": "ch1-6.xhtml",
       "images": [
         {
@@ -2000,7 +2000,7 @@
       "english": "Hand-to-foot fold",
       "russian": "ПАДАХАСТАСАНА (наклон к прямым ногам)",
       "family": "standing",
-      "summary": "The trunk folds over straight standing legs, with the hands reaching under or beside the feet.",
+      "summary": "Legs and feet stay together in a standing forward fold. The selected plate places the palms flat beside the feet; the text also permits a big-toe grip as a separate option.",
       "file": "ch1-6.xhtml",
       "images": [
         {
@@ -2024,7 +2024,7 @@
       "english": "One leg behind the head",
       "russian": "ЭКАПАДА КАНДАРАСАНА (положение ноги за головой)",
       "family": "seated",
-      "summary": "One foot folds behind the neck while the opposite leg folds inward or extends forward.",
+      "summary": "One leg passes behind the neck, with its foot above the opposite shoulder. Palms join in front of the chest. The other leg folds on the floor in this plate; another plate extends it.",
       "file": "ch1-6.xhtml",
       "images": [
         {
@@ -2053,7 +2053,7 @@
       "english": "Both legs behind the head",
       "russian": "ДВИПАДА-КАНДАПИДАСАНА (положение с двумя ногами за головой)",
       "family": "seated",
-      "summary": "Both legs fold behind the shoulders with the feet raised above the head and the hands joining in front.",
+      "summary": "Both legs cross behind the neck and shoulders, with the feet rising above the head. Palms join at the chest and the forearms lie in front of the folded legs.",
       "file": "ch1-6.xhtml",
       "images": [
         {
@@ -2077,7 +2077,7 @@
       "english": "Root seat",
       "russian": "БАГАСАНА (корневое положение)",
       "family": "seated",
-      "summary": "The soles face upward between spread knees while the trunk remains upright.",
+      "summary": "Knees spread wide, heels together and raised near the perineum, toes lowered to the floor. Hands rest at the knees; the photograph shows upward-facing palms with curved fingers.",
       "file": "ch1-6.xhtml",
       "images": [
         {
@@ -2101,7 +2101,7 @@
       "english": "Abdominal twist",
       "russian": "УДАРА-КАРШАНАСАНА (положение создающее всасывающий эффект в животе)",
       "family": "kneeling",
-      "summary": "A low squat turns toward one side as one knee lowers across toward the opposite foot.",
+      "summary": "From a squat, one knee moves across toward the opposite foot as the torso turns. The hands hold the knee surfaces, with fingers wrapping their contours; the photograph shows one knee low and the other upright.",
       "file": "ch1-6.xhtml",
       "images": [
         {
@@ -2125,7 +2125,7 @@
       "english": "Finger balance variants",
       "russian": "ТОЛАНГУЛАСАНА (баланс на пальцах)",
       "family": "balance",
-      "summary": "The section pairs a seated straight-leg hand balance with an extended prone lifting shape.",
+      "summary": "Straight legs stay together while the body lifts. The text explicitly specifies fingertips on the floor beside the buttocks; the photograph shows arched hands rather than flat-palm support.",
       "file": "ch1-6.xhtml",
       "images": [
         {
@@ -2154,7 +2154,7 @@
       "english": "Upward toe-held balance",
       "russian": "ПУРВОТТАНАСАНА (положение, предшествующее вытяжению)",
       "family": "seated",
-      "summary": "Both straight legs lift in front of the seated trunk and the hands hold the toes.",
+      "summary": "Both hands hold the big toes as the straight legs lift together in front of the seated body. The fingers close around the toes; knees remain extended.",
       "file": "ch1-6.xhtml",
       "images": [
         {
@@ -2178,7 +2178,7 @@
       "english": "Two-leg spread",
       "russian": "ДВИПАДА-ВИШТРАСАНА (положение с разведёнными ногами)",
       "family": "seated",
-      "summary": "The legs spread into a wide seated split with upright, side-fold and forward-fold variations.",
+      "summary": "The selected upright plate spreads both straight legs along the floor, toes upward. Hands rest palm-down on the corresponding lower legs. Other plates add side or forward folds.",
       "file": "ch1-6.xhtml",
       "images": [
         {
@@ -2212,7 +2212,7 @@
       "english": "Headstand",
       "russian": "ШИРШАСАНА (стойкана на голове)",
       "family": "inverted",
-      "summary": "The plates show head placement, folded-leg preparations, upright headstand and leg variations.",
+      "summary": "The selected upright headstand has the fingers interlaced behind the head and both forearms on the floor. The straight legs and feet remain together overhead; other plates show preparation and leg variations.",
       "file": "ch1-7.xhtml",
       "images": [
         {
@@ -2296,7 +2296,7 @@
       "english": "Reclined leg-behind-head",
       "russian": "СУПТА-ПАДА-КАНДАРАСАНА (положение лежа с ногой за головой)",
       "family": "supine",
-      "summary": "One leg folds behind the neck while the other extends forward along the floor.",
+      "summary": "One leg passes behind the head toward the opposite shoulder; the other extends along the floor. The arms lie beside the hips in the plate, with finger details partly hidden.",
       "file": "ch1-7.xhtml",
       "images": [
         {
@@ -2320,7 +2320,7 @@
       "english": "Standing waist rotation",
       "russian": "КАТИЧАКРАСАНА (положение поясничного колеса)",
       "family": "standing",
-      "summary": "The trunk rotates with both arms extending around shoulder height.",
+      "summary": "Feet are separated by about 50 cm in the text. One arm extends in the direction of the turn while the other bends across the chest. The selected photograph shows vertically oriented open palms.",
       "file": "ch1-7.xhtml",
       "images": [
         {
@@ -2344,7 +2344,7 @@
       "english": "Ghost seat",
       "russian": "ПРЕТАСАНА (положение призрака)",
       "family": "seated",
-      "summary": "An upright seated shape with knees open and the feet joined in front of the pelvis.",
+      "summary": "Knees open to the sides and the joined feet rotate so the heels point forward. Hands rest at the knees, palms upward in the photograph, with small curved finger contacts not sharply resolved.",
       "file": "ch1-7.xhtml",
       "images": [
         {
@@ -2368,7 +2368,7 @@
       "english": "Leg-behind-head staff",
       "russian": "ПАДА-СКАНДА-ДАНДАСАНА (положение посоха с ногой за головой)",
       "family": "balance",
-      "summary": "One leg folds behind the shoulder across several hand-supported, extended and reclined shapes.",
+      "summary": "One leg passes behind the head to the opposite shoulder. The palms are shoulder-width on the floor and the other leg reaches backward onto its toes, supporting the selected plank-like shape.",
       "file": "ch1-7.xhtml",
       "images": [
         {
@@ -2402,7 +2402,7 @@
       "english": "Reclined adamantine seat",
       "russian": "СУПТА-ВАЖРАСАНА (несокрушимое положение)",
       "family": "kneeling",
-      "summary": "The lower legs remain folded back while the trunk reclines into a deep arch.",
+      "summary": "From the kneeling seat the trunk arches backward onto the head. Both hands lie on the thighs; the feet remain folded beneath the pelvis as in the book's Vajrāsana.",
       "file": "ch1-7.xhtml",
       "images": [
         {
@@ -2426,7 +2426,7 @@
       "english": "Wide-leg chest-to-floor",
       "russian": "ВИШТРА-ПАДА-ВАКША-БХОМИ-СПАРШАСАНА (наклон к разведённым ногам сидя)",
       "family": "seated",
-      "summary": "The legs spread sideways and the chest lowers to the ground between them.",
+      "summary": "Straight legs spread along the floor as the chest lowers between them. Behind the back each hand grasps the opposite elbow, as explicitly stated in the text.",
       "file": "ch1-7.xhtml",
       "images": [
         {
@@ -2450,7 +2450,7 @@
       "english": "Crow squat",
       "russian": "КАКАСАНА (положение вороны)",
       "family": "standing",
-      "summary": "A compact squat with feet together and the hands resting on the knees.",
+      "summary": "A deep squat with feet about 35 cm apart in the text, heels on the floor in the photograph. Hands rest over the knees, fingers draping down their fronts.",
       "file": "ch1-7.xhtml",
       "images": [
         {
@@ -2474,7 +2474,7 @@
       "english": "Pendant balance",
       "russian": "ЛОЛАСАНА (положение маятника)",
       "family": "balance",
-      "summary": "The rounded trunk and tucked legs lift between the arms, supported by both palms.",
+      "summary": "The text specifies lotus legs in a lifted hand balance. Palms press into the floor, fingers spread; the folded feet tuck across the opposite thighs rather than trailing separately behind.",
       "file": "ch1-7.xhtml",
       "images": [
         {
@@ -2498,7 +2498,7 @@
       "english": "Reclined toe-to-nose",
       "russian": "СУПТА-ПАДАНГУШТА-НАСА-СПАРШАСАНА (положение касания пальца ноги носа, лёжа)",
       "family": "supine",
-      "summary": "One straight leg rises toward the face while the hands hold the foot; the other leg extends outward.",
+      "summary": "Lying on the back, both hands hold one foot so its big toe approaches the nose. The other leg stays straight on the floor. The later plate brings both feet toward the face.",
       "file": "ch1-7.xhtml",
       "images": [
         {
@@ -2527,7 +2527,7 @@
       "english": "Ear-pressure fold",
       "russian": "КАРНА-ПИДАСАНА (положение с давлением на уши)",
       "family": "inverted",
-      "summary": "The bent knees lower beside the ears while the shoulders and arms remain grounded.",
+      "summary": "The knees bend beside the ears in the overhead fold. Arms rest along the floor beside the torso. The selected photograph shows the toes bent onto the floor, heels raised behind the head.",
       "file": "ch1-7.xhtml",
       "images": [
         {
@@ -2548,10 +2548,10 @@
       "name": "Meru-dandasana",
       "iast": "Meru-daṇḍāsana",
       "sanskrit": "मेरुदण्डासन",
-      "english": "Spinal fold variants",
+      "english": "Prone ankle-to-chin hold",
       "russian": "МЕРУ-ДАНДАСАНА (положение спинного хребта)",
       "family": "seated",
-      "summary": "The primary picture shows raised knees beside the shoulders and feet held under the chin; another picture shows a deeper forward fold.",
+      "summary": "From prone, the text brings the feet toward the chin using grips above the ankles. In the selected photograph both elbows rest on the floor and the toes meet below the chin.",
       "file": "ch1-7.xhtml",
       "images": [
         {
@@ -2580,7 +2580,7 @@
       "english": "Standing toe-to-nose fold",
       "russian": "ПАДАНГУШТА-НАСА-СПАРШАСАНА (положение с касанием носом пальца ноги)",
       "family": "standing",
-      "summary": "From a long staggered stance, the trunk folds toward the front foot while the hands clasp behind the back.",
+      "summary": "In a long staggered stance the nose lowers toward the front big toe. Behind the back the left hand holds the right wrist, as the text specifies. The rear heel is raised in the plate.",
       "file": "ch1-7.xhtml",
       "images": [
         {
@@ -2604,7 +2604,7 @@
       "english": "Kalabhairava stance",
       "russian": "КАЛАБХАЙРАВАСАНА (положение кала-бхайрава)",
       "family": "standing",
-      "summary": "Both feet remain grounded in a staggered stance. One arm reaches forward and the other backward; the text also describes the gaze and open mouth.",
+      "summary": "The text places one foot directly behind the other, about 35 cm apart. One arm reaches forward and the other backward, hands open with extended fingers.",
       "file": "ch1-7.xhtml",
       "images": [
         {
@@ -2628,7 +2628,7 @@
       "english": "Four-angle posture",
       "russian": "ЧАТУСКАНАСАНА (положение четырехугольника)",
       "family": "seated",
-      "summary": "One leg folds behind the shoulder and the opposite leg bends back beside the hip.",
+      "summary": "One heel tucks beneath the pelvis; the other leg rests on the shoulder with its heel near the chin. The hands interlace behind the head, as specified in the text.",
       "file": "ch1-7.xhtml",
       "images": [
         {
@@ -2652,7 +2652,7 @@
       "english": "Cuckoo",
       "russian": "КУКИЛАСАНА (положение кукушки)",
       "family": "seated",
-      "summary": "The knees spread and the forearms fold together low in front of the trunk.",
+      "summary": "Lotus feet rest on the opposite thighs, heels near the navel. Each hand holds the toes of the same-side foot; the crossed forearms and elbows lower toward the floor.",
       "file": "ch1-7.xhtml",
       "images": [
         {
@@ -2676,7 +2676,7 @@
       "english": "Scorpion",
       "russian": "ВРИШЧИКАСАНА (положение скорпиона)",
       "family": "inverted",
-      "summary": "Forearm-supported and hand-supported inversions curve the bent legs toward the head.",
+      "summary": "The selected variant rests on separated forearms and palms, with the knees bent and feet arcing toward the head. The second plate uses hand support and brings the toes to the forehead.",
       "file": "ch1-7.xhtml",
       "images": [
         {
@@ -2705,7 +2705,7 @@
       "english": "Pillow variants",
       "russian": "ТАКЬЯСАНА (положение подушки)",
       "family": "balance",
-      "summary": "The plates show an asymmetric side-supported balance and a folded seated variation.",
+      "summary": "One leg passes behind the head to the opposite shoulder; the other extends on the floor. The supporting elbow rests on the floor and its closed fist supports the head. The other hand rests on the straight leg's knee.",
       "file": "ch1-7.xhtml",
       "images": [
         {
@@ -2734,7 +2734,7 @@
       "english": "Lotus peacock",
       "russian": "МАЮРА-ПАДМАСАНА (положение павлина с лотосом)",
       "family": "balance",
-      "summary": "The horizontal peacock balance retains folded lotus legs behind the trunk.",
+      "summary": "The horizontal body balances on both palms with lotus legs folded behind. The text specifies a four-finger-width gap between the hands; the feet remain on the opposite thighs.",
       "file": "ch1-7.xhtml",
       "images": [
         {
@@ -2758,7 +2758,7 @@
       "english": "Full-wheel turning stage",
       "russian": "ПУРНА-ЧАКРАСАНА (полное положение колеса)",
       "family": "balance",
-      "summary": "The book describes the feet walking around planted hands. Its picture shows an intermediate turn, with one knee bent and the other leg extended.",
+      "summary": "The palms stay planted while the feet step around them. The selected photograph shows an intermediate turn with one knee bent and the other leg extended; it does not define a single permanent foot arrangement.",
       "file": "ch1-7.xhtml",
       "images": [
         {
@@ -2779,10 +2779,10 @@
       "name": "Paksyasana",
       "iast": "Pakṣyāsana",
       "sanskrit": "पक्ष्यासन",
-      "english": "Bird or airplane",
+      "english": "Bird balance with leg behind the neck",
       "russian": "ПАКСЬЯСАНА ИЛИ ВАЮЯНАСАНА (положение птицы или самолета)",
       "family": "standing",
-      "summary": "A single-leg balance with the other foot drawn behind the head and arms extended sideways.",
+      "summary": "The standing leg stays straight. The other leg passes behind the neck to the opposite shoulder. Both arms extend sideways at shoulder height, palms down with fingers extended in the photograph.",
       "file": "ch1-7.xhtml",
       "images": [
         {
@@ -2806,7 +2806,7 @@
       "english": "Horse-face kneeling balance",
       "russian": "ВАТАЯНАСАНА (положение вентилятора)",
       "family": "kneeling",
-      "summary": "One leg folds into a half-lotus shape while the body balances over the other bent leg and one knee.",
+      "summary": "One heel rests high on the opposite thigh; its knee lowers toward the supporting ankle. Palms join before the chest. The second photograph lowers that knee to the floor beside the heel.",
       "file": "ch1-7.xhtml",
       "images": [
         {
@@ -2835,7 +2835,7 @@
       "english": "Half-raised balance",
       "russian": "АРДХА-УРДХВАСАНА (полуприподнятое положение)",
       "family": "standing",
-      "summary": "One leg extends upward behind the body as the trunk inclines and one arm reaches forward.",
+      "summary": "One leg rises high behind the body. The same-side hand grips its ankle while the other arm extends forward, palm down. The supporting knee remains straight.",
       "file": "ch1-7.xhtml",
       "images": [
         {
@@ -2864,7 +2864,7 @@
       "english": "Three-lock seat",
       "russian": "ТРИБАНДХАСАНА (положение тройного замка)",
       "family": "seated",
-      "summary": "A lotus seat with straight arms and lowered chin, presented in the text with the three locks.",
+      "summary": "Lotus feet rest high on the opposite thighs, heels together below the navel. Hands lie over the knees with fingers curving downward; the chin lowers toward the chest in the selected plate.",
       "file": "ch1-7.xhtml",
       "images": [
         {
@@ -2888,7 +2888,7 @@
       "english": "Dancer variants",
       "russian": "НАТАРАДЖАСАНА",
       "family": "standing",
-      "summary": "Six plates show distinct dance-like balances with raised knees, overhead arms and deep leg lifts.",
+      "summary": "The first of six distinct dance plates lifts one bent knee. One palm faces outward near the chest; the other wrist bends down across the body. Finger shapes and foot directions vary between the six plates.",
       "file": "ch1-7.xhtml",
       "images": [
         {

@@ -15,6 +15,9 @@ import {
   Trash2,
   Upload,
 } from 'lucide-react';
+import { useLanguage, LanguageSelector } from '../core/language';
+import { contactName, contactSearch } from '../data/contact';
+import ContactFindings from '../components/ContactFindings';
 import { matchesSearch } from '../core/search';
 import { bookFamilies, bookModels } from '../data/book';
 import { exportJSON } from '../core/export';
@@ -57,6 +60,7 @@ function initial() {
 }
 const clock = (s: number) => `${Math.floor(s / 60)}:${String(Math.floor(s % 60)).padStart(2, '0')}`;
 export default function BookSequence() {
+  const { language } = useLanguage();
   const [loaded] = useState(initial),
     [items, setItems] = useState(() => keyed(loaded.saved.items));
   const [name, setName] = useState(loaded.saved.name),
@@ -105,7 +109,10 @@ export default function BookSequence() {
   const filtered = sequencePostures.filter(
     (e) =>
       (!family || e.family === family) &&
-      matchesSearch(`${e.iast} ${e.english} ${e.sanskrit} ${e.russian} ${e.order}`, query),
+      matchesSearch(
+        `${e.iast} ${e.english} ${e.sanskrit} ${e.russian} ${e.order} ${contactSearch(e.id)}`,
+        query,
+      ),
   );
   function add(id: string, at = items.length) {
     if (!Object.hasOwn(sequenceById, id)) return;
@@ -159,6 +166,7 @@ export default function BookSequence() {
       <div className="page-heading">
         <div>
           <span className="eyebrow">DHIRENDRA BRAHMACHARI · 108 ASANAS</span>
+          <LanguageSelector />
           <h1>
             A sequence of study<span className="period">.</span>
           </h1>
@@ -263,7 +271,7 @@ export default function BookSequence() {
                 <div>
                   <strong>{a.iast}</strong>
                   <small>
-                    {String(a.order).padStart(3, '0')} · {a.english}
+                    {String(a.order).padStart(3, '0')} · {contactName(a, language)}
                   </small>
                 </div>
                 <button
@@ -358,7 +366,7 @@ export default function BookSequence() {
                   <span className="sequence-number">{String(i + 1).padStart(2, '0')}</span>
                   <div>
                     <strong>{sequenceById[item.id].iast}</strong>
-                    <small>{sequenceById[item.id].english}</small>
+                    <small>{contactName(sequenceById[item.id], language)}</small>
                   </div>
                   <label className="sequence-hold">
                     <span>Hold (s)</span>
@@ -419,6 +427,7 @@ export default function BookSequence() {
   );
 }
 function SequencePreview({ items }: { items: SequenceItem[] }) {
+  const { language } = useLanguage();
   const [time, setTime] = useState(0),
     [playing, setPlaying] = useState(false),
     [loop, setLoop] = useState(false);
@@ -462,7 +471,7 @@ function SequencePreview({ items }: { items: SequenceItem[] }) {
       <div className="book-sequence-current">
         <h2>{current.entry.iast}</h2>
         <p>
-          {current.entry.english} ·{' '}
+          {contactName(current.entry, language)} ·{' '}
           {Math.max(0, Math.ceil(items[current.index].holdSeconds - current.elapsed))} seconds
           remaining
         </p>
@@ -532,7 +541,7 @@ function SequencePreview({ items }: { items: SequenceItem[] }) {
         >
           {items.map((item, i) => (
             <option key={i} value={i}>
-              {i + 1}. {sequenceById[item.id].iast} · {sequenceById[item.id].english}
+              {i + 1}. {sequenceById[item.id].iast} · {contactName(sequenceById[item.id], language)}
             </option>
           ))}
         </select>
@@ -547,12 +556,7 @@ function SequencePreview({ items }: { items: SequenceItem[] }) {
         aria-label="Sequence position in seconds"
         onChange={(e) => seek(Number(e.target.value))}
       />
-      <p className="micro">
-        Static book poses with a direct change between steps.{' '}
-        {model.review === 'needs-refinement'
-          ? model.audit.limitation
-          : 'Exact contacts and joint angles remain schematic.'}
-      </p>
+      <ContactFindings id={current.entry.id} />
     </section>
   );
 }
